@@ -22,33 +22,6 @@ This project is a **hybrid food recommendation system** that combines **content-
 
 ---
 
-## Outputs
-
-### Hybrid Recommendations
-The system generates a list of recommended recipes based on user preferences and nutritional constraints. Here’s an example output:
-Hybrid Recommendations: [500481, 6536, 444942, 314004, 469399, 9116, 336285, 373791, 3748, 3877]
-
----
-
-### Model Evaluation
-The collaborative filtering model (SVD) is evaluated using 3-fold cross-validation. Here are the results:
-
-The table below summarizes the model's performance across three folds during cross-validation, including the Root Mean Square Error (RMSE), fit time, and test time.
-
-| Metric         | Fold 1  | Fold 2  | Fold 3  | Mean   | Std Dev |
-|----------------|---------|---------|---------|--------|---------|
-| RMSE (test set)| 1.2280  | 1.2278  | 1.2299  | 1.2286 | 0.0010  |
-| Fit time (s)   | 19.65   | 20.12   | 20.20   | 19.99  | 0.24    |
-| Test time (s)  | 4.54    | 3.21    | 3.92    | 3.89   | 0.55    |
-
-- **Cross-Validation RMSE**: **1.2286**  
-  This value represents the mean RMSE across all folds, showcasing the model's predictive accuracy.
-- **Fit time**: Time taken to train the model per fold, averaged and presented with standard deviation.
-- **Test time**: Time taken to evaluate the model on the test set, averaged and presented with standard deviation.
-
-
----
-
 ## Datasets
 The following datasets were used in this project:
 
@@ -79,6 +52,33 @@ Evaluated using RMSE and cross-validation.
 **Hybrid Model**:
 
 Combines content-based and collaborative filtering recommendations for improved accuracy and relevance.
+
+---
+
+## Outputs
+
+### Hybrid Recommendations
+The system generates a list of recommended recipes based on user preferences and nutritional constraints. Here’s an example output:
+Hybrid Recommendations: [500481, 6536, 444942, 314004, 469399, 9116, 336285, 373791, 3748, 3877]
+
+---
+
+### Model Evaluation
+The collaborative filtering model (SVD) is evaluated using 3-fold cross-validation. Here are the results:
+
+The table below summarizes the model's performance across three folds during cross-validation, including the Root Mean Square Error (RMSE), fit time, and test time.
+
+| Metric         | Fold 1  | Fold 2  | Fold 3  | Mean   | Std Dev |
+|----------------|---------|---------|---------|--------|---------|
+| RMSE (test set)| 1.2280  | 1.2278  | 1.2299  | 1.2286 | 0.0010  |
+| Fit time (s)   | 19.65   | 20.12   | 20.20   | 19.99  | 0.24    |
+| Test time (s)  | 4.54    | 3.21    | 3.92    | 3.89   | 0.55    |
+
+- **Cross-Validation RMSE**: **1.2286**  
+  This value represents the mean RMSE across all folds, showcasing the model's predictive accuracy.
+- **Fit time**: Time taken to train the model per fold, averaged and presented with standard deviation.
+- **Test time**: Time taken to evaluate the model on the test set, averaged and presented with standard deviation.
+
 
 ---
 
