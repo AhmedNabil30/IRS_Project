@@ -1,0 +1,45 @@
+# News Recommendation System
+
+## Introduction
+
+The News Recommendation System leverages advanced machine learning techniques to deliver personalized news articles to users. Built using Python, the system integrates various tools and libraries to process and analyze news data effectively, aiming to enhance user engagement by catering to individual preferences.
+
+## Dataset
+
+The dataset for this project is sourced from the MediaStack API, which provides a diverse array of categorized news articles. This rich dataset enables the system to offer a wide range of news topics, ensuring relevance and personalization in the recommendations made.
+
+## Instructions to Run the News Recommendation System
+
+### Step 1: Download and Install Requirements
+
+1. **Install Python**: Ensure Python 3.7 or higher is installed on your machine. Visit [Python's official site](https://www.python.org/downloads/) for download and installation instructions.
+   
+2. **Download Project Files**: Clone or download the project files from the repository and extract them into a preferred folder.
+
+3. **Navigate to Project Folder**: Open a terminal or command prompt and navigate to the project folder:
+
+
+4. **Install Required Libraries**: Install the necessary Python libraries specified in the requirements.txt file:
+
+
+### Step 2: File Setup
+
+Ensure that the `MediaStack_2090.csv` file and other necessary files are located in the project directory. The directory structure should look like this:
+
+
+### Step 3: Run the Code
+
+Before launching the Streamlit app, initialize all required files and dependencies by running:
+
+
+### Step 4: Start the Streamlit Application
+
+Launch the Streamlit application using:
+
+
+If prompted by Streamlit, you can optionally enter your email address or simply leave it blank and press Enter to continue.
+
+## Support
+
+For any issues or questions, please submit an issue on the GitHub repository, and we will address it as soon as possible.
+
