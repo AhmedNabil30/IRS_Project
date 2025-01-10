@@ -5,7 +5,7 @@ News Recommendation System
 
 ## Introduction
 
-The News Recommendation System leverages advanced machine learning techniques to deliver personalized news articles to users. Built using Python, the system integrates various tools and libraries to process and analyze news data effectively, aiming to enhance user engagement by catering to individual preferences.
+The News Recommendation System  to deliver personalized news articles to users. Built using Python, the system integrates various tools and libraries to process and analyze news data effectively, aiming to enhance user engagement by catering to individual preferences.
 
 ## Dataset
 
