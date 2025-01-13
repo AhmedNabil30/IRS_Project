@@ -1,0 +1,10 @@
+
+location_id,distance,type,popularity,address,opening_hours,average_cost,facilities,weather_conditions,capacity,season,accessibility,special_events,external_ratings
+1,10,Park,0.8,"123 Park Ave", 6:00 AM - 10:00 PM,$0,"Walking Trails, Picnic Areas, Dog Park",Clear,500,Year-Round,Wheelchair Accessible,Weekend Concerts,4.6
+2,20,Museum,0.6,"456 Museum St", 9:00 AM - 5:00 PM,$20,"Exhibits, Guided Tours, Gift Shop",Cloudy,300,Summer,Not Wheelchair Accessible,Art Exhibition,4.2
+3,15,Restaurant,0.7,"789 Food Blvd", 11:00 AM - 10:00 PM,$30,"Outdoor Seating, Live Music",Rainy,100,Spring,Wheelchair Accessible,Food Festival,4.5
+4,5,Mall,0.9,"101 Mall Rd", 10:00 AM - 9:00 PM,$50,"Food Court, Movie Theater, Free Wi-Fi",Clear,2000,Fall,Wheelchair Accessible,Black Friday Sale,4.7
+5,30,Cinema,0.5,"234 Cinema Ln", 12:00 PM - 11:00 PM,$15,"IMAX, Concessions, Reclining Seats",Clear,500,Year-Round,Not Wheelchair Accessible,Premiere Showings,4.4
+6,25,Beach,0.7,"345 Beach Rd", 6:00 AM - 8:00 PM,$0,"Sand Volleyball, Surf Rentals",Sunny,150,Winter,Not Wheelchair Accessible,Surfing Competition,4.8
+7,50,Zoo,0.4,"567 Animal St", 9:00 AM - 6:00 PM,$25,"Animal Exhibits, Petting Zoo, Café",Partly Cloudy,1000,Summer,Wheelchair Accessible,Animal Parade,4.3
+8,10,Library,0.6,"890 Library Blvd", 9:00 AM - 8:00 PM,$0,"Books, Quiet Zones, Study Rooms",Foggy,200,Year-Round,Wheelchair Accessible,Book Club Events,4.5

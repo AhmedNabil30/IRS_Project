@@ -1,0 +1,12 @@
+
+user_id,location_id,interaction_id,interaction_type,timestamp,visit_duration,rating,review,device_type,geolocation_accuracy,mood,age,gender,visit_frequency
+123,1,1001,Rating,2025-01-05 10:00:00,30,5,"Great place to relax!",Mobile,High,Happy,34,Female,Frequent
+123,5,1002,Rating,2025-01-07 14:00:00,45,4,"Good but a bit crowded.",Mobile,Medium,Neutral,34,Female,Occasional
+123,8,1003,Visit,2025-01-08 16:00:00,25,3,"Decent library, not enough seating.",Mobile,High,Frustrated,34,Female,Frequent
+124,2,1004,Rating,2025-01-05 12:00:00,35,4,"Interesting exhibits!",Desktop,High,Excited,28,Male,Infrequent
+124,5,1005,Visit,2025-01-09 17:30:00,60,5,"Highly recommended!",Mobile,Low,Relaxed,28,Male,Frequent
+125,3,1006,Rating,2025-01-06 13:00:00,20,2,"Not my type of food.",Desktop,High,Disappointed,41,Female,Frequent
+125,4,1007,Visit,2025-01-10 09:00:00,120,5,"Great shopping experience.",Mobile,Medium,Happy,41,Female,Frequent
+125,8,1008,Rating,2025-01-11 15:30:00,40,4,"Good atmosphere.",Mobile,High,Content,41,Female,Frequent
+126,6,1009,Rating,2025-01-05 11:00:00,50,4,"Relaxing spot.",Mobile,Medium,Calm,23,Male,Infrequent
+126,7,1010,Visit,2025-01-12 18:00:00,80,3,"Okay, but could be better.",Mobile,Low,Bored,23,Male,Occasional
