@@ -1,0 +1,101 @@
+Promo_ID,Category,Discount,Start_Date,End_Date,Target_Group,Cashback,Min_Spend,Payment_Method_Eligibility,Offer_Type,Store_Location
+1,Electronics,35%,2025-01-01,2025-01-15,"Male, Age 30-50",$9.00,$68,Debit Card,Flat Discount,San Francisco
+2,Beauty,49%,2025-01-02,2025-01-16,Sports Enthusiasts,$12.00,$86,Credit Card,Category Discount,All Walmart Stores
+3,Fashion,29%,2025-01-03,2025-01-17,"Female, Age 18-30",$11.00,$49,Credit Card,Category Discount,New York
+4,Home,47%,2025-01-04,2025-01-18,"Female, Age 18-30",$8.00,$97,All Methods,Flat Discount,San Francisco
+5,Electronics,31%,2025-01-05,2025-01-19,"Male, Age 30-50",$18.00,$66,Credit Card,Category Discount,All Walmart Stores
+6,Beauty,42%,2025-01-06,2025-01-20,"Male, Age 30-50",$19.00,$38,All Methods,Flat Discount,All Walmart Stores
+7,Home,42%,2025-01-07,2025-01-21,"Female, Age 18-30",$7.00,$80,All Methods,Flat Discount,Online Only
+8,Fashion,44%,2025-01-08,2025-01-22,All Users,$8.00,$62,Debit Card,Category Discount,All Walmart Stores
+9,Fashion,41%,2025-01-09,2025-01-23,"Female, Age 18-30",$9.00,$47,All Methods,Category Discount,All Walmart Stores
+10,Electronics,46%,2025-01-10,2025-01-24,"Female, Age 18-30",$5.00,$64,All Methods,Category Discount,New York
+11,Electronics,29%,2025-01-11,2025-01-25,All Users,$20.00,$34,All Methods,Category Discount,New York
+12,Beauty,40%,2025-01-12,2025-01-26,"Female, Age 18-30",$16.00,$18,Credit Card,Flat Discount,San Francisco
+13,Home,11%,2025-01-13,2025-01-27,"Female, Age 18-30",$14.00,$70,Credit Card,BOGO,San Francisco
+14,Sports,33%,2025-01-14,2025-01-28,All Users,$16.00,$96,eWallet,Flat Discount,Online Only
+15,Home,31%,2025-01-15,2025-01-29,All Users,$9.00,$57,Debit Card,Flat Discount,All Walmart Stores
+16,Fashion,17%,2025-01-16,2025-01-30,Sports Enthusiasts,$19.00,$32,eWallet,Category Discount,Online Only
+17,Fashion,36%,2025-01-17,2025-01-31,"Male, Age 30-50",$15.00,$11,All Methods,BOGO,San Francisco
+18,Beauty,47%,2025-01-18,2025-02-01,Sports Enthusiasts,$10.00,$96,All Methods,BOGO,New York
+19,Sports,29%,2025-01-19,2025-02-02,All Users,$14.00,$72,eWallet,BOGO,All Walmart Stores
+20,Beauty,50%,2025-01-20,2025-02-03,"Female, Age 18-30",$5.00,$96,Debit Card,Flat Discount,San Francisco
+21,Fashion,11%,2025-01-21,2025-02-04,All Users,$8.00,$23,All Methods,Category Discount,San Francisco
+22,Fashion,48%,2025-01-22,2025-02-05,"Female, Age 18-30",$12.00,$60,All Methods,Flat Discount,San Francisco
+23,Home,40%,2025-01-23,2025-02-06,Sports Enthusiasts,$9.00,$66,Credit Card,BOGO,Online Only
+24,Sports,26%,2025-01-24,2025-02-07,Sports Enthusiasts,$9.00,$76,All Methods,BOGO,San Francisco
+25,Home,47%,2025-01-25,2025-02-08,Sports Enthusiasts,$12.00,$94,All Methods,Category Discount,Online Only
+26,Home,46%,2025-01-26,2025-02-09,"Female, Age 18-30",$14.00,$96,All Methods,Flat Discount,San Francisco
+27,Beauty,24%,2025-01-27,2025-02-10,"Male, Age 30-50",$9.00,$20,eWallet,Flat Discount,All Walmart Stores
+28,Home,13%,2025-01-28,2025-02-11,"Male, Age 30-50",$11.00,$25,Credit Card,Category Discount,New York
+29,Electronics,47%,2025-01-29,2025-02-12,"Male, Age 30-50",$9.00,$28,All Methods,Flat Discount,San Francisco
+30,Electronics,40%,2025-01-30,2025-02-13,All Users,$7.00,$60,Debit Card,BOGO,All Walmart Stores
+31,Home,20%,2025-01-31,2025-02-14,All Users,$18.00,$61,All Methods,Category Discount,San Francisco
+32,Sports,43%,2025-02-01,2025-02-15,"Female, Age 18-30",$8.00,$98,All Methods,Flat Discount,New York
+33,Home,50%,2025-02-02,2025-02-16,All Users,$7.00,$85,Debit Card,Flat Discount,All Walmart Stores
+34,Fashion,49%,2025-02-03,2025-02-17,"Female, Age 18-30",$5.00,$23,Debit Card,Flat Discount,All Walmart Stores
+35,Fashion,34%,2025-02-04,2025-02-18,Sports Enthusiasts,$20.00,$31,Debit Card,Category Discount,New York
+36,Sports,19%,2025-02-05,2025-02-19,"Female, Age 18-30",$18.00,$18,Credit Card,Flat Discount,San Francisco
+37,Beauty,25%,2025-02-06,2025-02-20,All Users,$6.00,$56,Credit Card,Category Discount,San Francisco
+38,Electronics,12%,2025-02-07,2025-02-21,Sports Enthusiasts,$11.00,$35,Credit Card,Category Discount,New York
+39,Electronics,46%,2025-02-08,2025-02-22,Sports Enthusiasts,$8.00,$53,eWallet,BOGO,Online Only
+40,Beauty,17%,2025-02-09,2025-02-23,"Female, Age 18-30",$6.00,$35,Debit Card,BOGO,All Walmart Stores
+41,Home,22%,2025-02-10,2025-02-24,"Male, Age 30-50",$6.00,$86,Debit Card,Flat Discount,New York
+42,Sports,11%,2025-02-11,2025-02-25,All Users,$20.00,$61,Credit Card,Category Discount,Online Only
+43,Home,38%,2025-02-12,2025-02-26,All Users,$8.00,$25,Debit Card,Category Discount,All Walmart Stores
+44,Beauty,30%,2025-02-13,2025-02-27,"Male, Age 30-50",$13.00,$39,All Methods,Flat Discount,All Walmart Stores
+45,Sports,36%,2025-02-14,2025-02-28,All Users,$6.00,$64,Credit Card,Flat Discount,New York
+46,Electronics,19%,2025-02-15,2025-03-01,"Male, Age 30-50",$7.00,$73,All Methods,BOGO,Online Only
+47,Electronics,36%,2025-02-16,2025-03-02,"Male, Age 30-50",$14.00,$45,Debit Card,Flat Discount,All Walmart Stores
+48,Home,23%,2025-02-17,2025-03-03,Sports Enthusiasts,$5.00,$84,Debit Card,Flat Discount,All Walmart Stores
+49,Fashion,36%,2025-02-18,2025-03-04,Sports Enthusiasts,$8.00,$85,All Methods,BOGO,Online Only
+50,Beauty,42%,2025-02-19,2025-03-05,"Female, Age 18-30",$8.00,$44,Debit Card,Flat Discount,Online Only
+51,Beauty,49%,2025-02-20,2025-03-06,Sports Enthusiasts,$11.00,$92,Credit Card,BOGO,San Francisco
+52,Home,40%,2025-02-21,2025-03-07,"Male, Age 30-50",$11.00,$61,eWallet,Flat Discount,San Francisco
+53,Beauty,13%,2025-02-22,2025-03-08,"Female, Age 18-30",$10.00,$55,eWallet,BOGO,New York
+54,Electronics,18%,2025-02-23,2025-03-09,All Users,$16.00,$70,eWallet,Flat Discount,San Francisco
+55,Home,43%,2025-02-24,2025-03-10,"Male, Age 30-50",$5.00,$95,Debit Card,Flat Discount,New York
+56,Electronics,23%,2025-02-25,2025-03-11,"Female, Age 18-30",$7.00,$87,Credit Card,Category Discount,San Francisco
+57,Sports,45%,2025-02-26,2025-03-12,Sports Enthusiasts,$9.00,$61,Credit Card,Category Discount,New York
+58,Sports,30%,2025-02-27,2025-03-13,"Male, Age 30-50",$13.00,$72,Debit Card,BOGO,San Francisco
+59,Fashion,40%,2025-02-28,2025-03-14,"Female, Age 18-30",$16.00,$75,Credit Card,Flat Discount,New York
+60,Beauty,43%,2025-03-01,2025-03-15,All Users,$16.00,$45,Debit Card,BOGO,Online Only
+61,Sports,34%,2025-03-02,2025-03-16,"Male, Age 30-50",$10.00,$28,eWallet,Category Discount,San Francisco
+62,Beauty,30%,2025-03-03,2025-03-17,"Male, Age 30-50",$12.00,$68,Credit Card,BOGO,All Walmart Stores
+63,Electronics,21%,2025-03-04,2025-03-18,"Female, Age 18-30",$7.00,$23,Debit Card,Flat Discount,New York
+64,Home,39%,2025-03-05,2025-03-19,"Female, Age 18-30",$8.00,$25,Credit Card,Category Discount,Online Only
+65,Sports,44%,2025-03-06,2025-03-20,Sports Enthusiasts,$5.00,$42,All Methods,Category Discount,Online Only
+66,Home,31%,2025-03-07,2025-03-21,Sports Enthusiasts,$11.00,$72,All Methods,Flat Discount,San Francisco
+67,Sports,44%,2025-03-08,2025-03-22,"Male, Age 30-50",$11.00,$73,All Methods,BOGO,All Walmart Stores
+68,Beauty,32%,2025-03-09,2025-03-23,All Users,$14.00,$39,Debit Card,Flat Discount,San Francisco
+69,Sports,26%,2025-03-10,2025-03-24,Sports Enthusiasts,$10.00,$90,Credit Card,BOGO,All Walmart Stores
+70,Sports,49%,2025-03-11,2025-03-25,All Users,$5.00,$27,All Methods,Flat Discount,San Francisco
+71,Electronics,40%,2025-03-12,2025-03-26,"Female, Age 18-30",$8.00,$13,Credit Card,Flat Discount,Online Only
+72,Fashion,22%,2025-03-13,2025-03-27,"Female, Age 18-30",$11.00,$22,Debit Card,Flat Discount,New York
+73,Electronics,25%,2025-03-14,2025-03-28,Sports Enthusiasts,$20.00,$16,All Methods,Flat Discount,Online Only
+74,Home,27%,2025-03-15,2025-03-29,"Male, Age 30-50",$16.00,$18,All Methods,BOGO,Online Only
+75,Beauty,45%,2025-03-16,2025-03-30,"Female, Age 18-30",$10.00,$73,Debit Card,BOGO,New York
+76,Beauty,29%,2025-03-17,2025-03-31,All Users,$19.00,$96,Credit Card,Category Discount,New York
+77,Sports,24%,2025-03-18,2025-04-01,"Male, Age 30-50",$8.00,$13,All Methods,BOGO,New York
+78,Beauty,29%,2025-03-19,2025-04-02,Sports Enthusiasts,$10.00,$32,Credit Card,BOGO,Online Only
+79,Fashion,28%,2025-03-20,2025-04-03,"Female, Age 18-30",$16.00,$58,eWallet,Category Discount,New York
+80,Fashion,23%,2025-03-21,2025-04-04,Sports Enthusiasts,$17.00,$87,Debit Card,Category Discount,San Francisco
+81,Sports,41%,2025-03-22,2025-04-05,"Male, Age 30-50",$18.00,$96,All Methods,BOGO,San Francisco
+82,Sports,30%,2025-03-23,2025-04-06,"Male, Age 30-50",$11.00,$51,Debit Card,BOGO,San Francisco
+83,Home,40%,2025-03-24,2025-04-07,"Male, Age 30-50",$12.00,$29,eWallet,BOGO,San Francisco
+84,Sports,32%,2025-03-25,2025-04-08,All Users,$18.00,$48,Debit Card,Category Discount,All Walmart Stores
+85,Electronics,45%,2025-03-26,2025-04-09,"Male, Age 30-50",$8.00,$89,Debit Card,BOGO,All Walmart Stores
+86,Electronics,27%,2025-03-27,2025-04-10,"Male, Age 30-50",$15.00,$89,All Methods,BOGO,Online Only
+87,Electronics,28%,2025-03-28,2025-04-11,"Female, Age 18-30",$8.00,$22,eWallet,Category Discount,Online Only
+88,Fashion,17%,2025-03-29,2025-04-12,All Users,$19.00,$19,All Methods,Category Discount,New York
+89,Beauty,46%,2025-03-30,2025-04-13,All Users,$8.00,$94,Credit Card,Flat Discount,Online Only
+90,Home,44%,2025-03-31,2025-04-14,Sports Enthusiasts,$9.00,$76,eWallet,Category Discount,New York
+91,Sports,34%,2025-04-01,2025-04-15,"Male, Age 30-50",$20.00,$73,Debit Card,Flat Discount,New York
+92,Home,35%,2025-04-02,2025-04-16,"Female, Age 18-30",$16.00,$69,Debit Card,BOGO,Online Only
+93,Fashion,32%,2025-04-03,2025-04-17,Sports Enthusiasts,$14.00,$35,Credit Card,Category Discount,All Walmart Stores
+94,Sports,19%,2025-04-04,2025-04-18,"Male, Age 30-50",$6.00,$47,Debit Card,Category Discount,New York
+95,Sports,28%,2025-04-05,2025-04-19,All Users,$7.00,$94,All Methods,BOGO,All Walmart Stores
+96,Fashion,12%,2025-04-06,2025-04-20,"Male, Age 30-50",$15.00,$73,eWallet,BOGO,Online Only
+97,Beauty,28%,2025-04-07,2025-04-21,"Male, Age 30-50",$20.00,$72,Credit Card,Category Discount,San Francisco
+98,Sports,15%,2025-04-08,2025-04-22,"Female, Age 18-30",$8.00,$74,Credit Card,Flat Discount,Online Only
+99,Beauty,32%,2025-04-09,2025-04-23,"Female, Age 18-30",$17.00,$43,Debit Card,Flat Discount,All Walmart Stores
+100,Fashion,38%,2025-04-10,2025-04-24,"Female, Age 18-30",$14.00,$79,Debit Card,BOGO,New York

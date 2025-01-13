@@ -1,0 +1,501 @@
+User_ID,Age,Gender,Location,Preferences,ePay_Account_ID,Wallet_Balance,Preferred_Payment_Method,Transaction_History,Walmart_ID,Loyalty_Tier,Frequent_Purchase_Categories,Recent_Purchase_History
+1,58,Male,Houston,Electronics,EP751303,274.25,Debit Card,"['Tx730', 'Tx666', 'Tx383', 'Tx189']",WM840880,Regular,Groceries,"['Tx110', 'Tx67', 'Tx217', 'Tx612', 'Tx12']"
+2,25,Female,New York,Home,EP355671,10.59,Credit Card,"['Tx504', 'Tx486', 'Tx141', 'Tx168']",WM809283,Regular,Toys,"['Tx193', 'Tx565', 'Tx207']"
+3,19,Male,Miami,Home,EP141814,469.49,eWallet,"['Tx232', 'Tx34']",WM129628,Regular,Toys,['Tx247']
+4,65,Female,Houston,Beauty,EP815706,342.49,Debit Card,"['Tx783', 'Tx993', 'Tx16', 'Tx948']",WM831351,Gold,Electronics,"['Tx88', 'Tx584', 'Tx579']"
+5,35,Male,New York,Beauty,EP436526,221.43,Credit Card,"['Tx974', 'Tx423', 'Tx228']",WM798011,Gold,Electronics,['Tx578']
+6,33,Male,San Francisco,Sports,EP499898,216.14,Debit Card,"['Tx776', 'Tx210']",WM776681,Gold,Toys,"['Tx47', 'Tx50', 'Tx323', 'Tx96']"
+7,32,Female,Houston,Electronics,EP934883,438.66,Debit Card,['Tx182'],WM255067,Platinum,Electronics,"['Tx9', 'Tx366', 'Tx770']"
+8,26,Female,San Francisco,Beauty,EP218881,351.84,eWallet,"['Tx888', 'Tx632', 'Tx502', 'Tx705']",WM374025,Platinum,Electronics,"['Tx982', 'Tx408', 'Tx513']"
+9,65,Female,New York,Sports,EP504620,220.19,Credit Card,"['Tx888', 'Tx469', 'Tx909']",WM734845,Regular,Groceries,"['Tx323', 'Tx770']"
+10,24,Male,Houston,Electronics,EP369054,469.83,Debit Card,"['Tx438', 'Tx415']",WM577595,Platinum,Electronics,"['Tx744', 'Tx365', 'Tx998', 'Tx133']"
+11,61,Male,Chicago,Beauty,EP666479,246.24,Debit Card,['Tx623'],WM814149,Platinum,Home Essentials,['Tx340']
+12,65,Male,Chicago,Home,EP859143,386.65,eWallet,"['Tx738', 'Tx321', 'Tx404', 'Tx627']",WM254525,Gold,Groceries,"['Tx919', 'Tx760', 'Tx516', 'Tx104']"
+13,52,Male,Miami,Home,EP396567,181.75,Debit Card,"['Tx609', 'Tx550', 'Tx538', 'Tx657', 'Tx897']",WM366640,Platinum,Apparel,"['Tx827', 'Tx794', 'Tx154', 'Tx25', 'Tx602']"
+14,23,Female,Houston,Electronics,EP125905,404.26,Credit Card,['Tx534'],WM359433,Platinum,Electronics,"['Tx489', 'Tx601', 'Tx890', 'Tx873']"
+15,55,Female,New York,Electronics,EP641975,454.85,Debit Card,['Tx463'],WM731399,Platinum,Electronics,['Tx298']
+16,45,Female,Chicago,Beauty,EP962043,420.22,eWallet,"['Tx847', 'Tx899', 'Tx44', 'Tx899']",WM706435,Regular,Home Essentials,"['Tx156', 'Tx699']"
+17,20,Male,Miami,Beauty,EP907921,292.3,eWallet,"['Tx532', 'Tx551']",WM794791,Gold,Groceries,"['Tx81', 'Tx907', 'Tx641', 'Tx96']"
+18,19,Female,Houston,Electronics,EP493172,218.49,eWallet,"['Tx753', 'Tx41', 'Tx572', 'Tx397']",WM982393,Platinum,Toys,"['Tx906', 'Tx221']"
+19,23,Female,Chicago,Electronics,EP639292,134.71,Debit Card,"['Tx784', 'Tx646', 'Tx986', 'Tx51', 'Tx195']",WM269268,Gold,Electronics,"['Tx788', 'Tx736']"
+20,31,Female,Houston,Sports,EP941814,385.27,eWallet,"['Tx451', 'Tx408', 'Tx906']",WM112936,Gold,Groceries,"['Tx987', 'Tx514']"
+21,32,Female,Miami,Sports,EP633447,455.94,Credit Card,"['Tx793', 'Tx848', 'Tx293']",WM222400,Platinum,Groceries,"['Tx747', 'Tx624', 'Tx668', 'Tx536', 'Tx953']"
+22,50,Male,New York,Sports,EP567200,51.07,Credit Card,"['Tx171', 'Tx433', 'Tx302', 'Tx628']",WM908422,Platinum,Home Essentials,"['Tx459', 'Tx805', 'Tx135']"
+23,56,Male,Miami,Home,EP610451,303.16,Debit Card,['Tx707'],WM196789,Gold,Home Essentials,"['Tx298', 'Tx369', 'Tx639']"
+24,19,Female,New York,Home,EP145981,276.43,Debit Card,"['Tx926', 'Tx146', 'Tx475', 'Tx850', 'Tx662']",WM775699,Gold,Toys,"['Tx41', 'Tx913', 'Tx730', 'Tx793']"
+25,53,Male,San Francisco,Sports,EP410833,136.32,Credit Card,"['Tx93', 'Tx740', 'Tx513', 'Tx116']",WM846176,Regular,Apparel,"['Tx245', 'Tx214', 'Tx626', 'Tx622']"
+26,30,Female,Chicago,Sports,EP783176,12.68,Credit Card,"['Tx798', 'Tx600']",WM503017,Regular,Electronics,['Tx982']
+27,63,Male,San Francisco,Electronics,EP301863,374.39,Credit Card,"['Tx139', 'Tx403', 'Tx424', 'Tx332', 'Tx462']",WM516983,Regular,Electronics,"['Tx581', 'Tx643']"
+28,59,Male,New York,Home,EP435872,13.49,Credit Card,['Tx184'],WM840367,Regular,Apparel,"['Tx100', 'Tx825', 'Tx16', 'Tx147']"
+29,62,Female,Houston,Sports,EP638857,266.04,Credit Card,"['Tx605', 'Tx919', 'Tx730', 'Tx918']",WM714633,Regular,Home Essentials,"['Tx561', 'Tx889', 'Tx993']"
+30,52,Female,New York,Fashion,EP186345,264.68,Credit Card,"['Tx904', 'Tx466']",WM184251,Gold,Home Essentials,['Tx511']
+31,44,Female,New York,Beauty,EP200617,193.76,Credit Card,['Tx257'],WM643725,Platinum,Groceries,['Tx466']
+32,32,Female,Houston,Sports,EP275526,110.66,eWallet,"['Tx709', 'Tx665', 'Tx929']",WM297995,Platinum,Toys,"['Tx174', 'Tx957', 'Tx303']"
+33,46,Male,San Francisco,Home,EP910883,404.1,Credit Card,"['Tx736', 'Tx751']",WM543489,Platinum,Home Essentials,"['Tx70', 'Tx287']"
+34,55,Female,Chicago,Sports,EP664107,210.33,Credit Card,['Tx94'],WM273878,Regular,Groceries,"['Tx373', 'Tx362', 'Tx92', 'Tx73', 'Tx184']"
+35,35,Male,New York,Fashion,EP659106,62.23,Credit Card,['Tx724'],WM970055,Regular,Apparel,"['Tx265', 'Tx485', 'Tx263', 'Tx782']"
+36,18,Female,New York,Electronics,EP107686,218.78,Debit Card,"['Tx650', 'Tx372', 'Tx88', 'Tx537']",WM547607,Platinum,Groceries,"['Tx666', 'Tx947', 'Tx144', 'Tx963']"
+37,28,Male,Chicago,Home,EP757386,296.83,Debit Card,"['Tx745', 'Tx811', 'Tx999', 'Tx524']",WM365154,Platinum,Apparel,['Tx996']
+38,62,Female,New York,Electronics,EP168652,138.04,eWallet,"['Tx973', 'Tx164', 'Tx388', 'Tx564', 'Tx390']",WM825443,Platinum,Apparel,"['Tx500', 'Tx41', 'Tx373', 'Tx880', 'Tx294']"
+39,45,Male,Chicago,Beauty,EP321020,272.69,Debit Card,['Tx787'],WM416900,Gold,Apparel,"['Tx419', 'Tx878', 'Tx635', 'Tx940']"
+40,39,Male,Chicago,Electronics,EP802897,286.69,eWallet,"['Tx935', 'Tx344']",WM624966,Gold,Apparel,"['Tx452', 'Tx376']"
+41,35,Female,Chicago,Sports,EP760093,309.82,Debit Card,"['Tx893', 'Tx676', 'Tx884', 'Tx154', 'Tx167']",WM659102,Platinum,Home Essentials,"['Tx866', 'Tx640', 'Tx975', 'Tx322', 'Tx383']"
+42,27,Female,Houston,Fashion,EP911159,495.98,Debit Card,"['Tx184', 'Tx788']",WM790472,Platinum,Electronics,['Tx699']
+43,31,Male,San Francisco,Electronics,EP323530,204.75,Debit Card,['Tx430'],WM501382,Regular,Apparel,"['Tx519', 'Tx461', 'Tx270', 'Tx899']"
+44,39,Female,San Francisco,Fashion,EP818699,109.81,Debit Card,"['Tx317', 'Tx748', 'Tx788']",WM714549,Platinum,Groceries,['Tx636']
+45,24,Female,Miami,Home,EP544815,280.53,eWallet,"['Tx296', 'Tx642', 'Tx186', 'Tx121']",WM422939,Regular,Electronics,['Tx759']
+46,23,Male,Houston,Home,EP976258,283.21,Credit Card,"['Tx984', 'Tx208']",WM869584,Gold,Groceries,"['Tx717', 'Tx841']"
+47,42,Female,Miami,Sports,EP208975,97.57,eWallet,['Tx638'],WM531603,Gold,Groceries,"['Tx9', 'Tx159', 'Tx874', 'Tx108', 'Tx298']"
+48,24,Female,San Francisco,Sports,EP315565,283.96,Credit Card,"['Tx13', 'Tx470', 'Tx510']",WM889013,Platinum,Groceries,"['Tx163', 'Tx584', 'Tx409', 'Tx875']"
+49,40,Female,San Francisco,Sports,EP663876,247.04,Debit Card,"['Tx557', 'Tx827', 'Tx6', 'Tx623']",WM862998,Platinum,Apparel,['Tx229']
+50,40,Female,San Francisco,Fashion,EP969005,494.37,Debit Card,"['Tx244', 'Tx223', 'Tx603', 'Tx676']",WM193190,Gold,Electronics,"['Tx896', 'Tx474', 'Tx686', 'Tx96']"
+51,56,Female,New York,Beauty,EP836879,293.05,Credit Card,"['Tx465', 'Tx420', 'Tx453', 'Tx82']",WM214582,Gold,Apparel,"['Tx478', 'Tx480', 'Tx658']"
+52,34,Female,Miami,Beauty,EP877388,389.36,Credit Card,"['Tx615', 'Tx7', 'Tx251', 'Tx904', 'Tx561']",WM767083,Platinum,Home Essentials,"['Tx922', 'Tx838', 'Tx477', 'Tx112', 'Tx88']"
+53,20,Male,Houston,Beauty,EP912863,205.08,Credit Card,"['Tx635', 'Tx644', 'Tx571']",WM700426,Regular,Apparel,"['Tx750', 'Tx111']"
+54,64,Male,Miami,Home,EP556379,77.65,Debit Card,"['Tx51', 'Tx190']",WM914419,Regular,Toys,"['Tx787', 'Tx444', 'Tx205', 'Tx412']"
+55,47,Female,San Francisco,Home,EP777968,433.28,eWallet,"['Tx57', 'Tx669']",WM936274,Gold,Groceries,"['Tx67', 'Tx325', 'Tx351']"
+56,52,Female,Houston,Beauty,EP956429,68.35,Credit Card,"['Tx38', 'Tx149', 'Tx875']",WM461122,Regular,Home Essentials,"['Tx498', 'Tx218', 'Tx720', 'Tx760', 'Tx488']"
+57,25,Male,Miami,Sports,EP175623,122.59,eWallet,['Tx684'],WM953779,Platinum,Electronics,['Tx286']
+58,42,Female,San Francisco,Electronics,EP883171,393.72,Debit Card,"['Tx859', 'Tx618', 'Tx306', 'Tx340', 'Tx943']",WM249645,Platinum,Apparel,"['Tx40', 'Tx559', 'Tx160', 'Tx972']"
+59,23,Female,San Francisco,Beauty,EP819368,475.13,Credit Card,['Tx51'],WM382089,Regular,Home Essentials,"['Tx150', 'Tx656', 'Tx219', 'Tx328']"
+60,53,Male,Houston,Electronics,EP261223,59.14,eWallet,['Tx427'],WM885100,Gold,Apparel,"['Tx33', 'Tx616', 'Tx793', 'Tx390', 'Tx64']"
+61,36,Female,Chicago,Beauty,EP124906,259.09,Debit Card,"['Tx166', 'Tx689']",WM319703,Platinum,Apparel,"['Tx809', 'Tx441', 'Tx485']"
+62,58,Female,Houston,Electronics,EP581532,395.18,Debit Card,"['Tx626', 'Tx677', 'Tx709']",WM884639,Regular,Apparel,"['Tx56', 'Tx217']"
+63,57,Male,Chicago,Sports,EP851690,402.42,eWallet,"['Tx587', 'Tx807', 'Tx576', 'Tx182', 'Tx990']",WM517302,Gold,Groceries,['Tx976']
+64,41,Female,New York,Home,EP447828,310.87,eWallet,"['Tx768', 'Tx593', 'Tx369', 'Tx954']",WM832964,Platinum,Groceries,"['Tx277', 'Tx259', 'Tx651', 'Tx181']"
+65,54,Female,Houston,Beauty,EP139726,345.44,Debit Card,['Tx96'],WM423066,Platinum,Groceries,['Tx146']
+66,30,Female,Chicago,Beauty,EP191772,35.51,Credit Card,"['Tx331', 'Tx378', 'Tx920']",WM106732,Platinum,Toys,['Tx281']
+67,63,Female,Miami,Sports,EP176806,200.66,Debit Card,"['Tx840', 'Tx70', 'Tx777', 'Tx438']",WM276578,Gold,Electronics,"['Tx84', 'Tx306', 'Tx895', 'Tx730']"
+68,22,Female,San Francisco,Fashion,EP156904,321.58,eWallet,"['Tx67', 'Tx300', 'Tx483', 'Tx138', 'Tx125']",WM956046,Regular,Apparel,"['Tx893', 'Tx430', 'Tx538', 'Tx220']"
+69,20,Male,New York,Beauty,EP286638,404.14,Debit Card,"['Tx338', 'Tx540', 'Tx424']",WM615609,Platinum,Apparel,"['Tx189', 'Tx851', 'Tx56']"
+70,60,Female,Houston,Electronics,EP932794,413.4,Credit Card,"['Tx215', 'Tx713', 'Tx215', 'Tx627', 'Tx60']",WM101655,Platinum,Apparel,['Tx917']
+71,32,Male,Chicago,Sports,EP364144,241.12,Debit Card,['Tx586'],WM201576,Platinum,Toys,"['Tx351', 'Tx987', 'Tx772', 'Tx305']"
+72,36,Male,Miami,Fashion,EP685193,304.12,Credit Card,"['Tx90', 'Tx496', 'Tx742', 'Tx706', 'Tx620']",WM173234,Platinum,Toys,"['Tx204', 'Tx358']"
+73,23,Female,Chicago,Beauty,EP173863,53.19,eWallet,"['Tx438', 'Tx624', 'Tx869']",WM911329,Platinum,Toys,"['Tx494', 'Tx487', 'Tx549', 'Tx706']"
+74,32,Female,Houston,Beauty,EP702891,138.92,Credit Card,"['Tx266', 'Tx539', 'Tx589']",WM830140,Regular,Apparel,"['Tx989', 'Tx714']"
+75,24,Male,Chicago,Home,EP961530,191.71,Credit Card,"['Tx363', 'Tx950', 'Tx133', 'Tx630', 'Tx577']",WM538136,Regular,Electronics,"['Tx364', 'Tx935', 'Tx710', 'Tx585']"
+76,42,Male,Houston,Fashion,EP338703,308.42,Debit Card,"['Tx533', 'Tx747', 'Tx648', 'Tx510']",WM650462,Platinum,Apparel,"['Tx843', 'Tx11', 'Tx575', 'Tx802']"
+77,35,Female,Chicago,Sports,EP371212,365.0,Credit Card,"['Tx828', 'Tx185', 'Tx905', 'Tx625']",WM537090,Regular,Electronics,"['Tx204', 'Tx80', 'Tx741', 'Tx684', 'Tx593']"
+78,47,Male,San Francisco,Electronics,EP527433,466.04,Credit Card,"['Tx726', 'Tx298']",WM786315,Regular,Toys,"['Tx149', 'Tx332', 'Tx681', 'Tx844', 'Tx962']"
+79,58,Male,Houston,Beauty,EP506881,206.32,Debit Card,"['Tx2', 'Tx122']",WM402346,Platinum,Home Essentials,"['Tx15', 'Tx155', 'Tx919']"
+80,41,Male,Houston,Sports,EP573039,331.53,Credit Card,['Tx477'],WM868650,Platinum,Groceries,"['Tx957', 'Tx152', 'Tx512', 'Tx886']"
+81,28,Male,New York,Home,EP760830,150.37,Debit Card,['Tx756'],WM551883,Regular,Groceries,"['Tx117', 'Tx812', 'Tx994']"
+82,41,Male,San Francisco,Beauty,EP524094,482.13,eWallet,"['Tx819', 'Tx631']",WM278922,Regular,Electronics,"['Tx270', 'Tx534', 'Tx740', 'Tx4']"
+83,40,Male,Houston,Fashion,EP554059,38.16,Credit Card,"['Tx424', 'Tx47', 'Tx342', 'Tx359']",WM284970,Platinum,Toys,"['Tx966', 'Tx853', 'Tx878', 'Tx129']"
+84,31,Female,Miami,Sports,EP431773,389.07,Credit Card,"['Tx826', 'Tx653', 'Tx218', 'Tx12', 'Tx656']",WM492850,Gold,Groceries,"['Tx655', 'Tx993', 'Tx593', 'Tx100']"
+85,60,Male,Chicago,Electronics,EP117711,95.88,Debit Card,"['Tx707', 'Tx289']",WM295454,Gold,Groceries,['Tx224']
+86,35,Female,Miami,Home,EP508422,252.24,Debit Card,"['Tx810', 'Tx70', 'Tx316']",WM838246,Regular,Toys,"['Tx431', 'Tx714']"
+87,62,Female,Chicago,Sports,EP806004,15.25,Credit Card,"['Tx519', 'Tx564', 'Tx332']",WM240857,Regular,Electronics,"['Tx793', 'Tx171', 'Tx616', 'Tx387', 'Tx222']"
+88,61,Male,Chicago,Beauty,EP224052,426.78,Debit Card,['Tx117'],WM307639,Regular,Electronics,"['Tx215', 'Tx976', 'Tx196']"
+89,59,Female,New York,Electronics,EP660814,466.07,Debit Card,"['Tx350', 'Tx406', 'Tx742']",WM610102,Platinum,Home Essentials,"['Tx979', 'Tx15', 'Tx380', 'Tx834', 'Tx373']"
+90,22,Female,Houston,Beauty,EP106185,263.9,Credit Card,"['Tx631', 'Tx984', 'Tx30', 'Tx853', 'Tx180']",WM290824,Regular,Groceries,['Tx310']
+91,56,Female,Chicago,Beauty,EP772580,105.43,Debit Card,"['Tx339', 'Tx854']",WM627028,Platinum,Groceries,"['Tx515', 'Tx839', 'Tx889']"
+92,58,Male,New York,Fashion,EP855274,394.14,Debit Card,"['Tx945', 'Tx689', 'Tx491']",WM215593,Regular,Toys,['Tx717']
+93,28,Male,Miami,Fashion,EP748386,260.17,Debit Card,"['Tx817', 'Tx37', 'Tx662', 'Tx140']",WM572552,Regular,Toys,"['Tx665', 'Tx467', 'Tx424', 'Tx421']"
+94,52,Male,New York,Beauty,EP166309,352.24,eWallet,"['Tx160', 'Tx643', 'Tx472', 'Tx914']",WM694639,Platinum,Apparel,"['Tx361', 'Tx849', 'Tx556']"
+95,64,Male,Miami,Home,EP892682,311.44,Debit Card,"['Tx918', 'Tx344', 'Tx474', 'Tx803', 'Tx834']",WM953929,Gold,Apparel,"['Tx536', 'Tx998', 'Tx784', 'Tx344']"
+96,33,Female,Houston,Fashion,EP882186,340.27,Credit Card,"['Tx951', 'Tx761', 'Tx58', 'Tx856']",WM322899,Regular,Home Essentials,['Tx949']
+97,28,Male,Chicago,Fashion,EP714054,186.27,Debit Card,"['Tx307', 'Tx579', 'Tx743', 'Tx695', 'Tx324']",WM294655,Regular,Electronics,"['Tx470', 'Tx439']"
+98,47,Male,San Francisco,Fashion,EP147727,330.96,Debit Card,"['Tx549', 'Tx20', 'Tx214', 'Tx592', 'Tx702']",WM310701,Regular,Toys,"['Tx182', 'Tx567', 'Tx610']"
+99,42,Female,Miami,Fashion,EP834928,488.07,eWallet,"['Tx819', 'Tx939', 'Tx910']",WM161847,Platinum,Electronics,"['Tx556', 'Tx447']"
+100,35,Male,Chicago,Electronics,EP989455,52.55,Debit Card,"['Tx68', 'Tx993', 'Tx153']",WM886343,Gold,Groceries,"['Tx292', 'Tx866', 'Tx676', 'Tx706']"
+101,58,Male,San Francisco,Beauty,EP176115,145.21,eWallet,"['Tx861', 'Tx32', 'Tx348']",WM291605,Gold,Electronics,"['Tx650', 'Tx291', 'Tx719', 'Tx636']"
+102,62,Male,San Francisco,Electronics,EP475075,205.72,Debit Card,"['Tx642', 'Tx548', 'Tx863', 'Tx170']",WM948485,Platinum,Electronics,['Tx90']
+103,53,Female,Miami,Sports,EP627262,338.13,Debit Card,"['Tx621', 'Tx399', 'Tx192', 'Tx610', 'Tx120']",WM896041,Regular,Home Essentials,['Tx92']
+104,32,Male,Chicago,Sports,EP211291,208.67,eWallet,"['Tx723', 'Tx879', 'Tx323']",WM301205,Gold,Toys,['Tx632']
+105,61,Female,San Francisco,Sports,EP403915,108.15,Credit Card,['Tx279'],WM371950,Platinum,Apparel,"['Tx107', 'Tx509', 'Tx768', 'Tx770']"
+106,38,Female,New York,Electronics,EP925115,17.53,Credit Card,"['Tx89', 'Tx509', 'Tx899', 'Tx244']",WM528649,Regular,Toys,"['Tx950', 'Tx558', 'Tx103', 'Tx649', 'Tx455']"
+107,21,Female,New York,Beauty,EP819195,354.77,Credit Card,"['Tx463', 'Tx850', 'Tx974']",WM562139,Regular,Apparel,"['Tx596', 'Tx826', 'Tx34', 'Tx684', 'Tx297']"
+108,32,Female,Chicago,Sports,EP415989,460.4,Debit Card,"['Tx222', 'Tx538', 'Tx310']",WM757286,Gold,Apparel,"['Tx217', 'Tx229', 'Tx796', 'Tx466']"
+109,20,Female,Houston,Fashion,EP736030,279.3,eWallet,"['Tx115', 'Tx384']",WM754753,Regular,Home Essentials,"['Tx391', 'Tx118', 'Tx201', 'Tx877', 'Tx481']"
+110,38,Male,New York,Sports,EP190707,365.81,Debit Card,['Tx797'],WM214499,Platinum,Groceries,['Tx360']
+111,43,Female,Miami,Home,EP395192,283.97,eWallet,"['Tx936', 'Tx95']",WM767349,Gold,Home Essentials,"['Tx423', 'Tx930', 'Tx841', 'Tx661']"
+112,35,Female,Chicago,Fashion,EP902448,295.64,Debit Card,"['Tx519', 'Tx26', 'Tx819', 'Tx495']",WM274195,Platinum,Groceries,"['Tx8', 'Tx963', 'Tx384', 'Tx801']"
+113,22,Female,San Francisco,Fashion,EP558936,180.26,Credit Card,"['Tx158', 'Tx195', 'Tx349', 'Tx946', 'Tx496']",WM183686,Platinum,Home Essentials,"['Tx520', 'Tx291']"
+114,31,Male,New York,Fashion,EP499941,409.6,Debit Card,"['Tx318', 'Tx795', 'Tx336', 'Tx147', 'Tx788']",WM407364,Gold,Home Essentials,"['Tx901', 'Tx675', 'Tx271']"
+115,54,Female,Chicago,Sports,EP514306,120.88,Debit Card,['Tx842'],WM189870,Regular,Toys,"['Tx859', 'Tx925', 'Tx815']"
+116,63,Female,Chicago,Fashion,EP962057,481.9,eWallet,"['Tx693', 'Tx136', 'Tx211', 'Tx742', 'Tx38']",WM496077,Platinum,Toys,"['Tx690', 'Tx248', 'Tx5', 'Tx922']"
+117,38,Male,Houston,Home,EP792818,232.83,eWallet,"['Tx397', 'Tx731', 'Tx886', 'Tx535']",WM230738,Gold,Groceries,"['Tx34', 'Tx16', 'Tx27', 'Tx158']"
+118,31,Female,San Francisco,Electronics,EP132316,207.94,eWallet,['Tx5'],WM390206,Platinum,Electronics,"['Tx861', 'Tx837', 'Tx532']"
+119,59,Female,San Francisco,Home,EP597012,12.28,Debit Card,"['Tx955', 'Tx46', 'Tx704']",WM167384,Gold,Toys,"['Tx326', 'Tx344', 'Tx175', 'Tx983', 'Tx586']"
+120,49,Male,San Francisco,Beauty,EP263917,95.77,eWallet,"['Tx893', 'Tx90', 'Tx342', 'Tx479', 'Tx911']",WM458772,Platinum,Apparel,"['Tx248', 'Tx570', 'Tx997', 'Tx401']"
+121,43,Female,Miami,Fashion,EP659381,258.06,eWallet,['Tx106'],WM131107,Gold,Electronics,"['Tx632', 'Tx660']"
+122,59,Male,Chicago,Home,EP330545,283.73,eWallet,"['Tx785', 'Tx675', 'Tx764', 'Tx320', 'Tx24']",WM714094,Platinum,Apparel,"['Tx849', 'Tx53', 'Tx821', 'Tx955']"
+123,47,Female,Miami,Sports,EP243006,256.55,Debit Card,"['Tx777', 'Tx320', 'Tx655', 'Tx914', 'Tx215']",WM346184,Platinum,Groceries,"['Tx440', 'Tx132', 'Tx962', 'Tx652', 'Tx400']"
+124,27,Female,Miami,Beauty,EP883028,176.58,eWallet,"['Tx206', 'Tx198', 'Tx294']",WM601111,Platinum,Toys,"['Tx413', 'Tx926']"
+125,34,Female,Chicago,Home,EP509985,67.33,Debit Card,"['Tx546', 'Tx327', 'Tx792']",WM608763,Regular,Groceries,"['Tx530', 'Tx163', 'Tx448']"
+126,26,Male,San Francisco,Fashion,EP935474,261.51,eWallet,"['Tx688', 'Tx121', 'Tx280', 'Tx153']",WM805486,Platinum,Electronics,"['Tx102', 'Tx728']"
+127,33,Male,Chicago,Sports,EP936223,136.27,Debit Card,"['Tx281', 'Tx118']",WM897477,Regular,Home Essentials,"['Tx517', 'Tx122']"
+128,65,Male,Houston,Fashion,EP990731,273.57,Credit Card,['Tx982'],WM205706,Platinum,Home Essentials,"['Tx804', 'Tx402', 'Tx864', 'Tx781', 'Tx643']"
+129,53,Male,Chicago,Beauty,EP672233,398.76,Debit Card,"['Tx574', 'Tx527', 'Tx105', 'Tx212', 'Tx556']",WM109968,Regular,Toys,"['Tx858', 'Tx567', 'Tx163']"
+130,52,Female,Chicago,Home,EP409307,132.57,Debit Card,"['Tx563', 'Tx327', 'Tx278']",WM164022,Regular,Toys,"['Tx209', 'Tx96', 'Tx96']"
+131,34,Male,New York,Fashion,EP764845,226.96,Credit Card,"['Tx966', 'Tx722']",WM379005,Regular,Groceries,['Tx448']
+132,65,Male,Houston,Beauty,EP251074,194.77,eWallet,"['Tx588', 'Tx251', 'Tx176']",WM888318,Regular,Electronics,['Tx644']
+133,55,Male,New York,Sports,EP412534,246.98,Debit Card,['Tx319'],WM107577,Regular,Home Essentials,"['Tx157', 'Tx29', 'Tx633', 'Tx725', 'Tx557']"
+134,45,Female,San Francisco,Home,EP810189,129.2,Debit Card,"['Tx914', 'Tx347', 'Tx554', 'Tx455', 'Tx52']",WM797640,Gold,Toys,['Tx586']
+135,55,Female,San Francisco,Home,EP933635,176.43,eWallet,"['Tx30', 'Tx483']",WM710738,Regular,Home Essentials,"['Tx26', 'Tx761', 'Tx752', 'Tx134']"
+136,43,Female,Houston,Beauty,EP864752,390.04,eWallet,['Tx109'],WM927543,Regular,Toys,"['Tx650', 'Tx647', 'Tx797', 'Tx367']"
+137,41,Female,Miami,Home,EP779414,343.98,eWallet,"['Tx56', 'Tx89', 'Tx437', 'Tx402']",WM143892,Platinum,Home Essentials,"['Tx246', 'Tx669']"
+138,32,Female,Chicago,Sports,EP491255,449.3,eWallet,"['Tx722', 'Tx611']",WM201546,Platinum,Home Essentials,"['Tx305', 'Tx199']"
+139,26,Male,New York,Sports,EP111691,432.39,eWallet,"['Tx645', 'Tx857', 'Tx707', 'Tx717', 'Tx457']",WM321321,Regular,Toys,"['Tx861', 'Tx252', 'Tx744', 'Tx799', 'Tx827']"
+140,50,Male,Houston,Home,EP680412,246.17,Credit Card,"['Tx365', 'Tx320', 'Tx341', 'Tx838', 'Tx203']",WM647707,Platinum,Apparel,"['Tx789', 'Tx267', 'Tx676', 'Tx53']"
+141,49,Female,New York,Fashion,EP682032,136.33,Debit Card,"['Tx81', 'Tx998', 'Tx945', 'Tx774', 'Tx783']",WM930248,Gold,Electronics,"['Tx85', 'Tx958', 'Tx148']"
+142,23,Female,Chicago,Fashion,EP248241,197.51,Credit Card,"['Tx582', 'Tx135', 'Tx96', 'Tx833']",WM107614,Gold,Electronics,['Tx654']
+143,21,Male,Miami,Sports,EP229221,396.44,eWallet,"['Tx100', 'Tx467', 'Tx318', 'Tx701']",WM493914,Regular,Groceries,"['Tx888', 'Tx106', 'Tx114', 'Tx471', 'Tx950']"
+144,25,Female,New York,Fashion,EP143802,117.99,Debit Card,"['Tx482', 'Tx238', 'Tx971', 'Tx230']",WM732275,Platinum,Electronics,"['Tx126', 'Tx110', 'Tx146', 'Tx290', 'Tx269']"
+145,27,Female,Houston,Beauty,EP105274,353.58,Credit Card,"['Tx882', 'Tx918']",WM645337,Platinum,Toys,"['Tx96', 'Tx80']"
+146,58,Male,Chicago,Electronics,EP700538,402.08,Debit Card,"['Tx265', 'Tx935', 'Tx373', 'Tx402', 'Tx188']",WM898347,Gold,Electronics,"['Tx865', 'Tx371', 'Tx935', 'Tx859']"
+147,28,Female,Chicago,Home,EP725637,212.09,Credit Card,"['Tx808', 'Tx882', 'Tx904']",WM378749,Regular,Toys,"['Tx401', 'Tx104']"
+148,61,Female,Miami,Beauty,EP513224,183.02,eWallet,"['Tx465', 'Tx500', 'Tx31']",WM609530,Platinum,Groceries,"['Tx815', 'Tx23', 'Tx424', 'Tx76']"
+149,45,Female,Houston,Sports,EP663244,272.47,Credit Card,['Tx487'],WM596219,Gold,Toys,"['Tx983', 'Tx641', 'Tx79', 'Tx216']"
+150,56,Female,Chicago,Electronics,EP674122,353.4,eWallet,['Tx360'],WM893679,Gold,Home Essentials,"['Tx385', 'Tx912', 'Tx322', 'Tx649']"
+151,22,Male,New York,Sports,EP189261,139.04,Credit Card,"['Tx473', 'Tx867', 'Tx175', 'Tx290']",WM453401,Gold,Toys,"['Tx828', 'Tx165', 'Tx185', 'Tx306']"
+152,42,Female,San Francisco,Electronics,EP419491,150.77,Credit Card,"['Tx619', 'Tx589', 'Tx131']",WM733729,Platinum,Toys,['Tx926']
+153,42,Male,Houston,Beauty,EP320256,205.48,eWallet,"['Tx106', 'Tx416', 'Tx838', 'Tx732', 'Tx816']",WM550314,Regular,Apparel,"['Tx676', 'Tx581']"
+154,56,Female,New York,Electronics,EP884645,376.91,Credit Card,['Tx334'],WM452898,Gold,Apparel,"['Tx876', 'Tx33', 'Tx121', 'Tx1000', 'Tx352']"
+155,47,Female,Miami,Fashion,EP877446,177.58,Debit Card,"['Tx666', 'Tx73', 'Tx812', 'Tx310', 'Tx546']",WM488796,Gold,Electronics,"['Tx496', 'Tx629', 'Tx615']"
+156,51,Female,Miami,Beauty,EP861200,281.73,eWallet,"['Tx411', 'Tx605', 'Tx424', 'Tx245']",WM814982,Regular,Apparel,"['Tx6', 'Tx163', 'Tx535', 'Tx760', 'Tx261']"
+157,34,Male,Chicago,Home,EP460554,97.46,Debit Card,"['Tx250', 'Tx562', 'Tx163', 'Tx998', 'Tx494']",WM459742,Gold,Apparel,['Tx198']
+158,53,Female,Miami,Sports,EP322022,163.8,Debit Card,"['Tx68', 'Tx349', 'Tx214', 'Tx834']",WM430536,Platinum,Toys,"['Tx31', 'Tx549', 'Tx24', 'Tx531', 'Tx525']"
+159,18,Female,San Francisco,Fashion,EP532699,117.1,Debit Card,"['Tx442', 'Tx804', 'Tx446', 'Tx581', 'Tx807']",WM956526,Gold,Groceries,"['Tx222', 'Tx888']"
+160,61,Female,New York,Home,EP777308,291.12,Debit Card,"['Tx558', 'Tx711', 'Tx242']",WM351235,Platinum,Electronics,"['Tx118', 'Tx921', 'Tx223']"
+161,64,Male,Houston,Electronics,EP992819,99.56,Debit Card,"['Tx679', 'Tx686']",WM478756,Regular,Electronics,['Tx336']
+162,25,Female,Chicago,Fashion,EP637450,375.62,Credit Card,['Tx758'],WM797385,Platinum,Groceries,"['Tx226', 'Tx86']"
+163,61,Male,Houston,Home,EP249375,465.83,Credit Card,"['Tx857', 'Tx499', 'Tx118', 'Tx607', 'Tx611']",WM517827,Regular,Toys,"['Tx275', 'Tx281']"
+164,52,Male,New York,Beauty,EP268772,103.18,Credit Card,"['Tx334', 'Tx569', 'Tx100', 'Tx842']",WM496818,Regular,Electronics,"['Tx205', 'Tx977', 'Tx95', 'Tx357']"
+165,35,Female,San Francisco,Electronics,EP292930,371.19,eWallet,"['Tx181', 'Tx316', 'Tx979', 'Tx416']",WM740479,Platinum,Apparel,"['Tx668', 'Tx302', 'Tx479', 'Tx764', 'Tx829']"
+166,59,Male,New York,Home,EP331512,125.08,eWallet,['Tx613'],WM160022,Platinum,Groceries,"['Tx447', 'Tx525', 'Tx970', 'Tx410']"
+167,39,Male,New York,Electronics,EP746850,128.61,Credit Card,['Tx702'],WM473323,Gold,Electronics,"['Tx257', 'Tx178']"
+168,25,Female,Chicago,Home,EP975297,140.05,Credit Card,"['Tx790', 'Tx840', 'Tx389', 'Tx336', 'Tx507']",WM446297,Platinum,Apparel,"['Tx704', 'Tx867']"
+169,36,Male,Houston,Sports,EP365018,122.31,eWallet,['Tx93'],WM945435,Platinum,Electronics,"['Tx985', 'Tx403', 'Tx106']"
+170,45,Female,New York,Beauty,EP303765,419.12,eWallet,"['Tx837', 'Tx143']",WM205043,Platinum,Apparel,"['Tx813', 'Tx785', 'Tx602', 'Tx320', 'Tx170']"
+171,28,Male,New York,Fashion,EP220190,419.8,Debit Card,"['Tx925', 'Tx774', 'Tx652', 'Tx830', 'Tx1']",WM103234,Regular,Groceries,"['Tx977', 'Tx740']"
+172,47,Male,San Francisco,Home,EP290167,184.45,Credit Card,"['Tx677', 'Tx153']",WM579114,Platinum,Electronics,"['Tx444', 'Tx905', 'Tx457', 'Tx434']"
+173,18,Female,Miami,Electronics,EP803571,391.68,Credit Card,"['Tx545', 'Tx299', 'Tx400', 'Tx631']",WM832229,Gold,Electronics,"['Tx766', 'Tx279', 'Tx836', 'Tx327', 'Tx638']"
+174,64,Female,San Francisco,Beauty,EP938504,68.74,eWallet,"['Tx458', 'Tx201', 'Tx211', 'Tx698', 'Tx899']",WM521326,Platinum,Toys,['Tx622']
+175,64,Female,Houston,Fashion,EP694849,48.46,eWallet,"['Tx307', 'Tx584', 'Tx814']",WM860448,Platinum,Groceries,"['Tx440', 'Tx205', 'Tx581', 'Tx362']"
+176,34,Male,Houston,Electronics,EP993650,478.33,Credit Card,"['Tx941', 'Tx966', 'Tx960']",WM976002,Platinum,Groceries,"['Tx920', 'Tx648', 'Tx840']"
+177,50,Female,Chicago,Beauty,EP157030,251.41,Debit Card,"['Tx736', 'Tx938', 'Tx353', 'Tx92']",WM245608,Platinum,Apparel,['Tx461']
+178,29,Female,Miami,Electronics,EP992744,13.25,eWallet,"['Tx9', 'Tx627', 'Tx523', 'Tx414', 'Tx868']",WM126927,Platinum,Toys,"['Tx911', 'Tx35']"
+179,50,Female,Houston,Beauty,EP887524,429.97,Debit Card,"['Tx873', 'Tx302']",WM731147,Regular,Apparel,"['Tx260', 'Tx601', 'Tx420', 'Tx301', 'Tx619']"
+180,24,Female,Miami,Fashion,EP675512,479.42,Credit Card,['Tx379'],WM228864,Gold,Apparel,"['Tx361', 'Tx408', 'Tx31', 'Tx118', 'Tx185']"
+181,58,Female,San Francisco,Fashion,EP583671,425.53,Debit Card,"['Tx992', 'Tx55', 'Tx1', 'Tx721', 'Tx574']",WM656405,Regular,Groceries,"['Tx440', 'Tx810', 'Tx191']"
+182,37,Female,Houston,Electronics,EP775990,191.89,Credit Card,"['Tx113', 'Tx882', 'Tx289']",WM393042,Gold,Toys,"['Tx252', 'Tx75', 'Tx221']"
+183,58,Female,New York,Beauty,EP676365,164.55,Debit Card,['Tx241'],WM833232,Gold,Apparel,"['Tx381', 'Tx149', 'Tx799']"
+184,50,Male,Houston,Home,EP176697,450.08,eWallet,"['Tx720', 'Tx605', 'Tx404', 'Tx641']",WM887941,Gold,Electronics,"['Tx126', 'Tx10', 'Tx327']"
+185,56,Female,Miami,Fashion,EP404771,441.68,eWallet,"['Tx729', 'Tx392', 'Tx416']",WM954643,Regular,Home Essentials,['Tx735']
+186,30,Male,Houston,Home,EP804313,291.51,Credit Card,"['Tx446', 'Tx559', 'Tx217', 'Tx679']",WM360610,Platinum,Toys,"['Tx219', 'Tx477', 'Tx582']"
+187,27,Male,Chicago,Home,EP170634,144.62,eWallet,"['Tx487', 'Tx143']",WM486326,Regular,Apparel,"['Tx921', 'Tx239', 'Tx576']"
+188,41,Female,New York,Sports,EP362865,99.61,Debit Card,"['Tx569', 'Tx394']",WM573870,Regular,Apparel,['Tx395']
+189,28,Male,Chicago,Electronics,EP202972,384.49,Debit Card,"['Tx861', 'Tx428', 'Tx158']",WM748388,Gold,Groceries,"['Tx617', 'Tx218', 'Tx540']"
+190,52,Male,San Francisco,Electronics,EP307007,260.46,Debit Card,"['Tx894', 'Tx687', 'Tx129']",WM819517,Regular,Groceries,"['Tx106', 'Tx575']"
+191,51,Male,Houston,Electronics,EP860835,204.96,Credit Card,"['Tx12', 'Tx74']",WM790881,Platinum,Apparel,"['Tx734', 'Tx623', 'Tx969']"
+192,18,Male,Houston,Beauty,EP708798,377.58,Debit Card,['Tx148'],WM598282,Regular,Electronics,['Tx588']
+193,56,Male,San Francisco,Fashion,EP610856,72.84,Debit Card,"['Tx674', 'Tx448', 'Tx999', 'Tx140']",WM639926,Platinum,Apparel,"['Tx699', 'Tx775', 'Tx446', 'Tx326']"
+194,38,Male,Chicago,Fashion,EP446922,267.61,eWallet,['Tx141'],WM533194,Platinum,Electronics,"['Tx203', 'Tx202', 'Tx51']"
+195,49,Male,New York,Sports,EP474486,217.36,Credit Card,"['Tx881', 'Tx467', 'Tx916', 'Tx808']",WM792299,Gold,Apparel,"['Tx511', 'Tx48', 'Tx282', 'Tx432']"
+196,19,Male,Chicago,Sports,EP234443,470.43,Debit Card,"['Tx953', 'Tx436', 'Tx639', 'Tx185', 'Tx466']",WM297064,Regular,Groceries,['Tx128']
+197,25,Male,Miami,Sports,EP803904,25.96,Debit Card,"['Tx435', 'Tx566', 'Tx840', 'Tx461', 'Tx394']",WM103281,Gold,Toys,"['Tx176', 'Tx616', 'Tx335', 'Tx606']"
+198,41,Male,Chicago,Home,EP787313,180.17,eWallet,"['Tx232', 'Tx191', 'Tx435']",WM769068,Platinum,Toys,"['Tx243', 'Tx591', 'Tx22', 'Tx292']"
+199,37,Female,New York,Electronics,EP345925,431.6,Credit Card,"['Tx8', 'Tx592', 'Tx511', 'Tx868', 'Tx749']",WM952092,Regular,Groceries,['Tx660']
+200,33,Male,Houston,Beauty,EP204904,390.19,Credit Card,"['Tx730', 'Tx514']",WM437833,Gold,Home Essentials,"['Tx5', 'Tx934', 'Tx473', 'Tx292', 'Tx135']"
+201,21,Male,Chicago,Fashion,EP398987,234.03,eWallet,"['Tx421', 'Tx949', 'Tx560']",WM117438,Gold,Apparel,"['Tx38', 'Tx918', 'Tx547', 'Tx941']"
+202,33,Female,San Francisco,Beauty,EP749609,68.98,eWallet,"['Tx376', 'Tx35', 'Tx39', 'Tx582', 'Tx495']",WM764563,Gold,Toys,"['Tx41', 'Tx346', 'Tx661', 'Tx17', 'Tx72']"
+203,54,Female,New York,Electronics,EP173199,263.92,eWallet,"['Tx116', 'Tx595', 'Tx494']",WM477702,Regular,Toys,"['Tx98', 'Tx850', 'Tx822', 'Tx426']"
+204,23,Female,Houston,Electronics,EP302897,164.67,eWallet,['Tx146'],WM147976,Regular,Electronics,"['Tx282', 'Tx325', 'Tx772']"
+205,23,Male,New York,Fashion,EP433222,14.13,Credit Card,"['Tx880', 'Tx769', 'Tx798', 'Tx287', 'Tx477']",WM946785,Gold,Home Essentials,"['Tx410', 'Tx82', 'Tx570']"
+206,64,Male,San Francisco,Home,EP609462,340.31,Credit Card,"['Tx81', 'Tx536', 'Tx912', 'Tx625', 'Tx91']",WM871555,Regular,Electronics,"['Tx506', 'Tx628', 'Tx49']"
+207,49,Male,Miami,Sports,EP572536,195.92,Debit Card,"['Tx484', 'Tx646']",WM441337,Regular,Apparel,"['Tx306', 'Tx714', 'Tx466', 'Tx506']"
+208,22,Female,New York,Home,EP444295,59.37,Debit Card,['Tx701'],WM810860,Gold,Apparel,['Tx864']
+209,52,Male,New York,Electronics,EP746281,187.19,Debit Card,"['Tx818', 'Tx594', 'Tx320', 'Tx628', 'Tx55']",WM565888,Regular,Electronics,"['Tx961', 'Tx633', 'Tx106']"
+210,26,Male,Chicago,Electronics,EP791454,432.3,Credit Card,"['Tx548', 'Tx798', 'Tx12']",WM344903,Gold,Toys,['Tx230']
+211,26,Female,San Francisco,Home,EP420523,101.7,Debit Card,"['Tx465', 'Tx525', 'Tx928', 'Tx481']",WM736237,Regular,Home Essentials,['Tx846']
+212,60,Female,San Francisco,Sports,EP827143,138.8,Debit Card,"['Tx752', 'Tx340', 'Tx432', 'Tx362', 'Tx984']",WM608072,Regular,Electronics,['Tx143']
+213,48,Female,Miami,Sports,EP712546,142.01,eWallet,"['Tx297', 'Tx172', 'Tx37']",WM519603,Regular,Home Essentials,['Tx331']
+214,53,Male,San Francisco,Electronics,EP259797,479.68,Credit Card,"['Tx768', 'Tx312', 'Tx745', 'Tx804', 'Tx578']",WM875112,Platinum,Electronics,"['Tx232', 'Tx175', 'Tx91', 'Tx196']"
+215,28,Male,New York,Sports,EP693024,178.12,eWallet,"['Tx63', 'Tx645', 'Tx485']",WM742349,Platinum,Home Essentials,"['Tx836', 'Tx925', 'Tx551']"
+216,34,Male,Miami,Sports,EP694397,100.12,Debit Card,"['Tx174', 'Tx587', 'Tx53', 'Tx673', 'Tx299']",WM932527,Gold,Apparel,['Tx957']
+217,51,Male,San Francisco,Fashion,EP482199,217.73,Credit Card,"['Tx28', 'Tx294', 'Tx497', 'Tx85', 'Tx130']",WM185321,Platinum,Electronics,['Tx266']
+218,56,Female,Miami,Fashion,EP946934,215.36,eWallet,"['Tx79', 'Tx872', 'Tx803', 'Tx285', 'Tx259']",WM465254,Gold,Home Essentials,['Tx114']
+219,45,Male,San Francisco,Beauty,EP431699,378.58,Debit Card,"['Tx631', 'Tx288']",WM548702,Regular,Groceries,['Tx970']
+220,31,Male,San Francisco,Home,EP549112,188.89,Debit Card,"['Tx879', 'Tx264', 'Tx15']",WM599250,Platinum,Home Essentials,"['Tx77', 'Tx271', 'Tx338']"
+221,52,Female,Chicago,Electronics,EP276831,206.29,Credit Card,['Tx619'],WM790318,Gold,Electronics,"['Tx811', 'Tx832', 'Tx389', 'Tx277', 'Tx716']"
+222,64,Female,San Francisco,Sports,EP105066,230.86,eWallet,"['Tx932', 'Tx606']",WM998734,Platinum,Home Essentials,"['Tx948', 'Tx142']"
+223,62,Female,Miami,Beauty,EP428429,289.99,Debit Card,"['Tx675', 'Tx458']",WM833478,Platinum,Electronics,"['Tx472', 'Tx123', 'Tx130', 'Tx327', 'Tx883']"
+224,30,Male,New York,Fashion,EP358133,489.84,Debit Card,"['Tx828', 'Tx180', 'Tx268']",WM205335,Gold,Electronics,"['Tx772', 'Tx599']"
+225,63,Female,Chicago,Sports,EP923824,346.15,Credit Card,"['Tx497', 'Tx186']",WM869946,Platinum,Electronics,"['Tx653', 'Tx458', 'Tx685', 'Tx126']"
+226,37,Male,San Francisco,Home,EP332286,408.95,Credit Card,"['Tx883', 'Tx34', 'Tx352', 'Tx87', 'Tx991']",WM503553,Gold,Toys,"['Tx541', 'Tx247', 'Tx592', 'Tx490', 'Tx678']"
+227,43,Female,San Francisco,Fashion,EP846794,363.2,Credit Card,"['Tx610', 'Tx957']",WM408137,Platinum,Home Essentials,"['Tx1000', 'Tx288', 'Tx330', 'Tx792']"
+228,60,Female,Miami,Electronics,EP875753,404.0,Debit Card,"['Tx858', 'Tx508']",WM736667,Regular,Electronics,"['Tx232', 'Tx95', 'Tx271', 'Tx785']"
+229,59,Male,Chicago,Sports,EP771967,282.12,Debit Card,"['Tx789', 'Tx393', 'Tx244', 'Tx677']",WM304553,Regular,Apparel,"['Tx729', 'Tx85', 'Tx362']"
+230,41,Female,San Francisco,Beauty,EP557309,429.59,eWallet,"['Tx744', 'Tx653', 'Tx172', 'Tx216']",WM846525,Regular,Groceries,"['Tx856', 'Tx894', 'Tx249', 'Tx676', 'Tx663']"
+231,46,Female,New York,Electronics,EP390119,106.07,eWallet,"['Tx752', 'Tx863', 'Tx354', 'Tx56', 'Tx658']",WM250115,Gold,Apparel,"['Tx712', 'Tx80']"
+232,51,Female,New York,Sports,EP980919,402.02,Debit Card,"['Tx774', 'Tx840', 'Tx119']",WM645316,Gold,Electronics,['Tx996']
+233,46,Male,San Francisco,Sports,EP476948,371.89,Debit Card,['Tx172'],WM699672,Regular,Electronics,"['Tx62', 'Tx218', 'Tx14', 'Tx687']"
+234,25,Female,New York,Sports,EP240829,241.76,Debit Card,"['Tx409', 'Tx488', 'Tx309', 'Tx488']",WM922987,Gold,Home Essentials,"['Tx480', 'Tx839']"
+235,33,Male,Chicago,Sports,EP812591,14.77,Credit Card,"['Tx240', 'Tx389', 'Tx700', 'Tx723', 'Tx400']",WM998422,Platinum,Toys,"['Tx193', 'Tx500', 'Tx108', 'Tx349']"
+236,32,Female,San Francisco,Sports,EP868577,216.55,Credit Card,"['Tx269', 'Tx149', 'Tx544', 'Tx892']",WM851478,Platinum,Electronics,"['Tx834', 'Tx605']"
+237,22,Female,Miami,Electronics,EP447668,75.89,eWallet,"['Tx13', 'Tx296', 'Tx950', 'Tx817']",WM629149,Platinum,Groceries,"['Tx527', 'Tx880', 'Tx321', 'Tx779', 'Tx968']"
+238,39,Female,Chicago,Home,EP603268,447.7,eWallet,"['Tx392', 'Tx695', 'Tx324', 'Tx985']",WM133287,Platinum,Electronics,"['Tx726', 'Tx465', 'Tx672']"
+239,19,Female,New York,Home,EP585331,319.02,eWallet,"['Tx700', 'Tx979', 'Tx43', 'Tx100', 'Tx940']",WM234072,Platinum,Groceries,"['Tx869', 'Tx517']"
+240,55,Female,San Francisco,Electronics,EP566991,271.65,Credit Card,"['Tx653', 'Tx363', 'Tx980', 'Tx865', 'Tx443']",WM622112,Gold,Home Essentials,['Tx937']
+241,53,Female,Chicago,Home,EP476167,164.71,Credit Card,"['Tx941', 'Tx668', 'Tx879', 'Tx280', 'Tx344']",WM935527,Gold,Electronics,"['Tx225', 'Tx939']"
+242,32,Male,New York,Beauty,EP912402,248.44,eWallet,"['Tx274', 'Tx822', 'Tx101']",WM191320,Platinum,Home Essentials,"['Tx395', 'Tx999', 'Tx464']"
+243,55,Male,San Francisco,Beauty,EP420310,132.98,Credit Card,"['Tx671', 'Tx599', 'Tx401']",WM415986,Regular,Home Essentials,"['Tx526', 'Tx208', 'Tx799', 'Tx410', 'Tx193']"
+244,32,Female,Houston,Electronics,EP610626,430.67,eWallet,"['Tx792', 'Tx692', 'Tx768', 'Tx248']",WM972786,Gold,Groceries,['Tx285']
+245,18,Female,Miami,Beauty,EP678469,33.38,Debit Card,"['Tx789', 'Tx200', 'Tx533', 'Tx346', 'Tx694']",WM805756,Regular,Toys,"['Tx169', 'Tx703', 'Tx315', 'Tx975']"
+246,22,Male,New York,Electronics,EP214119,58.5,Debit Card,"['Tx321', 'Tx561']",WM675402,Platinum,Electronics,"['Tx664', 'Tx105', 'Tx151', 'Tx473', 'Tx898']"
+247,63,Female,New York,Beauty,EP284308,90.04,Credit Card,['Tx689'],WM589478,Platinum,Groceries,['Tx763']
+248,58,Female,Houston,Fashion,EP776909,115.58,Debit Card,['Tx852'],WM276216,Platinum,Toys,['Tx247']
+249,21,Female,Houston,Electronics,EP736095,134.6,eWallet,['Tx13'],WM567965,Regular,Groceries,['Tx916']
+250,32,Male,Chicago,Sports,EP185955,421.1,eWallet,"['Tx101', 'Tx538', 'Tx107', 'Tx702']",WM221297,Platinum,Home Essentials,"['Tx192', 'Tx274', 'Tx30', 'Tx488']"
+251,22,Female,Miami,Beauty,EP982683,57.19,Credit Card,"['Tx360', 'Tx225', 'Tx743', 'Tx291']",WM605590,Regular,Home Essentials,"['Tx464', 'Tx361', 'Tx272', 'Tx122', 'Tx950']"
+252,20,Female,Miami,Fashion,EP394247,374.85,eWallet,"['Tx198', 'Tx35', 'Tx25']",WM794830,Regular,Groceries,"['Tx87', 'Tx363', 'Tx442', 'Tx218', 'Tx155']"
+253,39,Male,New York,Electronics,EP966589,137.29,Debit Card,"['Tx95', 'Tx59', 'Tx962', 'Tx609', 'Tx673']",WM666931,Gold,Groceries,"['Tx515', 'Tx442', 'Tx521', 'Tx342']"
+254,22,Female,Houston,Beauty,EP246802,186.55,eWallet,"['Tx974', 'Tx614']",WM352603,Platinum,Groceries,['Tx452']
+255,50,Male,Miami,Sports,EP664781,283.17,Debit Card,['Tx726'],WM355177,Platinum,Groceries,"['Tx379', 'Tx101', 'Tx51']"
+256,33,Female,San Francisco,Beauty,EP305973,406.91,Credit Card,['Tx89'],WM321921,Gold,Electronics,"['Tx750', 'Tx951', 'Tx433', 'Tx199']"
+257,35,Female,Miami,Fashion,EP376021,178.63,Credit Card,"['Tx134', 'Tx385', 'Tx673', 'Tx783', 'Tx922']",WM278711,Regular,Electronics,"['Tx194', 'Tx413', 'Tx181']"
+258,60,Female,New York,Home,EP869177,211.76,eWallet,"['Tx823', 'Tx991', 'Tx190', 'Tx918', 'Tx114']",WM889842,Platinum,Groceries,"['Tx283', 'Tx543', 'Tx623', 'Tx506', 'Tx532']"
+259,49,Female,Miami,Home,EP757057,182.03,Debit Card,"['Tx260', 'Tx302']",WM791792,Platinum,Apparel,"['Tx112', 'Tx698', 'Tx52', 'Tx662']"
+260,31,Female,Chicago,Fashion,EP180176,343.0,Credit Card,"['Tx677', 'Tx959', 'Tx78', 'Tx655']",WM833907,Gold,Electronics,"['Tx982', 'Tx114']"
+261,52,Male,Houston,Fashion,EP862760,306.73,eWallet,"['Tx945', 'Tx284', 'Tx788', 'Tx438']",WM193776,Platinum,Toys,"['Tx118', 'Tx55']"
+262,26,Male,New York,Electronics,EP179062,292.66,eWallet,"['Tx264', 'Tx166', 'Tx800']",WM210592,Regular,Groceries,['Tx590']
+263,64,Male,New York,Home,EP119535,328.43,Debit Card,['Tx284'],WM556018,Platinum,Groceries,"['Tx245', 'Tx68', 'Tx545']"
+264,54,Male,Houston,Electronics,EP990856,273.83,Debit Card,['Tx392'],WM850534,Platinum,Groceries,['Tx283']
+265,54,Female,Houston,Beauty,EP631815,489.89,Credit Card,"['Tx341', 'Tx62', 'Tx265', 'Tx979']",WM130641,Gold,Toys,"['Tx904', 'Tx636']"
+266,48,Female,Houston,Fashion,EP762308,149.46,Debit Card,"['Tx183', 'Tx452', 'Tx72']",WM268018,Platinum,Apparel,"['Tx402', 'Tx403', 'Tx104', 'Tx226']"
+267,33,Male,New York,Electronics,EP132709,169.29,Debit Card,"['Tx951', 'Tx206', 'Tx625', 'Tx403']",WM442360,Gold,Groceries,"['Tx508', 'Tx211', 'Tx176']"
+268,48,Female,Houston,Fashion,EP952117,260.12,Debit Card,"['Tx661', 'Tx504']",WM502118,Regular,Electronics,"['Tx356', 'Tx653']"
+269,44,Female,Houston,Electronics,EP710156,389.62,Debit Card,['Tx148'],WM903533,Gold,Electronics,"['Tx723', 'Tx611', 'Tx295']"
+270,30,Female,New York,Beauty,EP707021,229.0,Credit Card,"['Tx788', 'Tx442', 'Tx224', 'Tx629', 'Tx659']",WM393976,Gold,Home Essentials,['Tx97']
+271,24,Male,New York,Beauty,EP524814,48.42,Credit Card,['Tx935'],WM331081,Gold,Toys,"['Tx516', 'Tx930']"
+272,24,Male,Chicago,Sports,EP906564,310.7,Credit Card,"['Tx733', 'Tx266', 'Tx106', 'Tx36']",WM854109,Platinum,Home Essentials,"['Tx489', 'Tx757', 'Tx313', 'Tx874', 'Tx929']"
+273,60,Female,Miami,Home,EP718697,237.24,eWallet,['Tx73'],WM370143,Gold,Electronics,"['Tx175', 'Tx323']"
+274,45,Male,San Francisco,Sports,EP323095,478.73,eWallet,"['Tx746', 'Tx257', 'Tx796', 'Tx457', 'Tx20']",WM798281,Gold,Apparel,['Tx171']
+275,40,Female,New York,Home,EP138436,435.45,eWallet,"['Tx153', 'Tx669', 'Tx656', 'Tx1']",WM599439,Gold,Apparel,"['Tx341', 'Tx922']"
+276,45,Male,San Francisco,Beauty,EP678388,323.88,Debit Card,['Tx681'],WM803176,Platinum,Home Essentials,"['Tx146', 'Tx986', 'Tx14', 'Tx683']"
+277,44,Female,Chicago,Electronics,EP373276,465.0,Debit Card,"['Tx273', 'Tx156', 'Tx717', 'Tx338']",WM229077,Platinum,Electronics,"['Tx439', 'Tx343', 'Tx22', 'Tx182']"
+278,47,Female,Miami,Fashion,EP669868,216.69,Credit Card,"['Tx589', 'Tx4', 'Tx528', 'Tx725']",WM797802,Regular,Electronics,"['Tx903', 'Tx79', 'Tx175']"
+279,64,Female,Miami,Beauty,EP665892,310.03,Credit Card,"['Tx490', 'Tx447', 'Tx414', 'Tx865']",WM242350,Gold,Groceries,['Tx609']
+280,21,Female,Miami,Beauty,EP595036,208.34,Debit Card,['Tx554'],WM660509,Platinum,Toys,"['Tx993', 'Tx486', 'Tx598']"
+281,61,Female,Chicago,Electronics,EP785672,454.47,eWallet,"['Tx4', 'Tx394']",WM764323,Regular,Apparel,['Tx501']
+282,59,Female,Houston,Beauty,EP912853,48.76,eWallet,"['Tx125', 'Tx581', 'Tx549', 'Tx958']",WM860652,Gold,Toys,"['Tx484', 'Tx113']"
+283,59,Female,Miami,Beauty,EP255852,178.38,eWallet,"['Tx342', 'Tx699', 'Tx311']",WM615856,Gold,Groceries,['Tx839']
+284,24,Female,Miami,Electronics,EP483588,163.61,eWallet,"['Tx57', 'Tx648', 'Tx982', 'Tx663']",WM194835,Gold,Groceries,['Tx581']
+285,21,Female,Chicago,Beauty,EP511564,329.98,Credit Card,['Tx375'],WM934184,Regular,Groceries,"['Tx856', 'Tx234', 'Tx538']"
+286,43,Female,Houston,Home,EP334153,358.11,eWallet,"['Tx874', 'Tx984', 'Tx349', 'Tx83', 'Tx862']",WM825388,Platinum,Groceries,"['Tx172', 'Tx774', 'Tx151', 'Tx794', 'Tx97']"
+287,64,Female,Miami,Home,EP909652,306.64,eWallet,"['Tx779', 'Tx785', 'Tx297', 'Tx664']",WM448967,Regular,Toys,['Tx312']
+288,39,Male,Miami,Home,EP718241,203.77,Debit Card,"['Tx181', 'Tx568']",WM334677,Regular,Apparel,"['Tx464', 'Tx503', 'Tx753']"
+289,24,Male,Houston,Home,EP868844,444.97,Debit Card,['Tx991'],WM703950,Platinum,Groceries,"['Tx559', 'Tx264', 'Tx680']"
+290,33,Male,New York,Beauty,EP998801,392.68,Credit Card,"['Tx677', 'Tx196', 'Tx307', 'Tx713']",WM903562,Regular,Toys,"['Tx260', 'Tx374', 'Tx470', 'Tx14']"
+291,30,Female,New York,Fashion,EP405134,470.0,eWallet,"['Tx918', 'Tx110', 'Tx646', 'Tx706']",WM729858,Regular,Home Essentials,"['Tx309', 'Tx728', 'Tx342']"
+292,30,Male,Miami,Home,EP240384,376.47,Credit Card,"['Tx499', 'Tx87', 'Tx907']",WM167808,Regular,Electronics,"['Tx794', 'Tx680', 'Tx878', 'Tx886', 'Tx924']"
+293,52,Male,San Francisco,Home,EP587274,265.26,eWallet,"['Tx753', 'Tx195', 'Tx144', 'Tx37']",WM775268,Platinum,Groceries,"['Tx496', 'Tx116', 'Tx277', 'Tx703', 'Tx532']"
+294,46,Male,Houston,Beauty,EP625465,230.64,Debit Card,"['Tx26', 'Tx738']",WM459898,Regular,Electronics,['Tx152']
+295,26,Male,Houston,Sports,EP635205,91.99,eWallet,"['Tx245', 'Tx501', 'Tx399', 'Tx65', 'Tx812']",WM495323,Regular,Groceries,"['Tx877', 'Tx226', 'Tx676', 'Tx146']"
+296,45,Female,San Francisco,Beauty,EP194952,428.56,Debit Card,"['Tx659', 'Tx316', 'Tx512', 'Tx547', 'Tx989']",WM852293,Platinum,Electronics,"['Tx510', 'Tx32', 'Tx251']"
+297,29,Female,Houston,Electronics,EP516059,71.27,Credit Card,"['Tx990', 'Tx17', 'Tx38', 'Tx348']",WM879058,Gold,Home Essentials,"['Tx759', 'Tx713', 'Tx997', 'Tx442', 'Tx369']"
+298,35,Female,Chicago,Home,EP481540,124.97,eWallet,['Tx346'],WM871754,Platinum,Home Essentials,"['Tx763', 'Tx92']"
+299,47,Male,Houston,Electronics,EP626560,133.31,Credit Card,['Tx416'],WM860247,Gold,Electronics,"['Tx943', 'Tx978']"
+300,33,Male,Houston,Home,EP111106,374.5,Credit Card,['Tx217'],WM500189,Regular,Apparel,"['Tx655', 'Tx111', 'Tx989', 'Tx281']"
+301,22,Female,Houston,Sports,EP794868,377.37,Credit Card,"['Tx470', 'Tx963', 'Tx695', 'Tx892', 'Tx896']",WM785684,Gold,Apparel,"['Tx921', 'Tx935', 'Tx461', 'Tx982', 'Tx898']"
+302,46,Male,New York,Fashion,EP350484,113.18,Debit Card,"['Tx153', 'Tx759', 'Tx594', 'Tx239', 'Tx948']",WM773292,Platinum,Electronics,"['Tx180', 'Tx272', 'Tx933', 'Tx696', 'Tx358']"
+303,53,Female,Chicago,Sports,EP989173,204.55,eWallet,['Tx38'],WM923218,Platinum,Home Essentials,"['Tx401', 'Tx604', 'Tx428']"
+304,24,Male,Houston,Beauty,EP945718,56.82,Credit Card,"['Tx501', 'Tx670']",WM689194,Platinum,Groceries,"['Tx317', 'Tx196', 'Tx43']"
+305,21,Female,Chicago,Beauty,EP743863,469.03,Debit Card,['Tx483'],WM997728,Regular,Home Essentials,"['Tx533', 'Tx719', 'Tx352', 'Tx855', 'Tx628']"
+306,59,Male,Chicago,Electronics,EP817395,241.86,Credit Card,"['Tx47', 'Tx249', 'Tx719', 'Tx665', 'Tx134']",WM558188,Gold,Electronics,['Tx444']
+307,52,Male,Chicago,Electronics,EP273899,36.37,Credit Card,['Tx177'],WM947718,Gold,Groceries,"['Tx581', 'Tx992', 'Tx812', 'Tx812']"
+308,18,Female,San Francisco,Beauty,EP893988,387.76,Debit Card,['Tx927'],WM344703,Platinum,Electronics,"['Tx296', 'Tx113', 'Tx993']"
+309,23,Male,Houston,Beauty,EP639111,266.75,Credit Card,"['Tx841', 'Tx813', 'Tx100']",WM334410,Platinum,Groceries,['Tx511']
+310,33,Male,New York,Beauty,EP247189,498.05,Credit Card,"['Tx626', 'Tx175', 'Tx856', 'Tx606']",WM371679,Platinum,Apparel,"['Tx478', 'Tx698']"
+311,28,Female,New York,Home,EP567896,60.92,Debit Card,['Tx838'],WM221309,Platinum,Apparel,"['Tx536', 'Tx990']"
+312,44,Male,New York,Sports,EP266956,312.87,Credit Card,['Tx117'],WM405110,Platinum,Groceries,"['Tx639', 'Tx572', 'Tx681']"
+313,49,Female,New York,Home,EP287847,51.31,eWallet,"['Tx610', 'Tx819', 'Tx631', 'Tx226']",WM191939,Regular,Toys,"['Tx311', 'Tx499']"
+314,48,Male,Houston,Fashion,EP693868,466.48,Credit Card,['Tx824'],WM216793,Gold,Apparel,"['Tx67', 'Tx819', 'Tx302']"
+315,31,Male,New York,Home,EP693297,201.02,eWallet,"['Tx437', 'Tx346']",WM193469,Regular,Groceries,['Tx465']
+316,43,Female,Chicago,Beauty,EP791444,122.38,Debit Card,"['Tx333', 'Tx124', 'Tx1000', 'Tx701']",WM456765,Platinum,Apparel,['Tx223']
+317,21,Female,San Francisco,Home,EP253300,371.42,Credit Card,"['Tx559', 'Tx141', 'Tx330', 'Tx857', 'Tx988']",WM876555,Regular,Groceries,"['Tx846', 'Tx608', 'Tx127']"
+318,28,Female,Miami,Electronics,EP871667,227.15,eWallet,"['Tx783', 'Tx47']",WM720967,Platinum,Groceries,['Tx501']
+319,42,Female,New York,Beauty,EP867562,71.94,eWallet,"['Tx178', 'Tx344', 'Tx65', 'Tx124', 'Tx281']",WM297296,Regular,Toys,"['Tx6', 'Tx441', 'Tx361']"
+320,18,Female,Miami,Sports,EP606990,268.1,eWallet,"['Tx776', 'Tx426']",WM880788,Platinum,Electronics,['Tx52']
+321,42,Male,Miami,Home,EP476224,93.6,Credit Card,"['Tx714', 'Tx379']",WM221746,Gold,Electronics,"['Tx142', 'Tx359', 'Tx900']"
+322,34,Male,Miami,Beauty,EP142383,27.23,eWallet,"['Tx169', 'Tx450', 'Tx250', 'Tx948', 'Tx596']",WM700665,Platinum,Home Essentials,"['Tx805', 'Tx880', 'Tx515']"
+323,47,Female,Chicago,Electronics,EP329448,184.85,Credit Card,['Tx137'],WM485600,Platinum,Toys,"['Tx159', 'Tx977', 'Tx89', 'Tx731', 'Tx278']"
+324,36,Female,New York,Electronics,EP898461,458.48,Debit Card,['Tx811'],WM233606,Platinum,Apparel,"['Tx751', 'Tx202']"
+325,45,Male,Houston,Home,EP611329,433.48,Debit Card,"['Tx386', 'Tx797', 'Tx162', 'Tx17', 'Tx901']",WM994781,Gold,Toys,"['Tx600', 'Tx941', 'Tx83', 'Tx298']"
+326,62,Male,Chicago,Beauty,EP343007,238.92,Credit Card,"['Tx83', 'Tx7', 'Tx8', 'Tx184']",WM428594,Regular,Electronics,"['Tx33', 'Tx485']"
+327,64,Female,Houston,Sports,EP165914,436.74,Credit Card,['Tx724'],WM498663,Platinum,Home Essentials,"['Tx255', 'Tx832', 'Tx695']"
+328,53,Female,New York,Fashion,EP377198,468.08,Debit Card,"['Tx909', 'Tx291', 'Tx427', 'Tx711', 'Tx827']",WM704941,Platinum,Electronics,"['Tx433', 'Tx409', 'Tx991', 'Tx926']"
+329,60,Male,Chicago,Electronics,EP487380,278.79,Debit Card,"['Tx709', 'Tx130', 'Tx212', 'Tx147']",WM872714,Platinum,Apparel,['Tx915']
+330,63,Male,Miami,Fashion,EP345386,76.21,eWallet,"['Tx536', 'Tx462', 'Tx422']",WM101760,Platinum,Toys,"['Tx943', 'Tx310', 'Tx612']"
+331,49,Male,Chicago,Sports,EP144887,474.76,Debit Card,"['Tx961', 'Tx179']",WM425896,Platinum,Apparel,"['Tx178', 'Tx578', 'Tx447']"
+332,27,Male,Chicago,Home,EP801062,274.25,eWallet,"['Tx709', 'Tx39', 'Tx611', 'Tx185', 'Tx735']",WM164891,Regular,Apparel,"['Tx824', 'Tx593', 'Tx143']"
+333,30,Female,New York,Electronics,EP316818,299.51,Debit Card,"['Tx627', 'Tx974', 'Tx91', 'Tx643']",WM718722,Platinum,Groceries,"['Tx257', 'Tx139']"
+334,36,Male,Miami,Fashion,EP643042,233.71,Debit Card,"['Tx357', 'Tx429', 'Tx5']",WM661620,Gold,Apparel,"['Tx568', 'Tx205', 'Tx309', 'Tx313']"
+335,31,Male,Miami,Electronics,EP929906,376.97,Credit Card,"['Tx242', 'Tx197', 'Tx121', 'Tx543', 'Tx98']",WM299080,Regular,Home Essentials,['Tx305']
+336,21,Male,San Francisco,Fashion,EP478799,439.87,Debit Card,"['Tx371', 'Tx884', 'Tx780', 'Tx553', 'Tx520']",WM988268,Platinum,Apparel,"['Tx950', 'Tx644', 'Tx473', 'Tx559', 'Tx188']"
+337,55,Female,San Francisco,Beauty,EP506945,223.14,Debit Card,"['Tx476', 'Tx789']",WM507000,Platinum,Apparel,"['Tx802', 'Tx897', 'Tx854', 'Tx448']"
+338,65,Male,Houston,Beauty,EP592489,323.5,Debit Card,"['Tx284', 'Tx55']",WM544280,Regular,Groceries,['Tx142']
+339,52,Female,San Francisco,Home,EP576728,271.55,Credit Card,"['Tx116', 'Tx816']",WM435169,Regular,Groceries,"['Tx453', 'Tx711', 'Tx321', 'Tx516', 'Tx958']"
+340,21,Female,New York,Sports,EP148693,455.37,eWallet,"['Tx702', 'Tx865']",WM908746,Regular,Electronics,"['Tx480', 'Tx363', 'Tx438']"
+341,65,Female,Chicago,Electronics,EP141843,246.01,Debit Card,"['Tx510', 'Tx181', 'Tx164', 'Tx687']",WM482755,Gold,Electronics,"['Tx431', 'Tx985', 'Tx421', 'Tx473']"
+342,38,Female,Miami,Sports,EP780027,121.29,Debit Card,['Tx56'],WM936258,Regular,Apparel,['Tx935']
+343,21,Female,Chicago,Fashion,EP439813,53.88,Debit Card,"['Tx292', 'Tx215', 'Tx446']",WM812299,Platinum,Electronics,"['Tx28', 'Tx981', 'Tx786', 'Tx432', 'Tx91']"
+344,21,Female,New York,Home,EP208239,160.86,Credit Card,"['Tx343', 'Tx632', 'Tx825']",WM935259,Gold,Home Essentials,"['Tx630', 'Tx929']"
+345,55,Male,Chicago,Beauty,EP837920,211.98,eWallet,"['Tx45', 'Tx107', 'Tx759', 'Tx54']",WM232442,Regular,Home Essentials,"['Tx806', 'Tx249', 'Tx595']"
+346,48,Male,Miami,Beauty,EP646699,86.3,Credit Card,"['Tx181', 'Tx162', 'Tx805', 'Tx30', 'Tx497']",WM644998,Gold,Home Essentials,"['Tx383', 'Tx131', 'Tx636', 'Tx557', 'Tx922']"
+347,50,Male,San Francisco,Home,EP764343,15.17,Credit Card,"['Tx119', 'Tx73', 'Tx917', 'Tx241', 'Tx739']",WM795984,Gold,Groceries,"['Tx899', 'Tx301', 'Tx55', 'Tx774', 'Tx866']"
+348,51,Male,Houston,Electronics,EP969948,266.42,eWallet,"['Tx607', 'Tx594', 'Tx334', 'Tx430']",WM730841,Gold,Groceries,"['Tx129', 'Tx413', 'Tx687', 'Tx7']"
+349,28,Female,Miami,Sports,EP386780,381.56,Credit Card,"['Tx766', 'Tx694']",WM719473,Regular,Toys,"['Tx827', 'Tx782', 'Tx896', 'Tx531']"
+350,21,Male,Miami,Fashion,EP975427,76.79,Debit Card,"['Tx236', 'Tx798', 'Tx113']",WM332932,Gold,Home Essentials,"['Tx860', 'Tx56', 'Tx87', 'Tx57']"
+351,50,Male,Miami,Sports,EP877948,150.51,Debit Card,"['Tx234', 'Tx101', 'Tx243']",WM211763,Regular,Apparel,"['Tx850', 'Tx666', 'Tx110']"
+352,23,Male,Miami,Beauty,EP376106,272.2,eWallet,"['Tx891', 'Tx205', 'Tx385', 'Tx913']",WM514515,Gold,Electronics,"['Tx609', 'Tx100', 'Tx842']"
+353,29,Male,New York,Home,EP706739,347.01,Credit Card,"['Tx76', 'Tx483']",WM109634,Platinum,Groceries,"['Tx580', 'Tx494', 'Tx708']"
+354,22,Male,Miami,Beauty,EP670792,251.05,eWallet,"['Tx497', 'Tx56', 'Tx912', 'Tx447', 'Tx149']",WM664441,Regular,Apparel,"['Tx886', 'Tx63', 'Tx125']"
+355,56,Male,Chicago,Beauty,EP697856,380.18,Debit Card,"['Tx951', 'Tx625']",WM993766,Platinum,Electronics,"['Tx691', 'Tx524', 'Tx758', 'Tx735', 'Tx55']"
+356,22,Male,New York,Fashion,EP282294,156.81,Credit Card,"['Tx183', 'Tx397', 'Tx383', 'Tx140']",WM582977,Regular,Electronics,"['Tx529', 'Tx148']"
+357,61,Female,San Francisco,Electronics,EP494956,385.28,Credit Card,"['Tx738', 'Tx199', 'Tx648', 'Tx368']",WM431272,Gold,Home Essentials,"['Tx759', 'Tx991', 'Tx508', 'Tx140', 'Tx229']"
+358,33,Female,Chicago,Electronics,EP785428,401.0,eWallet,"['Tx208', 'Tx344', 'Tx131']",WM251729,Gold,Apparel,"['Tx309', 'Tx644']"
+359,43,Female,Chicago,Fashion,EP496905,302.53,Debit Card,['Tx709'],WM955793,Gold,Apparel,"['Tx737', 'Tx960', 'Tx7']"
+360,25,Female,Chicago,Home,EP483041,400.42,eWallet,"['Tx62', 'Tx288', 'Tx140', 'Tx114', 'Tx873']",WM411242,Gold,Home Essentials,"['Tx639', 'Tx705', 'Tx206', 'Tx118']"
+361,54,Male,Chicago,Sports,EP716225,278.62,Debit Card,"['Tx470', 'Tx429', 'Tx176', 'Tx779']",WM977885,Gold,Home Essentials,['Tx1']
+362,33,Male,New York,Home,EP785073,102.4,Debit Card,"['Tx226', 'Tx908', 'Tx303']",WM329537,Regular,Home Essentials,"['Tx619', 'Tx902']"
+363,55,Female,San Francisco,Sports,EP976052,442.26,eWallet,"['Tx161', 'Tx809', 'Tx814', 'Tx654', 'Tx976']",WM624112,Regular,Home Essentials,['Tx533']
+364,56,Female,San Francisco,Electronics,EP181618,224.18,Credit Card,"['Tx928', 'Tx175', 'Tx592', 'Tx994', 'Tx567']",WM813011,Platinum,Toys,['Tx254']
+365,20,Female,Miami,Beauty,EP641760,132.45,Credit Card,"['Tx89', 'Tx422']",WM577924,Platinum,Apparel,"['Tx107', 'Tx486']"
+366,57,Male,Houston,Beauty,EP363807,360.32,eWallet,"['Tx501', 'Tx883', 'Tx222', 'Tx606', 'Tx485']",WM254586,Platinum,Electronics,['Tx853']
+367,23,Male,New York,Home,EP494609,326.54,Debit Card,"['Tx286', 'Tx15', 'Tx748', 'Tx439']",WM730682,Gold,Electronics,"['Tx455', 'Tx401', 'Tx57', 'Tx949', 'Tx125']"
+368,44,Female,San Francisco,Fashion,EP333726,415.93,eWallet,"['Tx254', 'Tx336']",WM397158,Regular,Home Essentials,"['Tx415', 'Tx496', 'Tx189']"
+369,60,Male,New York,Sports,EP641455,118.09,Credit Card,"['Tx594', 'Tx228', 'Tx914', 'Tx950']",WM252956,Gold,Home Essentials,"['Tx862', 'Tx869']"
+370,55,Female,New York,Beauty,EP525556,48.81,eWallet,"['Tx969', 'Tx153', 'Tx936', 'Tx588', 'Tx920']",WM883349,Platinum,Toys,"['Tx267', 'Tx842', 'Tx628', 'Tx698', 'Tx450']"
+371,54,Male,Miami,Home,EP470040,316.41,Debit Card,['Tx428'],WM797670,Platinum,Home Essentials,"['Tx127', 'Tx443', 'Tx150', 'Tx652', 'Tx23']"
+372,51,Male,San Francisco,Fashion,EP956934,263.14,Debit Card,['Tx42'],WM990374,Regular,Toys,"['Tx146', 'Tx839']"
+373,38,Male,Houston,Electronics,EP461792,401.98,Credit Card,"['Tx752', 'Tx788', 'Tx517', 'Tx35']",WM940215,Gold,Toys,"['Tx175', 'Tx524']"
+374,34,Female,Houston,Fashion,EP610511,310.48,eWallet,"['Tx544', 'Tx404', 'Tx491', 'Tx830']",WM967960,Platinum,Home Essentials,"['Tx206', 'Tx488', 'Tx492', 'Tx297', 'Tx297']"
+375,31,Male,Houston,Electronics,EP931161,350.02,eWallet,['Tx464'],WM837114,Gold,Toys,['Tx983']
+376,60,Male,Chicago,Home,EP605529,143.21,Debit Card,"['Tx247', 'Tx86', 'Tx572', 'Tx772']",WM136012,Regular,Toys,"['Tx505', 'Tx377', 'Tx684', 'Tx282', 'Tx401']"
+377,63,Male,San Francisco,Fashion,EP733561,327.74,Debit Card,['Tx710'],WM727971,Gold,Electronics,"['Tx715', 'Tx820', 'Tx110', 'Tx476']"
+378,38,Male,Chicago,Home,EP106918,270.65,Credit Card,"['Tx973', 'Tx224', 'Tx136', 'Tx368']",WM435690,Regular,Home Essentials,"['Tx834', 'Tx436', 'Tx152', 'Tx29']"
+379,33,Female,Chicago,Electronics,EP626214,141.72,Credit Card,"['Tx245', 'Tx664', 'Tx93']",WM423896,Platinum,Groceries,"['Tx469', 'Tx124', 'Tx578']"
+380,34,Female,Chicago,Beauty,EP245718,102.12,Credit Card,['Tx492'],WM626781,Gold,Toys,"['Tx12', 'Tx595', 'Tx311', 'Tx35']"
+381,43,Female,Miami,Beauty,EP561267,43.55,Debit Card,"['Tx166', 'Tx721', 'Tx471']",WM822049,Gold,Home Essentials,"['Tx456', 'Tx44', 'Tx930', 'Tx929', 'Tx364']"
+382,26,Male,Miami,Electronics,EP273650,76.95,eWallet,"['Tx766', 'Tx598', 'Tx25', 'Tx1000', 'Tx466']",WM229461,Gold,Toys,"['Tx480', 'Tx904']"
+383,60,Female,New York,Sports,EP341162,64.07,Debit Card,"['Tx791', 'Tx142', 'Tx896', 'Tx721']",WM386735,Gold,Toys,"['Tx284', 'Tx10', 'Tx163', 'Tx367']"
+384,59,Female,New York,Sports,EP180832,233.12,Debit Card,"['Tx190', 'Tx809', 'Tx893', 'Tx380']",WM988845,Regular,Electronics,"['Tx877', 'Tx882', 'Tx516', 'Tx216', 'Tx358']"
+385,37,Female,San Francisco,Beauty,EP639535,231.86,Credit Card,"['Tx721', 'Tx649', 'Tx2', 'Tx882']",WM840842,Regular,Groceries,"['Tx400', 'Tx526', 'Tx65', 'Tx179', 'Tx672']"
+386,47,Female,San Francisco,Beauty,EP774734,353.23,Credit Card,['Tx395'],WM701853,Gold,Electronics,"['Tx361', 'Tx672']"
+387,38,Female,Miami,Fashion,EP394450,251.08,Credit Card,"['Tx544', 'Tx34', 'Tx304']",WM601515,Platinum,Apparel,"['Tx348', 'Tx471', 'Tx733', 'Tx880', 'Tx806']"
+388,22,Female,New York,Fashion,EP321791,167.12,Debit Card,"['Tx771', 'Tx277', 'Tx715', 'Tx969']",WM761732,Regular,Groceries,"['Tx286', 'Tx804']"
+389,18,Male,New York,Beauty,EP257538,84.55,eWallet,"['Tx556', 'Tx590', 'Tx814', 'Tx213', 'Tx807']",WM968941,Gold,Electronics,"['Tx946', 'Tx404', 'Tx70']"
+390,47,Male,Chicago,Sports,EP295984,485.16,eWallet,['Tx636'],WM326183,Gold,Groceries,"['Tx386', 'Tx986', 'Tx484', 'Tx621']"
+391,57,Female,Houston,Fashion,EP265001,20.84,eWallet,"['Tx754', 'Tx955', 'Tx57']",WM619071,Regular,Apparel,"['Tx590', 'Tx726']"
+392,54,Female,Houston,Electronics,EP479818,486.44,eWallet,"['Tx969', 'Tx932', 'Tx691', 'Tx373', 'Tx910']",WM405654,Regular,Toys,"['Tx795', 'Tx675', 'Tx539', 'Tx266', 'Tx133']"
+393,24,Female,Houston,Fashion,EP731264,148.24,Debit Card,['Tx114'],WM838344,Gold,Home Essentials,"['Tx603', 'Tx979', 'Tx595']"
+394,22,Male,Miami,Fashion,EP852146,71.27,Credit Card,"['Tx375', 'Tx477', 'Tx634', 'Tx42']",WM495007,Gold,Electronics,"['Tx599', 'Tx633', 'Tx850']"
+395,52,Male,Houston,Fashion,EP956639,224.82,Credit Card,"['Tx376', 'Tx180', 'Tx664']",WM161669,Regular,Groceries,"['Tx70', 'Tx47', 'Tx31', 'Tx873']"
+396,31,Male,Houston,Home,EP224078,14.02,eWallet,"['Tx722', 'Tx69', 'Tx575', 'Tx727', 'Tx793']",WM949566,Regular,Groceries,"['Tx238', 'Tx99']"
+397,50,Male,Chicago,Electronics,EP793223,54.2,Debit Card,"['Tx142', 'Tx343']",WM449327,Platinum,Apparel,['Tx512']
+398,34,Female,San Francisco,Beauty,EP341535,17.22,eWallet,"['Tx553', 'Tx117']",WM260119,Platinum,Apparel,"['Tx332', 'Tx779', 'Tx238', 'Tx791']"
+399,26,Male,Miami,Sports,EP534753,116.42,eWallet,"['Tx756', 'Tx962', 'Tx771', 'Tx595']",WM968100,Regular,Electronics,"['Tx108', 'Tx922']"
+400,40,Male,New York,Sports,EP950576,215.92,Debit Card,"['Tx772', 'Tx763']",WM851583,Gold,Apparel,"['Tx746', 'Tx914']"
+401,22,Female,Chicago,Beauty,EP446265,395.01,eWallet,"['Tx329', 'Tx362']",WM320843,Regular,Home Essentials,"['Tx774', 'Tx997', 'Tx431', 'Tx945']"
+402,33,Female,Houston,Home,EP855242,254.21,Credit Card,"['Tx516', 'Tx697', 'Tx434']",WM989265,Gold,Electronics,['Tx64']
+403,41,Female,New York,Sports,EP218844,191.98,Debit Card,"['Tx56', 'Tx65', 'Tx382']",WM868247,Regular,Toys,"['Tx257', 'Tx118', 'Tx39', 'Tx868', 'Tx768']"
+404,36,Male,Chicago,Fashion,EP604906,351.5,eWallet,"['Tx464', 'Tx498', 'Tx514']",WM949785,Regular,Home Essentials,['Tx453']
+405,28,Female,Miami,Sports,EP808029,25.55,Credit Card,"['Tx850', 'Tx126', 'Tx482', 'Tx727', 'Tx545']",WM336004,Platinum,Electronics,"['Tx622', 'Tx647', 'Tx861']"
+406,46,Female,Houston,Electronics,EP602073,49.31,Debit Card,"['Tx922', 'Tx300', 'Tx463', 'Tx636', 'Tx377']",WM834430,Gold,Electronics,['Tx946']
+407,52,Male,Miami,Electronics,EP602290,377.78,eWallet,['Tx193'],WM871464,Regular,Electronics,"['Tx329', 'Tx111']"
+408,63,Female,Chicago,Beauty,EP320939,81.58,eWallet,"['Tx90', 'Tx83', 'Tx401', 'Tx920']",WM155119,Gold,Groceries,"['Tx387', 'Tx137', 'Tx653', 'Tx588']"
+409,37,Female,New York,Home,EP719489,140.59,Credit Card,"['Tx296', 'Tx982']",WM913735,Gold,Electronics,"['Tx205', 'Tx201', 'Tx259', 'Tx503', 'Tx449']"
+410,57,Female,San Francisco,Home,EP269078,202.29,Debit Card,['Tx112'],WM287716,Gold,Groceries,"['Tx231', 'Tx207', 'Tx760']"
+411,59,Female,Houston,Sports,EP778700,276.16,eWallet,"['Tx283', 'Tx115']",WM998397,Gold,Electronics,"['Tx445', 'Tx834']"
+412,51,Female,Miami,Home,EP973846,98.99,Credit Card,"['Tx509', 'Tx155']",WM611185,Gold,Home Essentials,"['Tx829', 'Tx809', 'Tx197', 'Tx89', 'Tx597']"
+413,18,Male,New York,Home,EP530859,448.89,Credit Card,"['Tx534', 'Tx975']",WM862729,Gold,Groceries,['Tx645']
+414,60,Male,New York,Sports,EP123536,132.54,eWallet,['Tx301'],WM510840,Regular,Home Essentials,['Tx209']
+415,53,Female,San Francisco,Electronics,EP355506,196.97,eWallet,"['Tx993', 'Tx699', 'Tx555', 'Tx955']",WM413630,Platinum,Apparel,['Tx830']
+416,37,Female,Chicago,Fashion,EP145240,16.18,Debit Card,"['Tx486', 'Tx356']",WM954602,Gold,Groceries,"['Tx915', 'Tx6']"
+417,60,Female,San Francisco,Beauty,EP234097,487.55,Credit Card,"['Tx455', 'Tx756', 'Tx661', 'Tx22']",WM791274,Regular,Groceries,"['Tx793', 'Tx418', 'Tx582']"
+418,24,Female,San Francisco,Electronics,EP701344,360.19,Credit Card,"['Tx194', 'Tx65', 'Tx23']",WM989735,Gold,Toys,"['Tx886', 'Tx74', 'Tx349', 'Tx190', 'Tx699']"
+419,26,Female,Chicago,Home,EP721121,198.55,Debit Card,"['Tx855', 'Tx971']",WM266926,Platinum,Groceries,"['Tx509', 'Tx195', 'Tx853', 'Tx213', 'Tx585']"
+420,34,Male,Chicago,Home,EP268956,487.74,eWallet,"['Tx661', 'Tx344', 'Tx422', 'Tx593', 'Tx352']",WM122613,Gold,Home Essentials,"['Tx513', 'Tx361', 'Tx366', 'Tx634']"
+421,25,Female,Chicago,Sports,EP241268,131.11,Debit Card,"['Tx498', 'Tx608', 'Tx682']",WM674559,Regular,Toys,"['Tx874', 'Tx142', 'Tx821', 'Tx69', 'Tx450']"
+422,24,Male,New York,Beauty,EP760120,497.32,Debit Card,"['Tx863', 'Tx562', 'Tx456', 'Tx469', 'Tx312']",WM511341,Regular,Electronics,"['Tx641', 'Tx386', 'Tx895', 'Tx73']"
+423,65,Female,New York,Fashion,EP637544,107.6,Debit Card,"['Tx136', 'Tx920', 'Tx809', 'Tx314', 'Tx176']",WM453800,Gold,Groceries,"['Tx81', 'Tx131', 'Tx802', 'Tx530', 'Tx306']"
+424,53,Female,Houston,Sports,EP141094,370.31,Debit Card,"['Tx233', 'Tx496', 'Tx381']",WM542957,Platinum,Electronics,['Tx121']
+425,27,Female,Houston,Sports,EP700067,56.04,Debit Card,"['Tx789', 'Tx866', 'Tx49']",WM810828,Gold,Apparel,"['Tx237', 'Tx53', 'Tx616', 'Tx554']"
+426,35,Male,San Francisco,Fashion,EP253999,336.34,Credit Card,"['Tx362', 'Tx292']",WM596418,Regular,Electronics,"['Tx24', 'Tx230', 'Tx842']"
+427,36,Female,San Francisco,Fashion,EP158627,112.14,eWallet,"['Tx980', 'Tx171', 'Tx634', 'Tx947']",WM465226,Gold,Groceries,"['Tx945', 'Tx849', 'Tx258']"
+428,56,Male,Houston,Home,EP274421,200.67,Credit Card,"['Tx729', 'Tx549']",WM894520,Platinum,Electronics,"['Tx721', 'Tx367', 'Tx70', 'Tx894']"
+429,31,Female,Miami,Sports,EP370804,480.99,Debit Card,"['Tx187', 'Tx997', 'Tx180']",WM510373,Regular,Groceries,"['Tx992', 'Tx295']"
+430,63,Female,San Francisco,Electronics,EP288783,468.75,Credit Card,"['Tx166', 'Tx244']",WM510059,Regular,Groceries,['Tx548']
+431,39,Male,Miami,Electronics,EP641737,87.72,eWallet,['Tx43'],WM175312,Regular,Toys,"['Tx248', 'Tx874', 'Tx531', 'Tx955', 'Tx626']"
+432,31,Male,Miami,Sports,EP525151,366.84,eWallet,"['Tx589', 'Tx130', 'Tx452']",WM653485,Gold,Home Essentials,"['Tx320', 'Tx409', 'Tx634', 'Tx59', 'Tx560']"
+433,61,Female,Chicago,Fashion,EP728471,374.92,Debit Card,"['Tx379', 'Tx189', 'Tx211']",WM862057,Regular,Electronics,['Tx597']
+434,58,Female,New York,Beauty,EP690982,279.29,eWallet,"['Tx725', 'Tx36', 'Tx682', 'Tx325', 'Tx353']",WM396788,Regular,Electronics,"['Tx960', 'Tx940', 'Tx270', 'Tx669']"
+435,34,Female,Houston,Fashion,EP768595,69.85,eWallet,"['Tx382', 'Tx460']",WM396080,Gold,Home Essentials,['Tx34']
+436,50,Male,New York,Fashion,EP119524,245.8,Debit Card,"['Tx999', 'Tx167', 'Tx547', 'Tx309', 'Tx125']",WM830203,Gold,Electronics,"['Tx432', 'Tx268', 'Tx206']"
+437,49,Male,Houston,Beauty,EP854500,156.42,Credit Card,['Tx415'],WM304568,Platinum,Toys,"['Tx910', 'Tx784', 'Tx61']"
+438,34,Female,New York,Fashion,EP863336,186.61,Credit Card,"['Tx787', 'Tx149', 'Tx971', 'Tx470']",WM835165,Gold,Apparel,"['Tx210', 'Tx561']"
+439,21,Male,Houston,Beauty,EP793889,35.52,Debit Card,"['Tx160', 'Tx5', 'Tx994']",WM997845,Regular,Home Essentials,"['Tx947', 'Tx776', 'Tx680']"
+440,23,Female,New York,Sports,EP961198,336.68,Credit Card,"['Tx1000', 'Tx520', 'Tx340', 'Tx663', 'Tx723']",WM674630,Regular,Home Essentials,['Tx242']
+441,58,Female,Chicago,Beauty,EP397223,486.9,Debit Card,"['Tx486', 'Tx918', 'Tx297']",WM512900,Platinum,Apparel,"['Tx75', 'Tx825', 'Tx971', 'Tx578']"
+442,45,Female,Miami,Electronics,EP189913,125.62,Debit Card,"['Tx683', 'Tx151', 'Tx819', 'Tx579', 'Tx747']",WM202046,Regular,Home Essentials,"['Tx720', 'Tx856', 'Tx784', 'Tx827', 'Tx37']"
+443,35,Male,Houston,Beauty,EP327114,222.74,Debit Card,"['Tx347', 'Tx706', 'Tx116', 'Tx750']",WM237259,Gold,Groceries,"['Tx73', 'Tx973', 'Tx427']"
+444,20,Male,Miami,Fashion,EP571023,17.38,Credit Card,"['Tx922', 'Tx42', 'Tx143', 'Tx695']",WM439128,Platinum,Apparel,"['Tx758', 'Tx628', 'Tx952', 'Tx83', 'Tx909']"
+445,18,Male,Houston,Sports,EP735988,399.25,Credit Card,"['Tx120', 'Tx316', 'Tx26', 'Tx412', 'Tx633']",WM888808,Gold,Groceries,"['Tx491', 'Tx970', 'Tx133', 'Tx278', 'Tx741']"
+446,39,Male,Houston,Beauty,EP594312,296.5,eWallet,"['Tx457', 'Tx366']",WM929714,Regular,Electronics,['Tx107']
+447,26,Female,Chicago,Fashion,EP605065,203.95,Debit Card,['Tx335'],WM708576,Gold,Groceries,['Tx509']
+448,58,Male,New York,Beauty,EP278852,129.11,Debit Card,['Tx623'],WM944178,Gold,Groceries,"['Tx231', 'Tx666', 'Tx359', 'Tx442', 'Tx490']"
+449,34,Female,Houston,Sports,EP330019,484.73,Debit Card,"['Tx598', 'Tx540']",WM156752,Platinum,Toys,"['Tx801', 'Tx871', 'Tx898']"
+450,28,Male,New York,Sports,EP970699,294.73,Credit Card,"['Tx801', 'Tx959']",WM991090,Gold,Electronics,"['Tx22', 'Tx954']"
+451,65,Male,Chicago,Electronics,EP530720,348.47,eWallet,"['Tx201', 'Tx24', 'Tx86']",WM844056,Platinum,Toys,['Tx27']
+452,46,Male,San Francisco,Sports,EP730025,347.32,Credit Card,"['Tx870', 'Tx457', 'Tx694', 'Tx688', 'Tx981']",WM418844,Platinum,Electronics,"['Tx548', 'Tx623']"
+453,53,Female,Miami,Fashion,EP249644,85.95,Debit Card,['Tx1000'],WM579757,Regular,Groceries,"['Tx699', 'Tx701', 'Tx756', 'Tx19']"
+454,63,Male,Houston,Sports,EP933215,387.69,Debit Card,"['Tx404', 'Tx200', 'Tx503', 'Tx326', 'Tx618']",WM786433,Gold,Home Essentials,"['Tx494', 'Tx54', 'Tx397', 'Tx785', 'Tx387']"
+455,45,Male,Chicago,Sports,EP710948,131.87,Credit Card,"['Tx524', 'Tx967', 'Tx58', 'Tx931', 'Tx683']",WM271646,Gold,Home Essentials,"['Tx441', 'Tx719']"
+456,53,Female,New York,Fashion,EP960307,254.96,eWallet,"['Tx408', 'Tx152', 'Tx734']",WM705193,Platinum,Home Essentials,"['Tx563', 'Tx142', 'Tx119', 'Tx449']"
+457,18,Female,Houston,Fashion,EP904771,346.11,Credit Card,"['Tx379', 'Tx396', 'Tx382', 'Tx13']",WM244243,Platinum,Toys,['Tx919']
+458,25,Female,New York,Sports,EP290719,175.83,Debit Card,"['Tx354', 'Tx360', 'Tx316']",WM563348,Platinum,Apparel,"['Tx926', 'Tx377', 'Tx361', 'Tx199', 'Tx352']"
+459,22,Female,San Francisco,Sports,EP753484,485.13,Debit Card,"['Tx896', 'Tx575', 'Tx90', 'Tx221']",WM829762,Gold,Toys,"['Tx941', 'Tx60', 'Tx244', 'Tx238']"
+460,62,Female,Houston,Beauty,EP791691,382.18,Debit Card,"['Tx760', 'Tx426', 'Tx823', 'Tx454']",WM605876,Regular,Toys,['Tx603']
+461,27,Female,Miami,Sports,EP635617,39.43,Credit Card,"['Tx168', 'Tx826', 'Tx746']",WM405221,Regular,Apparel,['Tx233']
+462,52,Male,Houston,Electronics,EP377370,184.2,Credit Card,"['Tx747', 'Tx918', 'Tx425', 'Tx143']",WM251857,Regular,Electronics,"['Tx766', 'Tx771', 'Tx910', 'Tx828']"
+463,20,Female,Miami,Electronics,EP275868,85.42,eWallet,"['Tx613', 'Tx89', 'Tx148', 'Tx213', 'Tx311']",WM319955,Regular,Home Essentials,"['Tx582', 'Tx47', 'Tx822', 'Tx16', 'Tx895']"
+464,41,Male,New York,Electronics,EP859364,272.81,Credit Card,"['Tx889', 'Tx538', 'Tx344', 'Tx68']",WM328732,Regular,Electronics,"['Tx833', 'Tx59']"
+465,55,Female,Houston,Electronics,EP818894,62.62,Debit Card,"['Tx775', 'Tx385', 'Tx91', 'Tx7', 'Tx420']",WM943430,Regular,Apparel,['Tx59']
+466,53,Male,Chicago,Sports,EP459316,249.04,Credit Card,"['Tx425', 'Tx180', 'Tx570']",WM884735,Gold,Groceries,"['Tx450', 'Tx185']"
+467,27,Male,Chicago,Beauty,EP575497,165.2,eWallet,"['Tx728', 'Tx582', 'Tx774', 'Tx937']",WM305159,Platinum,Toys,"['Tx45', 'Tx322', 'Tx359']"
+468,45,Male,San Francisco,Fashion,EP725510,283.59,eWallet,"['Tx205', 'Tx191']",WM871037,Regular,Home Essentials,"['Tx671', 'Tx912', 'Tx251', 'Tx300', 'Tx133']"
+469,26,Female,Chicago,Sports,EP719284,325.88,eWallet,"['Tx297', 'Tx568', 'Tx503', 'Tx44']",WM782872,Platinum,Electronics,"['Tx408', 'Tx491', 'Tx674', 'Tx126', 'Tx673']"
+470,20,Female,San Francisco,Home,EP172187,180.19,eWallet,"['Tx855', 'Tx600', 'Tx312']",WM109576,Regular,Electronics,['Tx79']
+471,37,Female,New York,Sports,EP340977,446.98,eWallet,"['Tx573', 'Tx758', 'Tx475', 'Tx230']",WM479821,Regular,Home Essentials,"['Tx961', 'Tx557', 'Tx211']"
+472,41,Female,Miami,Electronics,EP496583,369.26,Debit Card,['Tx811'],WM861221,Platinum,Toys,"['Tx723', 'Tx753', 'Tx833', 'Tx366']"
+473,20,Male,New York,Home,EP504186,20.46,Debit Card,['Tx158'],WM997729,Gold,Groceries,"['Tx455', 'Tx731']"
+474,40,Female,Miami,Sports,EP238635,195.11,Debit Card,"['Tx308', 'Tx979', 'Tx656']",WM703646,Gold,Electronics,"['Tx965', 'Tx376', 'Tx799']"
+475,31,Female,Miami,Beauty,EP213844,364.96,eWallet,"['Tx128', 'Tx670', 'Tx682', 'Tx915']",WM206900,Platinum,Home Essentials,"['Tx300', 'Tx890', 'Tx670', 'Tx251', 'Tx540']"
+476,61,Female,San Francisco,Beauty,EP117367,132.84,Credit Card,"['Tx428', 'Tx184', 'Tx504']",WM811267,Platinum,Electronics,"['Tx327', 'Tx715', 'Tx555']"
+477,33,Male,Chicago,Home,EP312177,29.35,Credit Card,"['Tx30', 'Tx123']",WM923655,Regular,Toys,"['Tx107', 'Tx56', 'Tx355', 'Tx923', 'Tx421']"
+478,60,Female,Chicago,Fashion,EP648102,356.25,Credit Card,"['Tx505', 'Tx994', 'Tx69']",WM254775,Gold,Toys,"['Tx498', 'Tx287', 'Tx81', 'Tx209', 'Tx934']"
+479,24,Female,San Francisco,Home,EP628859,283.92,Credit Card,"['Tx764', 'Tx371', 'Tx596', 'Tx493', 'Tx580']",WM494847,Gold,Groceries,"['Tx862', 'Tx1000']"
+480,40,Female,San Francisco,Beauty,EP817611,275.94,Credit Card,"['Tx890', 'Tx265', 'Tx644', 'Tx703']",WM547858,Gold,Home Essentials,"['Tx237', 'Tx313', 'Tx760', 'Tx567', 'Tx216']"
+481,53,Female,New York,Home,EP540186,250.15,Credit Card,"['Tx998', 'Tx711', 'Tx838', 'Tx123']",WM812449,Gold,Home Essentials,['Tx382']
+482,44,Female,San Francisco,Electronics,EP966662,287.68,Debit Card,"['Tx525', 'Tx751', 'Tx590']",WM982544,Gold,Apparel,"['Tx37', 'Tx241']"
+483,57,Female,Chicago,Electronics,EP256826,276.37,Debit Card,['Tx866'],WM276394,Regular,Home Essentials,"['Tx666', 'Tx783', 'Tx465', 'Tx976']"
+484,65,Female,San Francisco,Fashion,EP734924,168.6,eWallet,"['Tx167', 'Tx596', 'Tx60']",WM159067,Gold,Home Essentials,['Tx22']
+485,27,Male,San Francisco,Home,EP200976,239.51,Debit Card,"['Tx328', 'Tx473']",WM200713,Regular,Electronics,"['Tx857', 'Tx35', 'Tx277', 'Tx285']"
+486,33,Male,Miami,Home,EP286040,435.15,Debit Card,"['Tx366', 'Tx168']",WM472856,Platinum,Groceries,"['Tx394', 'Tx308', 'Tx848', 'Tx989', 'Tx87']"
+487,28,Female,San Francisco,Home,EP598985,303.35,Debit Card,['Tx280'],WM596894,Regular,Apparel,['Tx286']
+488,29,Male,New York,Home,EP744610,431.67,Credit Card,"['Tx430', 'Tx652', 'Tx934']",WM288358,Platinum,Home Essentials,"['Tx394', 'Tx508', 'Tx20', 'Tx884', 'Tx392']"
+489,44,Female,San Francisco,Fashion,EP728950,88.57,Debit Card,"['Tx50', 'Tx297', 'Tx299']",WM155021,Platinum,Electronics,"['Tx455', 'Tx46', 'Tx230', 'Tx211']"
+490,19,Male,Houston,Beauty,EP140932,270.26,Credit Card,"['Tx655', 'Tx959', 'Tx79', 'Tx527', 'Tx199']",WM223047,Regular,Apparel,"['Tx189', 'Tx676', 'Tx442', 'Tx546']"
+491,29,Female,Houston,Sports,EP921945,230.2,Credit Card,"['Tx784', 'Tx97']",WM640472,Regular,Groceries,['Tx677']
+492,65,Female,Miami,Fashion,EP657244,411.52,Debit Card,"['Tx771', 'Tx172', 'Tx557', 'Tx331', 'Tx894']",WM781676,Gold,Groceries,"['Tx33', 'Tx555', 'Tx782']"
+493,39,Female,Miami,Beauty,EP627778,275.39,Credit Card,"['Tx847', 'Tx866', 'Tx702']",WM454928,Regular,Groceries,"['Tx960', 'Tx27', 'Tx932']"
+494,44,Female,Houston,Beauty,EP888930,232.5,eWallet,"['Tx278', 'Tx702', 'Tx715']",WM722217,Gold,Apparel,"['Tx773', 'Tx915', 'Tx345', 'Tx945', 'Tx849']"
+495,60,Male,Miami,Beauty,EP223224,390.2,Credit Card,"['Tx99', 'Tx548', 'Tx594']",WM554894,Platinum,Toys,"['Tx830', 'Tx772', 'Tx606']"
+496,65,Female,Miami,Home,EP197716,257.92,Debit Card,"['Tx844', 'Tx148', 'Tx14']",WM255785,Regular,Apparel,"['Tx776', 'Tx29']"
+497,33,Male,Chicago,Fashion,EP605666,369.49,eWallet,"['Tx531', 'Tx289']",WM757428,Platinum,Groceries,"['Tx744', 'Tx850', 'Tx637']"
+498,35,Male,Chicago,Beauty,EP791423,442.64,Credit Card,"['Tx798', 'Tx497', 'Tx422']",WM857649,Gold,Electronics,"['Tx887', 'Tx438', 'Tx802', 'Tx747']"
+499,28,Female,San Francisco,Sports,EP236659,313.67,Debit Card,"['Tx944', 'Tx933', 'Tx167']",WM523618,Regular,Apparel,['Tx827']
+500,62,Male,Houston,Sports,EP732789,188.4,Debit Card,['Tx224'],WM356902,Gold,Electronics,['Tx567']

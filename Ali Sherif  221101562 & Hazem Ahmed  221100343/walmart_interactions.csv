@@ -1,0 +1,1001 @@
+Interaction_ID,User_ID,Promo_ID,Interaction_Type,Timestamp,Transaction_Amount,Store_Location
+1,245,76,In-Store Purchase,2025-01-01 00:00:00,447.43,New York
+2,79,11,Coupon Redemption,2025-01-01 01:00:00,179.24,Houston
+3,233,87,In-Store Purchase,2025-01-01 02:00:00,234.44,New York
+4,383,18,Coupon Redemption,2025-01-01 03:00:00,312.45,San Francisco
+5,311,41,Coupon Redemption,2025-01-01 04:00:00,460.2,New York
+6,192,16,Online Order,2025-01-01 05:00:00,452.75,San Francisco
+7,213,31,Coupon Redemption,2025-01-01 06:00:00,466.81,Online
+8,360,40,Online Order,2025-01-01 07:00:00,412.04,Online
+9,282,15,In-Store Purchase,2025-01-01 08:00:00,288.84,Houston
+10,468,24,Coupon Redemption,2025-01-01 09:00:00,29.91,Houston
+11,242,48,In-Store Purchase,2025-01-01 10:00:00,170.03,Chicago
+12,388,89,Coupon Redemption,2025-01-01 11:00:00,28.76,San Francisco
+13,276,19,Online Order,2025-01-01 12:00:00,308.58,Houston
+14,411,66,Coupon Redemption,2025-01-01 13:00:00,364.67,Online
+15,341,50,Coupon Redemption,2025-01-01 14:00:00,408.11,San Francisco
+16,423,54,Coupon Redemption,2025-01-01 15:00:00,59.55,Chicago
+17,112,77,In-Store Purchase,2025-01-01 16:00:00,261.19,New York
+18,391,18,Online Order,2025-01-01 17:00:00,365.45,Chicago
+19,127,74,Coupon Redemption,2025-01-01 18:00:00,175.51,Chicago
+20,349,50,Coupon Redemption,2025-01-01 19:00:00,322.0,Online
+21,387,55,Coupon Redemption,2025-01-01 20:00:00,157.97,Online
+22,306,24,In-Store Purchase,2025-01-01 21:00:00,206.36,Online
+23,448,63,Coupon Redemption,2025-01-01 22:00:00,100.13,New York
+24,404,82,Coupon Redemption,2025-01-01 23:00:00,375.92,New York
+25,42,69,Online Order,2025-01-02 00:00:00,363.58,New York
+26,270,89,In-Store Purchase,2025-01-02 01:00:00,373.92,Chicago
+27,229,83,In-Store Purchase,2025-01-02 02:00:00,48.85,Houston
+28,271,23,In-Store Purchase,2025-01-02 03:00:00,457.05,Houston
+29,361,72,Online Order,2025-01-02 04:00:00,482.93,Houston
+30,186,22,Online Order,2025-01-02 05:00:00,398.89,Houston
+31,40,63,Online Order,2025-01-02 06:00:00,289.74,Chicago
+32,470,37,Coupon Redemption,2025-01-02 07:00:00,497.51,Houston
+33,289,18,In-Store Purchase,2025-01-02 08:00:00,311.63,San Francisco
+34,58,24,Coupon Redemption,2025-01-02 09:00:00,274.19,San Francisco
+35,32,41,Online Order,2025-01-02 10:00:00,398.92,Online
+36,425,58,Online Order,2025-01-02 11:00:00,350.19,Online
+37,281,80,In-Store Purchase,2025-01-02 12:00:00,33.93,New York
+38,463,7,Online Order,2025-01-02 13:00:00,290.93,San Francisco
+39,259,46,Online Order,2025-01-02 14:00:00,115.45,New York
+40,104,2,In-Store Purchase,2025-01-02 15:00:00,468.38,Online
+41,294,63,Online Order,2025-01-02 16:00:00,144.65,Online
+42,275,18,In-Store Purchase,2025-01-02 17:00:00,347.54,Chicago
+43,77,25,Online Order,2025-01-02 18:00:00,101.0,Houston
+44,85,50,In-Store Purchase,2025-01-02 19:00:00,255.77,Houston
+45,168,72,In-Store Purchase,2025-01-02 20:00:00,32.41,Chicago
+46,438,65,In-Store Purchase,2025-01-02 21:00:00,205.35,Houston
+47,267,84,In-Store Purchase,2025-01-02 22:00:00,98.82,San Francisco
+48,227,64,In-Store Purchase,2025-01-02 23:00:00,149.61,Online
+49,60,53,Coupon Redemption,2025-01-03 00:00:00,12.48,Online
+50,349,88,In-Store Purchase,2025-01-03 01:00:00,111.5,Chicago
+51,106,63,Online Order,2025-01-03 02:00:00,393.2,New York
+52,368,54,In-Store Purchase,2025-01-03 03:00:00,332.03,San Francisco
+53,299,91,Coupon Redemption,2025-01-03 04:00:00,144.64,Chicago
+54,251,57,Online Order,2025-01-03 05:00:00,236.6,Houston
+55,47,63,Coupon Redemption,2025-01-03 06:00:00,397.23,Chicago
+56,461,22,In-Store Purchase,2025-01-03 07:00:00,321.08,New York
+57,262,11,Online Order,2025-01-03 08:00:00,57.6,Online
+58,229,73,Coupon Redemption,2025-01-03 09:00:00,120.16,Online
+59,415,4,Online Order,2025-01-03 10:00:00,357.41,Online
+60,29,98,Online Order,2025-01-03 11:00:00,118.32,Online
+61,233,29,Coupon Redemption,2025-01-03 12:00:00,309.58,Online
+62,68,38,Coupon Redemption,2025-01-03 13:00:00,366.8,Houston
+63,263,5,Online Order,2025-01-03 14:00:00,308.56,Chicago
+64,213,36,Online Order,2025-01-03 15:00:00,235.72,Chicago
+65,234,29,In-Store Purchase,2025-01-03 16:00:00,216.17,Houston
+66,289,69,Online Order,2025-01-03 17:00:00,301.66,Chicago
+67,30,37,In-Store Purchase,2025-01-03 18:00:00,275.31,San Francisco
+68,287,22,Coupon Redemption,2025-01-03 19:00:00,243.05,San Francisco
+69,237,100,Online Order,2025-01-03 20:00:00,283.25,New York
+70,345,59,Coupon Redemption,2025-01-03 21:00:00,178.05,San Francisco
+71,414,73,Online Order,2025-01-03 22:00:00,166.62,Houston
+72,158,96,In-Store Purchase,2025-01-03 23:00:00,413.09,Online
+73,371,99,Online Order,2025-01-04 00:00:00,84.37,Chicago
+74,12,99,Online Order,2025-01-04 01:00:00,428.63,Online
+75,203,64,Online Order,2025-01-04 02:00:00,254.5,Online
+76,131,71,Online Order,2025-01-04 03:00:00,270.8,Chicago
+77,419,66,Coupon Redemption,2025-01-04 04:00:00,93.31,New York
+78,2,15,In-Store Purchase,2025-01-04 05:00:00,201.13,Chicago
+79,382,74,In-Store Purchase,2025-01-04 06:00:00,207.44,Chicago
+80,112,15,Online Order,2025-01-04 07:00:00,333.74,San Francisco
+81,297,35,Coupon Redemption,2025-01-04 08:00:00,289.94,New York
+82,38,100,In-Store Purchase,2025-01-04 09:00:00,48.52,Chicago
+83,24,70,Online Order,2025-01-04 10:00:00,248.4,Chicago
+84,217,47,In-Store Purchase,2025-01-04 11:00:00,492.62,Houston
+85,177,70,In-Store Purchase,2025-01-04 12:00:00,50.72,Houston
+86,359,97,Online Order,2025-01-04 13:00:00,376.53,San Francisco
+87,33,6,In-Store Purchase,2025-01-04 14:00:00,269.5,San Francisco
+88,278,98,Coupon Redemption,2025-01-04 15:00:00,158.98,Chicago
+89,31,93,Coupon Redemption,2025-01-04 16:00:00,377.92,Chicago
+90,479,57,Coupon Redemption,2025-01-04 17:00:00,231.23,Online
+91,458,70,Online Order,2025-01-04 18:00:00,239.02,New York
+92,36,28,In-Store Purchase,2025-01-04 19:00:00,86.39,San Francisco
+93,479,55,Online Order,2025-01-04 20:00:00,296.62,Chicago
+94,242,14,Online Order,2025-01-04 21:00:00,315.89,San Francisco
+95,17,95,Coupon Redemption,2025-01-04 22:00:00,286.8,New York
+96,147,84,In-Store Purchase,2025-01-04 23:00:00,213.54,San Francisco
+97,210,97,In-Store Purchase,2025-01-05 00:00:00,384.82,Online
+98,93,32,Online Order,2025-01-05 01:00:00,378.18,Online
+99,394,39,Coupon Redemption,2025-01-05 02:00:00,149.1,San Francisco
+100,70,5,Coupon Redemption,2025-01-05 03:00:00,374.59,New York
+101,393,58,Online Order,2025-01-05 04:00:00,494.94,Online
+102,329,34,In-Store Purchase,2025-01-05 05:00:00,193.89,New York
+103,374,45,Coupon Redemption,2025-01-05 06:00:00,273.42,Online
+104,331,12,Online Order,2025-01-05 07:00:00,195.43,Online
+105,494,57,In-Store Purchase,2025-01-05 08:00:00,474.92,San Francisco
+106,216,16,Online Order,2025-01-05 09:00:00,70.51,New York
+107,192,100,In-Store Purchase,2025-01-05 10:00:00,203.92,Houston
+108,457,31,Online Order,2025-01-05 11:00:00,113.54,New York
+109,196,27,Coupon Redemption,2025-01-05 12:00:00,64.21,Chicago
+110,230,95,Online Order,2025-01-05 13:00:00,151.78,San Francisco
+111,446,76,Online Order,2025-01-05 14:00:00,433.8,Chicago
+112,470,89,In-Store Purchase,2025-01-05 15:00:00,385.77,Online
+113,465,45,In-Store Purchase,2025-01-05 16:00:00,492.35,Houston
+114,194,91,Online Order,2025-01-05 17:00:00,489.66,Houston
+115,193,79,Coupon Redemption,2025-01-05 18:00:00,279.53,Online
+116,42,81,In-Store Purchase,2025-01-05 19:00:00,182.49,San Francisco
+117,350,55,Coupon Redemption,2025-01-05 20:00:00,116.7,Houston
+118,494,22,Online Order,2025-01-05 21:00:00,451.22,Chicago
+119,339,79,In-Store Purchase,2025-01-05 22:00:00,146.65,New York
+120,448,18,In-Store Purchase,2025-01-05 23:00:00,387.54,New York
+121,277,27,Online Order,2025-01-06 00:00:00,318.84,Houston
+122,69,27,Online Order,2025-01-06 01:00:00,335.47,Houston
+123,335,8,Online Order,2025-01-06 02:00:00,346.55,Houston
+124,441,73,In-Store Purchase,2025-01-06 03:00:00,320.23,Chicago
+125,179,45,In-Store Purchase,2025-01-06 04:00:00,321.74,New York
+126,61,69,Coupon Redemption,2025-01-06 05:00:00,256.13,San Francisco
+127,92,36,Online Order,2025-01-06 06:00:00,270.93,Chicago
+128,276,77,Online Order,2025-01-06 07:00:00,120.3,New York
+129,202,69,In-Store Purchase,2025-01-06 08:00:00,207.94,Chicago
+130,271,22,Coupon Redemption,2025-01-06 09:00:00,380.85,New York
+131,66,42,Online Order,2025-01-06 10:00:00,150.28,San Francisco
+132,373,91,Online Order,2025-01-06 11:00:00,463.03,New York
+133,115,38,Online Order,2025-01-06 12:00:00,86.91,Chicago
+134,428,38,In-Store Purchase,2025-01-06 13:00:00,437.94,San Francisco
+135,2,74,Coupon Redemption,2025-01-06 14:00:00,206.03,Online
+136,388,35,Online Order,2025-01-06 15:00:00,11.64,Chicago
+137,12,66,Coupon Redemption,2025-01-06 16:00:00,416.63,Chicago
+138,153,87,Online Order,2025-01-06 17:00:00,383.84,Houston
+139,238,13,In-Store Purchase,2025-01-06 18:00:00,331.53,Online
+140,345,18,Online Order,2025-01-06 19:00:00,344.84,New York
+141,369,97,Coupon Redemption,2025-01-06 20:00:00,58.18,Chicago
+142,279,53,Coupon Redemption,2025-01-06 21:00:00,294.28,New York
+143,218,8,Online Order,2025-01-06 22:00:00,214.87,Houston
+144,273,36,Coupon Redemption,2025-01-06 23:00:00,214.95,New York
+145,195,84,Online Order,2025-01-07 00:00:00,102.55,Online
+146,422,17,In-Store Purchase,2025-01-07 01:00:00,24.23,Chicago
+147,118,90,Online Order,2025-01-07 02:00:00,119.85,San Francisco
+148,127,17,Coupon Redemption,2025-01-07 03:00:00,308.76,Online
+149,236,32,Online Order,2025-01-07 04:00:00,256.65,New York
+150,178,19,Coupon Redemption,2025-01-07 05:00:00,49.45,New York
+151,80,92,Coupon Redemption,2025-01-07 06:00:00,289.59,San Francisco
+152,142,42,Online Order,2025-01-07 07:00:00,210.3,San Francisco
+153,97,32,Coupon Redemption,2025-01-07 08:00:00,21.19,Online
+154,480,98,Coupon Redemption,2025-01-07 09:00:00,308.81,Houston
+155,449,87,Coupon Redemption,2025-01-07 10:00:00,91.56,San Francisco
+156,372,51,Online Order,2025-01-07 11:00:00,316.49,San Francisco
+157,392,63,In-Store Purchase,2025-01-07 12:00:00,345.34,Chicago
+158,58,19,Online Order,2025-01-07 13:00:00,476.4,Houston
+159,17,74,Coupon Redemption,2025-01-07 14:00:00,21.13,San Francisco
+160,415,81,In-Store Purchase,2025-01-07 15:00:00,304.66,Houston
+161,339,35,Coupon Redemption,2025-01-07 16:00:00,397.04,San Francisco
+162,215,81,Coupon Redemption,2025-01-07 17:00:00,200.78,Houston
+163,315,54,In-Store Purchase,2025-01-07 18:00:00,260.55,Chicago
+164,393,49,Online Order,2025-01-07 19:00:00,104.59,San Francisco
+165,480,58,Online Order,2025-01-07 20:00:00,457.47,San Francisco
+166,453,10,Online Order,2025-01-07 21:00:00,234.31,New York
+167,456,82,In-Store Purchase,2025-01-07 22:00:00,364.3,Online
+168,9,99,In-Store Purchase,2025-01-07 23:00:00,127.26,San Francisco
+169,124,12,In-Store Purchase,2025-01-08 00:00:00,241.36,New York
+170,106,52,Online Order,2025-01-08 01:00:00,359.27,Houston
+171,35,66,In-Store Purchase,2025-01-08 02:00:00,107.89,New York
+172,52,96,Coupon Redemption,2025-01-08 03:00:00,75.0,Houston
+173,305,36,In-Store Purchase,2025-01-08 04:00:00,41.76,Online
+174,18,89,Coupon Redemption,2025-01-08 05:00:00,25.14,Online
+175,229,48,Coupon Redemption,2025-01-08 06:00:00,293.03,San Francisco
+176,307,59,In-Store Purchase,2025-01-08 07:00:00,235.0,San Francisco
+177,345,63,In-Store Purchase,2025-01-08 08:00:00,345.0,New York
+178,361,42,Coupon Redemption,2025-01-08 09:00:00,227.39,Houston
+179,447,75,Online Order,2025-01-08 10:00:00,128.52,Chicago
+180,25,1,In-Store Purchase,2025-01-08 11:00:00,96.67,Online
+181,126,100,In-Store Purchase,2025-01-08 12:00:00,236.09,Houston
+182,380,94,In-Store Purchase,2025-01-08 13:00:00,324.28,Online
+183,23,12,Coupon Redemption,2025-01-08 14:00:00,403.81,San Francisco
+184,206,94,Coupon Redemption,2025-01-08 15:00:00,420.56,Chicago
+185,225,59,In-Store Purchase,2025-01-08 16:00:00,437.32,Houston
+186,120,82,In-Store Purchase,2025-01-08 17:00:00,455.35,Online
+187,277,86,Coupon Redemption,2025-01-08 18:00:00,129.98,San Francisco
+188,112,90,Coupon Redemption,2025-01-08 19:00:00,363.8,Chicago
+189,387,46,In-Store Purchase,2025-01-08 20:00:00,44.22,San Francisco
+190,443,9,Online Order,2025-01-08 21:00:00,376.82,Chicago
+191,398,69,Online Order,2025-01-08 22:00:00,344.19,Houston
+192,29,51,Coupon Redemption,2025-01-08 23:00:00,209.11,Houston
+193,72,28,In-Store Purchase,2025-01-09 00:00:00,264.69,Houston
+194,258,55,In-Store Purchase,2025-01-09 01:00:00,240.4,Online
+195,149,28,Coupon Redemption,2025-01-09 02:00:00,198.8,Chicago
+196,120,64,Online Order,2025-01-09 03:00:00,393.69,Online
+197,418,35,In-Store Purchase,2025-01-09 04:00:00,479.21,Houston
+198,470,42,Coupon Redemption,2025-01-09 05:00:00,442.84,Chicago
+199,375,37,Online Order,2025-01-09 06:00:00,273.3,New York
+200,295,44,Coupon Redemption,2025-01-09 07:00:00,360.74,San Francisco
+201,164,71,Online Order,2025-01-09 08:00:00,307.42,New York
+202,296,74,Coupon Redemption,2025-01-09 09:00:00,494.71,Chicago
+203,307,17,Online Order,2025-01-09 10:00:00,360.23,Houston
+204,396,73,In-Store Purchase,2025-01-09 11:00:00,224.88,Houston
+205,345,63,Coupon Redemption,2025-01-09 12:00:00,415.6,Chicago
+206,420,44,Coupon Redemption,2025-01-09 13:00:00,39.3,San Francisco
+207,165,88,Coupon Redemption,2025-01-09 14:00:00,407.71,Houston
+208,122,98,Online Order,2025-01-09 15:00:00,415.87,New York
+209,155,7,Coupon Redemption,2025-01-09 16:00:00,365.32,San Francisco
+210,449,6,Coupon Redemption,2025-01-09 17:00:00,29.55,Houston
+211,74,13,In-Store Purchase,2025-01-09 18:00:00,205.72,Chicago
+212,339,81,In-Store Purchase,2025-01-09 19:00:00,464.42,New York
+213,267,59,In-Store Purchase,2025-01-09 20:00:00,318.34,Chicago
+214,114,3,Coupon Redemption,2025-01-09 21:00:00,225.62,Houston
+215,212,16,Online Order,2025-01-09 22:00:00,395.84,San Francisco
+216,154,21,Online Order,2025-01-09 23:00:00,60.78,Houston
+217,141,57,In-Store Purchase,2025-01-10 00:00:00,425.06,Houston
+218,32,59,Coupon Redemption,2025-01-10 01:00:00,381.39,Online
+219,286,1,Coupon Redemption,2025-01-10 02:00:00,294.11,Houston
+220,486,55,Coupon Redemption,2025-01-10 03:00:00,397.89,San Francisco
+221,303,26,Online Order,2025-01-10 04:00:00,363.78,New York
+222,451,89,Online Order,2025-01-10 05:00:00,189.57,Chicago
+223,377,17,In-Store Purchase,2025-01-10 06:00:00,331.7,Chicago
+224,467,84,Coupon Redemption,2025-01-10 07:00:00,79.56,Online
+225,90,39,Online Order,2025-01-10 08:00:00,129.1,San Francisco
+226,321,21,Coupon Redemption,2025-01-10 09:00:00,246.47,Houston
+227,348,36,In-Store Purchase,2025-01-10 10:00:00,139.61,New York
+228,219,12,Coupon Redemption,2025-01-10 11:00:00,171.71,Online
+229,285,84,Online Order,2025-01-10 12:00:00,349.92,Chicago
+230,254,47,Coupon Redemption,2025-01-10 13:00:00,234.54,Chicago
+231,25,33,Online Order,2025-01-10 14:00:00,357.45,Chicago
+232,498,11,In-Store Purchase,2025-01-10 15:00:00,378.73,Houston
+233,177,48,Online Order,2025-01-10 16:00:00,380.92,Houston
+234,483,86,Coupon Redemption,2025-01-10 17:00:00,177.8,Houston
+235,330,84,In-Store Purchase,2025-01-10 18:00:00,347.71,Houston
+236,344,22,Online Order,2025-01-10 19:00:00,172.02,Houston
+237,196,7,Coupon Redemption,2025-01-10 20:00:00,230.68,Chicago
+238,403,51,Online Order,2025-01-10 21:00:00,136.38,New York
+239,269,81,Coupon Redemption,2025-01-10 22:00:00,144.9,Chicago
+240,164,40,In-Store Purchase,2025-01-10 23:00:00,27.51,Houston
+241,357,93,Coupon Redemption,2025-01-11 00:00:00,78.61,San Francisco
+242,214,90,Online Order,2025-01-11 01:00:00,265.67,Chicago
+243,210,97,Coupon Redemption,2025-01-11 02:00:00,22.71,New York
+244,77,30,Online Order,2025-01-11 03:00:00,441.28,Chicago
+245,154,55,Coupon Redemption,2025-01-11 04:00:00,286.13,Houston
+246,193,84,In-Store Purchase,2025-01-11 05:00:00,359.76,Houston
+247,95,12,In-Store Purchase,2025-01-11 06:00:00,160.26,San Francisco
+248,387,91,Coupon Redemption,2025-01-11 07:00:00,360.76,Online
+249,276,13,In-Store Purchase,2025-01-11 08:00:00,288.14,San Francisco
+250,243,1,Online Order,2025-01-11 09:00:00,159.32,Online
+251,124,28,Coupon Redemption,2025-01-11 10:00:00,359.41,San Francisco
+252,435,62,Online Order,2025-01-11 11:00:00,339.91,New York
+253,116,10,Online Order,2025-01-11 12:00:00,85.68,Online
+254,154,17,Coupon Redemption,2025-01-11 13:00:00,404.55,Online
+255,440,76,Coupon Redemption,2025-01-11 14:00:00,72.99,Chicago
+256,363,29,In-Store Purchase,2025-01-11 15:00:00,307.65,San Francisco
+257,74,67,Coupon Redemption,2025-01-11 16:00:00,430.98,Online
+258,413,88,Online Order,2025-01-11 17:00:00,136.08,Online
+259,238,57,Coupon Redemption,2025-01-11 18:00:00,121.68,New York
+260,469,2,Online Order,2025-01-11 19:00:00,426.95,New York
+261,30,2,In-Store Purchase,2025-01-11 20:00:00,295.78,Houston
+262,288,90,In-Store Purchase,2025-01-11 21:00:00,82.7,New York
+263,212,44,Online Order,2025-01-11 22:00:00,15.91,Chicago
+264,496,16,Online Order,2025-01-11 23:00:00,188.44,Chicago
+265,214,55,In-Store Purchase,2025-01-12 00:00:00,259.21,Online
+266,286,89,In-Store Purchase,2025-01-12 01:00:00,436.41,New York
+267,272,17,Coupon Redemption,2025-01-12 02:00:00,263.24,New York
+268,69,62,Online Order,2025-01-12 03:00:00,243.72,Online
+269,199,10,Online Order,2025-01-12 04:00:00,451.0,San Francisco
+270,125,30,Coupon Redemption,2025-01-12 05:00:00,486.48,Chicago
+271,131,50,In-Store Purchase,2025-01-12 06:00:00,325.49,Online
+272,105,12,Coupon Redemption,2025-01-12 07:00:00,297.7,San Francisco
+273,170,94,In-Store Purchase,2025-01-12 08:00:00,255.54,San Francisco
+274,332,14,Coupon Redemption,2025-01-12 09:00:00,266.44,Online
+275,41,14,Coupon Redemption,2025-01-12 10:00:00,195.21,Houston
+276,473,41,In-Store Purchase,2025-01-12 11:00:00,463.78,San Francisco
+277,231,48,Coupon Redemption,2025-01-12 12:00:00,327.7,Chicago
+278,434,39,In-Store Purchase,2025-01-12 13:00:00,436.68,San Francisco
+279,190,18,Coupon Redemption,2025-01-12 14:00:00,246.21,Chicago
+280,48,49,In-Store Purchase,2025-01-12 15:00:00,247.16,Chicago
+281,275,100,Coupon Redemption,2025-01-12 16:00:00,196.14,Houston
+282,371,97,In-Store Purchase,2025-01-12 17:00:00,337.68,San Francisco
+283,425,18,Online Order,2025-01-12 18:00:00,41.73,Online
+284,98,83,Online Order,2025-01-12 19:00:00,120.16,San Francisco
+285,27,87,Online Order,2025-01-12 20:00:00,111.15,New York
+286,138,19,Coupon Redemption,2025-01-12 21:00:00,83.54,New York
+287,194,9,Online Order,2025-01-12 22:00:00,308.23,New York
+288,345,68,Coupon Redemption,2025-01-12 23:00:00,367.09,Online
+289,310,73,Online Order,2025-01-13 00:00:00,68.6,New York
+290,309,2,Online Order,2025-01-13 01:00:00,106.5,Online
+291,21,79,In-Store Purchase,2025-01-13 02:00:00,254.41,Houston
+292,448,84,Online Order,2025-01-13 03:00:00,289.01,Houston
+293,38,22,Online Order,2025-01-13 04:00:00,322.93,New York
+294,97,57,Online Order,2025-01-13 05:00:00,15.98,San Francisco
+295,412,45,Online Order,2025-01-13 06:00:00,375.67,Chicago
+296,390,93,Online Order,2025-01-13 07:00:00,411.26,Chicago
+297,301,28,Online Order,2025-01-13 08:00:00,395.97,New York
+298,371,81,In-Store Purchase,2025-01-13 09:00:00,450.09,San Francisco
+299,344,96,Online Order,2025-01-13 10:00:00,373.28,San Francisco
+300,287,20,Online Order,2025-01-13 11:00:00,188.14,New York
+301,112,53,Coupon Redemption,2025-01-13 12:00:00,26.09,Chicago
+302,246,79,In-Store Purchase,2025-01-13 13:00:00,316.94,New York
+303,107,88,In-Store Purchase,2025-01-13 14:00:00,476.49,Houston
+304,446,57,Coupon Redemption,2025-01-13 15:00:00,258.63,Houston
+305,465,28,In-Store Purchase,2025-01-13 16:00:00,143.02,San Francisco
+306,171,12,Coupon Redemption,2025-01-13 17:00:00,481.21,Chicago
+307,156,13,In-Store Purchase,2025-01-13 18:00:00,424.84,New York
+308,490,18,Online Order,2025-01-13 19:00:00,273.49,New York
+309,466,97,In-Store Purchase,2025-01-13 20:00:00,48.93,New York
+310,8,16,In-Store Purchase,2025-01-13 21:00:00,400.98,Online
+311,109,76,In-Store Purchase,2025-01-13 22:00:00,228.85,Houston
+312,480,94,In-Store Purchase,2025-01-13 23:00:00,266.24,New York
+313,98,50,Coupon Redemption,2025-01-14 00:00:00,129.9,New York
+314,493,45,In-Store Purchase,2025-01-14 01:00:00,400.66,Online
+315,380,55,Coupon Redemption,2025-01-14 02:00:00,99.52,Online
+316,61,41,In-Store Purchase,2025-01-14 03:00:00,468.8,San Francisco
+317,383,18,Coupon Redemption,2025-01-14 04:00:00,430.19,New York
+318,387,32,In-Store Purchase,2025-01-14 05:00:00,121.89,Online
+319,246,36,Online Order,2025-01-14 06:00:00,361.52,Houston
+320,469,83,In-Store Purchase,2025-01-14 07:00:00,96.94,San Francisco
+321,125,11,Online Order,2025-01-14 08:00:00,489.89,Online
+322,357,32,In-Store Purchase,2025-01-14 09:00:00,140.22,Chicago
+323,310,71,In-Store Purchase,2025-01-14 10:00:00,145.96,Chicago
+324,361,77,In-Store Purchase,2025-01-14 11:00:00,374.12,Houston
+325,105,77,In-Store Purchase,2025-01-14 12:00:00,369.34,Online
+326,204,93,Online Order,2025-01-14 13:00:00,459.56,New York
+327,469,78,Online Order,2025-01-14 14:00:00,454.01,Chicago
+328,123,37,Coupon Redemption,2025-01-14 15:00:00,74.95,Chicago
+329,283,100,Online Order,2025-01-14 16:00:00,158.35,Houston
+330,165,89,Coupon Redemption,2025-01-14 17:00:00,111.79,San Francisco
+331,398,4,Coupon Redemption,2025-01-14 18:00:00,129.53,New York
+332,145,85,Coupon Redemption,2025-01-14 19:00:00,383.22,Chicago
+333,195,39,In-Store Purchase,2025-01-14 20:00:00,243.87,Online
+334,239,27,Online Order,2025-01-14 21:00:00,58.15,Houston
+335,274,67,Online Order,2025-01-14 22:00:00,442.0,Houston
+336,333,78,Online Order,2025-01-14 23:00:00,35.03,Chicago
+337,184,66,Online Order,2025-01-15 00:00:00,397.11,Houston
+338,158,25,Coupon Redemption,2025-01-15 01:00:00,45.8,New York
+339,134,96,Online Order,2025-01-15 02:00:00,244.37,San Francisco
+340,185,51,In-Store Purchase,2025-01-15 03:00:00,226.53,Houston
+341,263,38,Online Order,2025-01-15 04:00:00,243.26,Online
+342,452,83,Coupon Redemption,2025-01-15 05:00:00,58.94,Chicago
+343,255,7,Online Order,2025-01-15 06:00:00,298.79,Houston
+344,239,31,Coupon Redemption,2025-01-15 07:00:00,303.16,Chicago
+345,51,64,Coupon Redemption,2025-01-15 08:00:00,156.98,Online
+346,412,50,In-Store Purchase,2025-01-15 09:00:00,14.71,Online
+347,370,15,In-Store Purchase,2025-01-15 10:00:00,220.58,San Francisco
+348,241,31,Coupon Redemption,2025-01-15 11:00:00,453.44,Houston
+349,390,64,In-Store Purchase,2025-01-15 12:00:00,362.79,New York
+350,430,82,Online Order,2025-01-15 13:00:00,226.89,Houston
+351,164,77,Coupon Redemption,2025-01-15 14:00:00,324.89,Houston
+352,469,10,Online Order,2025-01-15 15:00:00,298.58,Chicago
+353,105,68,In-Store Purchase,2025-01-15 16:00:00,321.12,Online
+354,190,2,Online Order,2025-01-15 17:00:00,380.22,New York
+355,161,47,Online Order,2025-01-15 18:00:00,496.2,Houston
+356,212,41,Online Order,2025-01-15 19:00:00,133.36,San Francisco
+357,24,17,Coupon Redemption,2025-01-15 20:00:00,209.51,Online
+358,289,50,Online Order,2025-01-15 21:00:00,142.66,New York
+359,443,73,In-Store Purchase,2025-01-15 22:00:00,319.25,Houston
+360,114,54,Online Order,2025-01-15 23:00:00,171.03,San Francisco
+361,380,47,Online Order,2025-01-16 00:00:00,246.81,Houston
+362,75,70,Coupon Redemption,2025-01-16 01:00:00,149.04,Chicago
+363,9,88,Coupon Redemption,2025-01-16 02:00:00,326.19,Houston
+364,134,23,Coupon Redemption,2025-01-16 03:00:00,139.46,Online
+365,284,98,In-Store Purchase,2025-01-16 04:00:00,270.77,New York
+366,479,61,Coupon Redemption,2025-01-16 05:00:00,177.16,Chicago
+367,300,99,Coupon Redemption,2025-01-16 06:00:00,342.14,Chicago
+368,297,10,Online Order,2025-01-16 07:00:00,256.5,San Francisco
+369,369,3,In-Store Purchase,2025-01-16 08:00:00,316.7,New York
+370,214,76,Coupon Redemption,2025-01-16 09:00:00,64.62,New York
+371,152,9,Online Order,2025-01-16 10:00:00,380.74,Online
+372,79,2,Coupon Redemption,2025-01-16 11:00:00,99.27,San Francisco
+373,101,34,In-Store Purchase,2025-01-16 12:00:00,13.19,San Francisco
+374,169,28,Coupon Redemption,2025-01-16 13:00:00,447.75,Houston
+375,118,6,Online Order,2025-01-16 14:00:00,259.68,Online
+376,195,8,Online Order,2025-01-16 15:00:00,252.94,San Francisco
+377,292,51,Online Order,2025-01-16 16:00:00,97.61,New York
+378,427,65,Coupon Redemption,2025-01-16 17:00:00,382.61,San Francisco
+379,126,37,Coupon Redemption,2025-01-16 18:00:00,339.76,Houston
+380,256,81,In-Store Purchase,2025-01-16 19:00:00,56.34,Online
+381,282,92,Coupon Redemption,2025-01-16 20:00:00,432.39,Houston
+382,336,65,Online Order,2025-01-16 21:00:00,177.79,Online
+383,484,99,Coupon Redemption,2025-01-16 22:00:00,346.61,Online
+384,351,54,In-Store Purchase,2025-01-16 23:00:00,413.05,San Francisco
+385,173,55,Coupon Redemption,2025-01-17 00:00:00,104.86,New York
+386,132,90,Coupon Redemption,2025-01-17 01:00:00,63.27,Houston
+387,391,52,Online Order,2025-01-17 02:00:00,123.58,Chicago
+388,421,11,In-Store Purchase,2025-01-17 03:00:00,160.53,Houston
+389,251,82,Coupon Redemption,2025-01-17 04:00:00,159.64,Chicago
+390,495,69,In-Store Purchase,2025-01-17 05:00:00,385.55,Chicago
+391,371,69,Coupon Redemption,2025-01-17 06:00:00,241.22,San Francisco
+392,329,79,In-Store Purchase,2025-01-17 07:00:00,345.53,New York
+393,379,20,In-Store Purchase,2025-01-17 08:00:00,464.5,Chicago
+394,252,36,Coupon Redemption,2025-01-17 09:00:00,113.04,Online
+395,236,11,Coupon Redemption,2025-01-17 10:00:00,339.22,Online
+396,87,40,Coupon Redemption,2025-01-17 11:00:00,168.65,Houston
+397,376,11,Online Order,2025-01-17 12:00:00,104.03,New York
+398,408,66,Coupon Redemption,2025-01-17 13:00:00,204.16,Chicago
+399,181,27,Online Order,2025-01-17 14:00:00,94.17,San Francisco
+400,87,20,Online Order,2025-01-17 15:00:00,87.39,Online
+401,72,69,In-Store Purchase,2025-01-17 16:00:00,334.67,Houston
+402,369,42,In-Store Purchase,2025-01-17 17:00:00,169.58,Online
+403,280,51,Online Order,2025-01-17 18:00:00,263.07,Houston
+404,251,76,Online Order,2025-01-17 19:00:00,242.15,Chicago
+405,95,82,Online Order,2025-01-17 20:00:00,301.66,San Francisco
+406,470,98,Online Order,2025-01-17 21:00:00,214.29,Chicago
+407,456,84,In-Store Purchase,2025-01-17 22:00:00,365.97,Houston
+408,278,88,Coupon Redemption,2025-01-17 23:00:00,122.07,Houston
+409,329,83,Online Order,2025-01-18 00:00:00,138.8,Online
+410,491,9,Online Order,2025-01-18 01:00:00,467.82,Online
+411,31,40,In-Store Purchase,2025-01-18 02:00:00,418.88,New York
+412,269,90,In-Store Purchase,2025-01-18 03:00:00,191.69,New York
+413,18,56,Online Order,2025-01-18 04:00:00,160.05,Houston
+414,430,94,Coupon Redemption,2025-01-18 05:00:00,366.09,New York
+415,434,31,In-Store Purchase,2025-01-18 06:00:00,416.32,Houston
+416,39,8,In-Store Purchase,2025-01-18 07:00:00,164.52,San Francisco
+417,484,32,In-Store Purchase,2025-01-18 08:00:00,160.93,New York
+418,419,12,In-Store Purchase,2025-01-18 09:00:00,286.01,San Francisco
+419,343,56,Coupon Redemption,2025-01-18 10:00:00,383.72,Online
+420,25,15,In-Store Purchase,2025-01-18 11:00:00,12.78,New York
+421,392,59,In-Store Purchase,2025-01-18 12:00:00,470.59,San Francisco
+422,4,79,Online Order,2025-01-18 13:00:00,37.1,San Francisco
+423,212,78,Coupon Redemption,2025-01-18 14:00:00,210.31,Houston
+424,71,8,Online Order,2025-01-18 15:00:00,326.44,New York
+425,432,40,Online Order,2025-01-18 16:00:00,78.57,New York
+426,323,86,In-Store Purchase,2025-01-18 17:00:00,233.88,Houston
+427,119,95,Coupon Redemption,2025-01-18 18:00:00,144.36,Houston
+428,35,85,Online Order,2025-01-18 19:00:00,411.08,San Francisco
+429,363,95,In-Store Purchase,2025-01-18 20:00:00,109.08,Online
+430,78,23,Coupon Redemption,2025-01-18 21:00:00,334.41,Houston
+431,5,16,Online Order,2025-01-18 22:00:00,135.41,San Francisco
+432,112,2,Online Order,2025-01-18 23:00:00,417.95,Online
+433,259,91,Coupon Redemption,2025-01-19 00:00:00,21.6,Houston
+434,234,18,Coupon Redemption,2025-01-19 01:00:00,219.47,Houston
+435,192,90,Online Order,2025-01-19 02:00:00,197.38,New York
+436,31,2,Coupon Redemption,2025-01-19 03:00:00,283.45,Chicago
+437,317,21,Coupon Redemption,2025-01-19 04:00:00,372.12,New York
+438,327,64,Coupon Redemption,2025-01-19 05:00:00,400.76,Houston
+439,342,45,In-Store Purchase,2025-01-19 06:00:00,312.6,Chicago
+440,479,67,Coupon Redemption,2025-01-19 07:00:00,225.65,Chicago
+441,316,67,Coupon Redemption,2025-01-19 08:00:00,144.24,Online
+442,468,93,Online Order,2025-01-19 09:00:00,46.47,Chicago
+443,248,34,In-Store Purchase,2025-01-19 10:00:00,88.6,Online
+444,338,22,Coupon Redemption,2025-01-19 11:00:00,364.2,Chicago
+445,250,48,Online Order,2025-01-19 12:00:00,471.33,Online
+446,9,17,In-Store Purchase,2025-01-19 13:00:00,300.54,San Francisco
+447,4,96,Online Order,2025-01-19 14:00:00,476.5,San Francisco
+448,273,100,Online Order,2025-01-19 15:00:00,473.89,Chicago
+449,283,35,Online Order,2025-01-19 16:00:00,392.8,Online
+450,211,94,In-Store Purchase,2025-01-19 17:00:00,201.13,San Francisco
+451,7,16,In-Store Purchase,2025-01-19 18:00:00,480.27,Online
+452,9,99,Online Order,2025-01-19 19:00:00,356.18,Chicago
+453,272,4,In-Store Purchase,2025-01-19 20:00:00,132.42,Online
+454,370,43,In-Store Purchase,2025-01-19 21:00:00,493.6,Online
+455,141,55,Online Order,2025-01-19 22:00:00,297.2,Chicago
+456,275,35,In-Store Purchase,2025-01-19 23:00:00,39.07,Houston
+457,147,68,Coupon Redemption,2025-01-20 00:00:00,37.5,Houston
+458,9,9,Coupon Redemption,2025-01-20 01:00:00,177.92,San Francisco
+459,258,34,In-Store Purchase,2025-01-20 02:00:00,273.57,Chicago
+460,417,92,Coupon Redemption,2025-01-20 03:00:00,224.68,San Francisco
+461,358,74,Coupon Redemption,2025-01-20 04:00:00,149.28,San Francisco
+462,346,81,Online Order,2025-01-20 05:00:00,241.2,Online
+463,221,10,In-Store Purchase,2025-01-20 06:00:00,441.62,Houston
+464,413,64,Coupon Redemption,2025-01-20 07:00:00,46.25,New York
+465,482,59,Coupon Redemption,2025-01-20 08:00:00,488.82,Chicago
+466,466,66,Online Order,2025-01-20 09:00:00,368.9,Houston
+467,92,47,Coupon Redemption,2025-01-20 10:00:00,413.91,San Francisco
+468,55,8,In-Store Purchase,2025-01-20 11:00:00,438.24,San Francisco
+469,471,64,In-Store Purchase,2025-01-20 12:00:00,299.01,Houston
+470,50,73,Coupon Redemption,2025-01-20 13:00:00,291.3,New York
+471,269,22,Coupon Redemption,2025-01-20 14:00:00,285.3,New York
+472,77,48,Coupon Redemption,2025-01-20 15:00:00,224.75,Chicago
+473,124,21,Coupon Redemption,2025-01-20 16:00:00,170.64,San Francisco
+474,99,33,In-Store Purchase,2025-01-20 17:00:00,277.83,San Francisco
+475,318,99,Coupon Redemption,2025-01-20 18:00:00,333.74,New York
+476,270,14,Coupon Redemption,2025-01-20 19:00:00,282.77,Online
+477,130,74,Online Order,2025-01-20 20:00:00,410.48,Houston
+478,418,87,Coupon Redemption,2025-01-20 21:00:00,347.89,Chicago
+479,182,93,Coupon Redemption,2025-01-20 22:00:00,78.83,New York
+480,137,15,In-Store Purchase,2025-01-20 23:00:00,387.25,New York
+481,408,30,Online Order,2025-01-21 00:00:00,436.66,Online
+482,204,95,In-Store Purchase,2025-01-21 01:00:00,352.63,Houston
+483,41,66,In-Store Purchase,2025-01-21 02:00:00,372.14,Online
+484,192,1,Online Order,2025-01-21 03:00:00,479.03,San Francisco
+485,492,6,Coupon Redemption,2025-01-21 04:00:00,187.0,New York
+486,208,2,In-Store Purchase,2025-01-21 05:00:00,388.62,Chicago
+487,236,32,Online Order,2025-01-21 06:00:00,376.16,Online
+488,290,6,Coupon Redemption,2025-01-21 07:00:00,115.26,San Francisco
+489,125,61,Online Order,2025-01-21 08:00:00,167.42,Chicago
+490,357,47,Online Order,2025-01-21 09:00:00,121.56,New York
+491,116,50,Coupon Redemption,2025-01-21 10:00:00,187.48,San Francisco
+492,154,20,Coupon Redemption,2025-01-21 11:00:00,107.5,Chicago
+493,351,23,Online Order,2025-01-21 12:00:00,486.0,Chicago
+494,424,5,In-Store Purchase,2025-01-21 13:00:00,136.92,Houston
+495,435,71,Coupon Redemption,2025-01-21 14:00:00,305.77,Online
+496,42,92,Online Order,2025-01-21 15:00:00,467.01,Chicago
+497,335,95,Coupon Redemption,2025-01-21 16:00:00,78.73,Chicago
+498,440,84,Coupon Redemption,2025-01-21 17:00:00,324.7,Online
+499,333,54,In-Store Purchase,2025-01-21 18:00:00,219.39,Houston
+500,389,29,In-Store Purchase,2025-01-21 19:00:00,404.97,Chicago
+501,17,42,Coupon Redemption,2025-01-21 20:00:00,401.07,Online
+502,48,32,In-Store Purchase,2025-01-21 21:00:00,417.52,Online
+503,208,54,In-Store Purchase,2025-01-21 22:00:00,39.54,San Francisco
+504,195,93,Coupon Redemption,2025-01-21 23:00:00,494.93,New York
+505,194,41,Online Order,2025-01-22 00:00:00,193.0,Online
+506,283,35,Coupon Redemption,2025-01-22 01:00:00,287.2,San Francisco
+507,244,10,In-Store Purchase,2025-01-22 02:00:00,497.87,New York
+508,29,74,In-Store Purchase,2025-01-22 03:00:00,480.3,San Francisco
+509,327,48,Coupon Redemption,2025-01-22 04:00:00,437.81,Chicago
+510,5,16,In-Store Purchase,2025-01-22 05:00:00,170.26,San Francisco
+511,360,65,Online Order,2025-01-22 06:00:00,274.02,Chicago
+512,88,87,Coupon Redemption,2025-01-22 07:00:00,148.5,Online
+513,43,7,Coupon Redemption,2025-01-22 08:00:00,173.54,New York
+514,256,23,Coupon Redemption,2025-01-22 09:00:00,42.88,San Francisco
+515,433,29,Online Order,2025-01-22 10:00:00,47.02,Online
+516,223,67,Coupon Redemption,2025-01-22 11:00:00,55.15,Online
+517,331,6,In-Store Purchase,2025-01-22 12:00:00,283.56,Houston
+518,402,52,Online Order,2025-01-22 13:00:00,65.04,Chicago
+519,170,9,Online Order,2025-01-22 14:00:00,87.53,Online
+520,290,60,In-Store Purchase,2025-01-22 15:00:00,261.62,Online
+521,440,37,Coupon Redemption,2025-01-22 16:00:00,427.23,Online
+522,499,100,In-Store Purchase,2025-01-22 17:00:00,291.22,Chicago
+523,49,40,Coupon Redemption,2025-01-22 18:00:00,239.54,Online
+524,459,42,Coupon Redemption,2025-01-22 19:00:00,328.59,Houston
+525,271,12,Online Order,2025-01-22 20:00:00,103.53,San Francisco
+526,471,71,Online Order,2025-01-22 21:00:00,45.81,San Francisco
+527,22,59,In-Store Purchase,2025-01-22 22:00:00,345.14,New York
+528,118,2,Online Order,2025-01-22 23:00:00,410.7,San Francisco
+529,109,48,Coupon Redemption,2025-01-23 00:00:00,238.2,San Francisco
+530,462,26,Coupon Redemption,2025-01-23 01:00:00,445.78,New York
+531,445,38,Online Order,2025-01-23 02:00:00,497.23,Online
+532,355,73,In-Store Purchase,2025-01-23 03:00:00,84.58,San Francisco
+533,455,39,Coupon Redemption,2025-01-23 04:00:00,171.91,San Francisco
+534,291,95,Coupon Redemption,2025-01-23 05:00:00,99.02,San Francisco
+535,244,80,Online Order,2025-01-23 06:00:00,291.86,Houston
+536,139,32,Coupon Redemption,2025-01-23 07:00:00,232.48,New York
+537,24,60,In-Store Purchase,2025-01-23 08:00:00,392.75,Chicago
+538,474,48,Online Order,2025-01-23 09:00:00,372.33,New York
+539,39,76,Online Order,2025-01-23 10:00:00,474.77,New York
+540,351,64,Coupon Redemption,2025-01-23 11:00:00,445.8,San Francisco
+541,474,99,Online Order,2025-01-23 12:00:00,206.72,Online
+542,144,100,Online Order,2025-01-23 13:00:00,153.97,Houston
+543,461,26,Coupon Redemption,2025-01-23 14:00:00,315.61,Houston
+544,279,94,Online Order,2025-01-23 15:00:00,201.07,Houston
+545,289,70,In-Store Purchase,2025-01-23 16:00:00,14.18,Chicago
+546,337,98,In-Store Purchase,2025-01-23 17:00:00,167.97,Chicago
+547,17,32,Coupon Redemption,2025-01-23 18:00:00,83.74,Online
+548,92,20,Coupon Redemption,2025-01-23 19:00:00,429.23,New York
+549,476,1,Coupon Redemption,2025-01-23 20:00:00,296.34,San Francisco
+550,436,53,Online Order,2025-01-23 21:00:00,386.21,Online
+551,162,4,Coupon Redemption,2025-01-23 22:00:00,270.86,Houston
+552,9,30,Coupon Redemption,2025-01-23 23:00:00,330.27,Houston
+553,493,70,In-Store Purchase,2025-01-24 00:00:00,108.16,Houston
+554,107,45,Coupon Redemption,2025-01-24 01:00:00,412.55,Houston
+555,301,82,Online Order,2025-01-24 02:00:00,463.42,Chicago
+556,74,89,Coupon Redemption,2025-01-24 03:00:00,447.69,Chicago
+557,386,2,In-Store Purchase,2025-01-24 04:00:00,360.3,Online
+558,421,43,Online Order,2025-01-24 05:00:00,292.66,Chicago
+559,365,1,Coupon Redemption,2025-01-24 06:00:00,102.54,Online
+560,421,98,Coupon Redemption,2025-01-24 07:00:00,82.66,New York
+561,204,85,Online Order,2025-01-24 08:00:00,161.16,Online
+562,476,49,Coupon Redemption,2025-01-24 09:00:00,59.44,San Francisco
+563,40,95,Online Order,2025-01-24 10:00:00,271.38,San Francisco
+564,154,94,Online Order,2025-01-24 11:00:00,472.8,Chicago
+565,84,40,Coupon Redemption,2025-01-24 12:00:00,29.33,San Francisco
+566,289,14,Coupon Redemption,2025-01-24 13:00:00,72.39,Houston
+567,124,27,Online Order,2025-01-24 14:00:00,180.77,Online
+568,291,68,In-Store Purchase,2025-01-24 15:00:00,43.94,Houston
+569,428,31,Online Order,2025-01-24 16:00:00,436.57,Houston
+570,435,54,Online Order,2025-01-24 17:00:00,464.95,Chicago
+571,200,63,In-Store Purchase,2025-01-24 18:00:00,332.5,New York
+572,347,8,In-Store Purchase,2025-01-24 19:00:00,108.83,Online
+573,460,19,Online Order,2025-01-24 20:00:00,90.01,Houston
+574,277,92,Online Order,2025-01-24 21:00:00,495.59,Chicago
+575,170,36,In-Store Purchase,2025-01-24 22:00:00,124.16,San Francisco
+576,197,12,In-Store Purchase,2025-01-24 23:00:00,460.74,New York
+577,387,6,Online Order,2025-01-25 00:00:00,388.45,Chicago
+578,379,30,Coupon Redemption,2025-01-25 01:00:00,23.38,Houston
+579,72,67,Online Order,2025-01-25 02:00:00,440.04,Chicago
+580,405,53,In-Store Purchase,2025-01-25 03:00:00,472.75,Houston
+581,353,90,Online Order,2025-01-25 04:00:00,70.32,San Francisco
+582,371,48,In-Store Purchase,2025-01-25 05:00:00,474.53,Online
+583,41,59,In-Store Purchase,2025-01-25 06:00:00,22.46,Online
+584,257,96,Online Order,2025-01-25 07:00:00,435.09,San Francisco
+585,382,11,In-Store Purchase,2025-01-25 08:00:00,428.55,Houston
+586,499,75,In-Store Purchase,2025-01-25 09:00:00,112.21,Chicago
+587,178,13,Coupon Redemption,2025-01-25 10:00:00,34.12,San Francisco
+588,28,65,In-Store Purchase,2025-01-25 11:00:00,224.89,New York
+589,51,18,Online Order,2025-01-25 12:00:00,107.33,San Francisco
+590,224,82,In-Store Purchase,2025-01-25 13:00:00,387.78,Houston
+591,119,51,Coupon Redemption,2025-01-25 14:00:00,299.21,Chicago
+592,430,10,Coupon Redemption,2025-01-25 15:00:00,71.08,Online
+593,39,76,In-Store Purchase,2025-01-25 16:00:00,484.93,San Francisco
+594,175,73,Online Order,2025-01-25 17:00:00,258.28,New York
+595,310,8,Online Order,2025-01-25 18:00:00,293.37,Online
+596,394,56,Coupon Redemption,2025-01-25 19:00:00,263.08,Chicago
+597,315,85,In-Store Purchase,2025-01-25 20:00:00,89.81,Chicago
+598,489,17,In-Store Purchase,2025-01-25 21:00:00,112.72,New York
+599,305,31,Coupon Redemption,2025-01-25 22:00:00,470.94,Chicago
+600,204,38,In-Store Purchase,2025-01-25 23:00:00,372.91,Chicago
+601,497,34,Online Order,2025-01-26 00:00:00,185.61,Online
+602,397,41,Coupon Redemption,2025-01-26 01:00:00,497.73,New York
+603,168,51,In-Store Purchase,2025-01-26 02:00:00,213.41,Online
+604,16,90,In-Store Purchase,2025-01-26 03:00:00,113.06,Chicago
+605,325,95,Coupon Redemption,2025-01-26 04:00:00,54.49,New York
+606,140,42,Coupon Redemption,2025-01-26 05:00:00,258.39,Chicago
+607,402,41,In-Store Purchase,2025-01-26 06:00:00,244.21,Houston
+608,231,58,In-Store Purchase,2025-01-26 07:00:00,259.28,Houston
+609,252,35,Online Order,2025-01-26 08:00:00,473.0,New York
+610,117,30,Online Order,2025-01-26 09:00:00,17.91,Chicago
+611,183,10,Coupon Redemption,2025-01-26 10:00:00,196.21,Chicago
+612,284,26,In-Store Purchase,2025-01-26 11:00:00,215.81,New York
+613,482,18,Coupon Redemption,2025-01-26 12:00:00,481.17,Online
+614,193,100,Online Order,2025-01-26 13:00:00,59.03,New York
+615,222,99,In-Store Purchase,2025-01-26 14:00:00,186.59,Houston
+616,96,75,Coupon Redemption,2025-01-26 15:00:00,161.89,Online
+617,349,14,In-Store Purchase,2025-01-26 16:00:00,42.0,Houston
+618,300,20,In-Store Purchase,2025-01-26 17:00:00,473.51,Houston
+619,339,14,In-Store Purchase,2025-01-26 18:00:00,329.48,San Francisco
+620,195,22,In-Store Purchase,2025-01-26 19:00:00,122.39,Houston
+621,44,58,Online Order,2025-01-26 20:00:00,353.59,Online
+622,396,60,In-Store Purchase,2025-01-26 21:00:00,328.71,New York
+623,317,41,In-Store Purchase,2025-01-26 22:00:00,406.98,New York
+624,152,53,In-Store Purchase,2025-01-26 23:00:00,439.21,Chicago
+625,409,16,In-Store Purchase,2025-01-27 00:00:00,17.77,New York
+626,127,69,In-Store Purchase,2025-01-27 01:00:00,482.47,Online
+627,366,46,In-Store Purchase,2025-01-27 02:00:00,367.52,San Francisco
+628,38,99,In-Store Purchase,2025-01-27 03:00:00,449.69,San Francisco
+629,43,27,Online Order,2025-01-27 04:00:00,32.23,San Francisco
+630,138,58,In-Store Purchase,2025-01-27 05:00:00,425.23,New York
+631,79,40,Coupon Redemption,2025-01-27 06:00:00,96.91,Houston
+632,195,60,Online Order,2025-01-27 07:00:00,14.54,New York
+633,365,34,Online Order,2025-01-27 08:00:00,264.12,New York
+634,402,16,Coupon Redemption,2025-01-27 09:00:00,78.71,Houston
+635,325,12,Coupon Redemption,2025-01-27 10:00:00,240.21,New York
+636,79,21,Coupon Redemption,2025-01-27 11:00:00,29.11,Chicago
+637,379,88,Online Order,2025-01-27 12:00:00,302.14,New York
+638,200,39,Coupon Redemption,2025-01-27 13:00:00,112.81,Online
+639,163,91,Online Order,2025-01-27 14:00:00,372.53,Chicago
+640,185,90,Coupon Redemption,2025-01-27 15:00:00,153.61,San Francisco
+641,55,78,Online Order,2025-01-27 16:00:00,312.6,Online
+642,47,6,Online Order,2025-01-27 17:00:00,413.39,New York
+643,3,28,Online Order,2025-01-27 18:00:00,215.43,Chicago
+644,483,42,In-Store Purchase,2025-01-27 19:00:00,95.57,Chicago
+645,158,19,In-Store Purchase,2025-01-27 20:00:00,264.11,San Francisco
+646,228,12,Online Order,2025-01-27 21:00:00,84.18,Online
+647,185,92,In-Store Purchase,2025-01-27 22:00:00,406.61,Chicago
+648,390,32,In-Store Purchase,2025-01-27 23:00:00,337.65,Online
+649,139,46,Online Order,2025-01-28 00:00:00,188.88,New York
+650,53,51,In-Store Purchase,2025-01-28 01:00:00,463.23,Houston
+651,68,66,Coupon Redemption,2025-01-28 02:00:00,395.41,Houston
+652,45,7,In-Store Purchase,2025-01-28 03:00:00,24.69,New York
+653,96,87,Coupon Redemption,2025-01-28 04:00:00,110.0,New York
+654,221,39,In-Store Purchase,2025-01-28 05:00:00,207.79,San Francisco
+655,230,34,Coupon Redemption,2025-01-28 06:00:00,192.86,Online
+656,286,23,Online Order,2025-01-28 07:00:00,422.3,San Francisco
+657,285,4,Online Order,2025-01-28 08:00:00,314.74,Chicago
+658,263,52,In-Store Purchase,2025-01-28 09:00:00,23.95,New York
+659,209,58,In-Store Purchase,2025-01-28 10:00:00,22.66,San Francisco
+660,53,72,Online Order,2025-01-28 11:00:00,23.96,Houston
+661,14,96,In-Store Purchase,2025-01-28 12:00:00,240.55,New York
+662,46,71,Coupon Redemption,2025-01-28 13:00:00,370.13,Chicago
+663,182,32,Coupon Redemption,2025-01-28 14:00:00,80.73,Online
+664,284,13,Coupon Redemption,2025-01-28 15:00:00,209.75,San Francisco
+665,48,60,In-Store Purchase,2025-01-28 16:00:00,274.34,Online
+666,306,14,Online Order,2025-01-28 17:00:00,383.63,Houston
+667,307,18,Coupon Redemption,2025-01-28 18:00:00,364.04,San Francisco
+668,402,16,Online Order,2025-01-28 19:00:00,93.17,New York
+669,167,2,In-Store Purchase,2025-01-28 20:00:00,59.06,Chicago
+670,443,8,Online Order,2025-01-28 21:00:00,180.85,Chicago
+671,198,100,In-Store Purchase,2025-01-28 22:00:00,119.12,Online
+672,7,29,Coupon Redemption,2025-01-28 23:00:00,215.74,Chicago
+673,150,17,In-Store Purchase,2025-01-29 00:00:00,42.5,New York
+674,212,26,Coupon Redemption,2025-01-29 01:00:00,484.68,Chicago
+675,199,52,Online Order,2025-01-29 02:00:00,237.57,Houston
+676,399,48,Coupon Redemption,2025-01-29 03:00:00,213.39,Online
+677,44,88,In-Store Purchase,2025-01-29 04:00:00,450.09,New York
+678,372,81,Online Order,2025-01-29 05:00:00,225.8,Online
+679,462,83,Online Order,2025-01-29 06:00:00,429.89,Houston
+680,287,11,Coupon Redemption,2025-01-29 07:00:00,406.62,New York
+681,464,75,In-Store Purchase,2025-01-29 08:00:00,10.35,New York
+682,125,76,Online Order,2025-01-29 09:00:00,243.36,New York
+683,293,34,Online Order,2025-01-29 10:00:00,450.78,San Francisco
+684,267,10,Online Order,2025-01-29 11:00:00,135.86,New York
+685,87,3,Coupon Redemption,2025-01-29 12:00:00,168.21,San Francisco
+686,351,9,Online Order,2025-01-29 13:00:00,274.59,Chicago
+687,195,26,In-Store Purchase,2025-01-29 14:00:00,478.88,Online
+688,87,83,Online Order,2025-01-29 15:00:00,337.53,New York
+689,72,57,Coupon Redemption,2025-01-29 16:00:00,57.24,San Francisco
+690,138,17,Coupon Redemption,2025-01-29 17:00:00,251.47,New York
+691,155,12,In-Store Purchase,2025-01-29 18:00:00,417.23,San Francisco
+692,138,43,In-Store Purchase,2025-01-29 19:00:00,289.91,Chicago
+693,253,16,In-Store Purchase,2025-01-29 20:00:00,71.66,Houston
+694,75,6,Coupon Redemption,2025-01-29 21:00:00,262.22,New York
+695,33,60,Online Order,2025-01-29 22:00:00,404.67,San Francisco
+696,86,7,Coupon Redemption,2025-01-29 23:00:00,79.87,Chicago
+697,223,22,In-Store Purchase,2025-01-30 00:00:00,333.01,San Francisco
+698,142,74,In-Store Purchase,2025-01-30 01:00:00,374.16,San Francisco
+699,216,56,Online Order,2025-01-30 02:00:00,361.46,Chicago
+700,154,93,Online Order,2025-01-30 03:00:00,148.33,New York
+701,248,51,Online Order,2025-01-30 04:00:00,311.36,Houston
+702,401,64,Online Order,2025-01-30 05:00:00,132.39,Chicago
+703,40,4,Online Order,2025-01-30 06:00:00,132.83,San Francisco
+704,185,49,Coupon Redemption,2025-01-30 07:00:00,367.71,Chicago
+705,129,88,Online Order,2025-01-30 08:00:00,157.54,San Francisco
+706,484,55,Coupon Redemption,2025-01-30 09:00:00,358.13,Online
+707,127,23,Coupon Redemption,2025-01-30 10:00:00,236.45,Chicago
+708,370,46,Coupon Redemption,2025-01-30 11:00:00,299.48,Houston
+709,321,28,Coupon Redemption,2025-01-30 12:00:00,263.28,San Francisco
+710,254,24,Coupon Redemption,2025-01-30 13:00:00,493.95,San Francisco
+711,305,36,Coupon Redemption,2025-01-30 14:00:00,140.7,Chicago
+712,316,36,In-Store Purchase,2025-01-30 15:00:00,450.77,San Francisco
+713,101,58,Coupon Redemption,2025-01-30 16:00:00,170.69,San Francisco
+714,235,20,In-Store Purchase,2025-01-30 17:00:00,193.64,Chicago
+715,55,5,In-Store Purchase,2025-01-30 18:00:00,81.16,Chicago
+716,70,79,Coupon Redemption,2025-01-30 19:00:00,370.84,Houston
+717,156,80,Online Order,2025-01-30 20:00:00,426.87,Chicago
+718,4,79,Coupon Redemption,2025-01-30 21:00:00,376.49,New York
+719,486,32,Coupon Redemption,2025-01-30 22:00:00,401.89,Houston
+720,203,83,In-Store Purchase,2025-01-30 23:00:00,319.62,Chicago
+721,171,38,Coupon Redemption,2025-01-31 00:00:00,399.16,Online
+722,431,64,In-Store Purchase,2025-01-31 01:00:00,489.97,Chicago
+723,318,53,Online Order,2025-01-31 02:00:00,17.02,Chicago
+724,195,71,In-Store Purchase,2025-01-31 03:00:00,320.97,Online
+725,412,62,Online Order,2025-01-31 04:00:00,419.34,Houston
+726,442,8,In-Store Purchase,2025-01-31 05:00:00,126.54,San Francisco
+727,169,12,In-Store Purchase,2025-01-31 06:00:00,204.41,New York
+728,226,36,In-Store Purchase,2025-01-31 07:00:00,15.74,Online
+729,172,50,Online Order,2025-01-31 08:00:00,245.58,Houston
+730,221,18,Coupon Redemption,2025-01-31 09:00:00,430.26,San Francisco
+731,418,54,In-Store Purchase,2025-01-31 10:00:00,102.0,Online
+732,422,26,In-Store Purchase,2025-01-31 11:00:00,436.07,Online
+733,441,83,Coupon Redemption,2025-01-31 12:00:00,485.68,San Francisco
+734,334,68,Online Order,2025-01-31 13:00:00,208.77,Houston
+735,499,32,Coupon Redemption,2025-01-31 14:00:00,496.42,Chicago
+736,305,81,Coupon Redemption,2025-01-31 15:00:00,232.06,Chicago
+737,70,70,Coupon Redemption,2025-01-31 16:00:00,138.77,San Francisco
+738,154,3,In-Store Purchase,2025-01-31 17:00:00,225.53,Chicago
+739,165,49,Coupon Redemption,2025-01-31 18:00:00,375.03,Online
+740,309,92,Online Order,2025-01-31 19:00:00,331.18,Online
+741,486,46,Online Order,2025-01-31 20:00:00,262.1,Chicago
+742,356,62,In-Store Purchase,2025-01-31 21:00:00,175.3,New York
+743,103,70,Coupon Redemption,2025-01-31 22:00:00,498.38,Online
+744,246,63,Online Order,2025-01-31 23:00:00,101.3,San Francisco
+745,161,45,Online Order,2025-02-01 00:00:00,177.08,Chicago
+746,91,73,Online Order,2025-02-01 01:00:00,437.27,San Francisco
+747,494,65,In-Store Purchase,2025-02-01 02:00:00,388.28,Houston
+748,204,42,Online Order,2025-02-01 03:00:00,233.59,Chicago
+749,496,50,In-Store Purchase,2025-02-01 04:00:00,57.29,New York
+750,164,35,Online Order,2025-02-01 05:00:00,429.55,New York
+751,150,24,Coupon Redemption,2025-02-01 06:00:00,384.0,Online
+752,377,4,Coupon Redemption,2025-02-01 07:00:00,138.8,San Francisco
+753,356,41,Online Order,2025-02-01 08:00:00,393.16,Houston
+754,325,77,Coupon Redemption,2025-02-01 09:00:00,218.99,San Francisco
+755,252,29,In-Store Purchase,2025-02-01 10:00:00,22.45,Houston
+756,496,4,Coupon Redemption,2025-02-01 11:00:00,276.23,Online
+757,295,100,Coupon Redemption,2025-02-01 12:00:00,56.35,Chicago
+758,401,36,Coupon Redemption,2025-02-01 13:00:00,487.79,Chicago
+759,125,8,In-Store Purchase,2025-02-01 14:00:00,416.74,Online
+760,167,61,In-Store Purchase,2025-02-01 15:00:00,68.94,Houston
+761,193,68,In-Store Purchase,2025-02-01 16:00:00,359.22,Online
+762,144,46,In-Store Purchase,2025-02-01 17:00:00,71.89,New York
+763,419,99,Coupon Redemption,2025-02-01 18:00:00,180.34,Chicago
+764,403,75,Coupon Redemption,2025-02-01 19:00:00,231.76,New York
+765,202,30,Online Order,2025-02-01 20:00:00,281.12,Chicago
+766,187,21,Online Order,2025-02-01 21:00:00,470.38,New York
+767,59,13,In-Store Purchase,2025-02-01 22:00:00,483.48,San Francisco
+768,478,32,In-Store Purchase,2025-02-01 23:00:00,486.12,Houston
+769,289,85,Online Order,2025-02-02 00:00:00,99.48,Houston
+770,103,31,Online Order,2025-02-02 01:00:00,411.81,Chicago
+771,304,35,Coupon Redemption,2025-02-02 02:00:00,443.96,Chicago
+772,280,69,In-Store Purchase,2025-02-02 03:00:00,260.34,New York
+773,93,95,Coupon Redemption,2025-02-02 04:00:00,79.44,San Francisco
+774,350,8,In-Store Purchase,2025-02-02 05:00:00,343.48,Chicago
+775,394,98,Online Order,2025-02-02 06:00:00,390.2,Chicago
+776,282,29,Online Order,2025-02-02 07:00:00,107.35,San Francisco
+777,14,74,In-Store Purchase,2025-02-02 08:00:00,374.85,Houston
+778,488,50,In-Store Purchase,2025-02-02 09:00:00,267.53,Online
+779,373,46,Coupon Redemption,2025-02-02 10:00:00,392.17,San Francisco
+780,237,23,In-Store Purchase,2025-02-02 11:00:00,285.81,New York
+781,483,23,Coupon Redemption,2025-02-02 12:00:00,269.98,Houston
+782,363,31,Coupon Redemption,2025-02-02 13:00:00,33.03,Online
+783,108,76,Coupon Redemption,2025-02-02 14:00:00,271.25,Houston
+784,225,41,Online Order,2025-02-02 15:00:00,274.33,Online
+785,409,95,In-Store Purchase,2025-02-02 16:00:00,349.91,Online
+786,150,90,Online Order,2025-02-02 17:00:00,498.62,Houston
+787,426,46,In-Store Purchase,2025-02-02 18:00:00,91.71,Houston
+788,355,76,Coupon Redemption,2025-02-02 19:00:00,87.79,Houston
+789,36,4,Coupon Redemption,2025-02-02 20:00:00,343.39,San Francisco
+790,420,91,Online Order,2025-02-02 21:00:00,321.1,Chicago
+791,435,90,Coupon Redemption,2025-02-02 22:00:00,430.88,Chicago
+792,408,46,Online Order,2025-02-02 23:00:00,120.87,Online
+793,408,73,In-Store Purchase,2025-02-03 00:00:00,466.02,Chicago
+794,210,73,In-Store Purchase,2025-02-03 01:00:00,360.88,Houston
+795,345,19,Online Order,2025-02-03 02:00:00,275.0,Houston
+796,256,73,Coupon Redemption,2025-02-03 03:00:00,478.01,Chicago
+797,72,25,In-Store Purchase,2025-02-03 04:00:00,217.77,New York
+798,325,64,Online Order,2025-02-03 05:00:00,109.08,San Francisco
+799,156,70,In-Store Purchase,2025-02-03 06:00:00,33.97,Online
+800,124,40,Coupon Redemption,2025-02-03 07:00:00,484.88,New York
+801,130,23,Online Order,2025-02-03 08:00:00,206.43,Houston
+802,338,63,Online Order,2025-02-03 09:00:00,200.99,Houston
+803,79,5,In-Store Purchase,2025-02-03 10:00:00,265.66,Chicago
+804,367,12,Coupon Redemption,2025-02-03 11:00:00,216.42,Online
+805,217,8,In-Store Purchase,2025-02-03 12:00:00,243.51,Houston
+806,405,30,In-Store Purchase,2025-02-03 13:00:00,167.74,Online
+807,194,78,Coupon Redemption,2025-02-03 14:00:00,363.56,New York
+808,38,29,Online Order,2025-02-03 15:00:00,157.0,San Francisco
+809,230,3,In-Store Purchase,2025-02-03 16:00:00,46.69,Online
+810,307,68,Online Order,2025-02-03 17:00:00,357.09,San Francisco
+811,246,62,Coupon Redemption,2025-02-03 18:00:00,337.38,Chicago
+812,299,1,In-Store Purchase,2025-02-03 19:00:00,112.29,Online
+813,206,43,In-Store Purchase,2025-02-03 20:00:00,369.4,Online
+814,274,79,Coupon Redemption,2025-02-03 21:00:00,301.05,San Francisco
+815,260,26,Coupon Redemption,2025-02-03 22:00:00,42.74,Online
+816,473,17,Online Order,2025-02-03 23:00:00,380.03,San Francisco
+817,472,44,Coupon Redemption,2025-02-04 00:00:00,78.75,San Francisco
+818,446,92,Online Order,2025-02-04 01:00:00,245.66,Chicago
+819,355,23,In-Store Purchase,2025-02-04 02:00:00,88.52,New York
+820,215,42,In-Store Purchase,2025-02-04 03:00:00,486.33,New York
+821,279,8,In-Store Purchase,2025-02-04 04:00:00,488.46,Chicago
+822,19,3,In-Store Purchase,2025-02-04 05:00:00,489.39,San Francisco
+823,405,19,In-Store Purchase,2025-02-04 06:00:00,201.71,Chicago
+824,496,76,Coupon Redemption,2025-02-04 07:00:00,88.13,Houston
+825,185,91,In-Store Purchase,2025-02-04 08:00:00,215.31,Houston
+826,360,19,Online Order,2025-02-04 09:00:00,299.79,San Francisco
+827,459,100,Online Order,2025-02-04 10:00:00,131.8,Houston
+828,416,15,In-Store Purchase,2025-02-04 11:00:00,181.7,New York
+829,275,68,Online Order,2025-02-04 12:00:00,120.89,San Francisco
+830,305,47,Coupon Redemption,2025-02-04 13:00:00,475.03,San Francisco
+831,327,10,In-Store Purchase,2025-02-04 14:00:00,78.82,San Francisco
+832,469,48,Online Order,2025-02-04 15:00:00,206.71,Chicago
+833,44,91,Coupon Redemption,2025-02-04 16:00:00,365.73,Chicago
+834,56,85,Coupon Redemption,2025-02-04 17:00:00,297.11,New York
+835,394,51,Online Order,2025-02-04 18:00:00,339.44,San Francisco
+836,128,76,Coupon Redemption,2025-02-04 19:00:00,110.86,San Francisco
+837,337,13,Online Order,2025-02-04 20:00:00,79.78,San Francisco
+838,341,44,Online Order,2025-02-04 21:00:00,144.98,Houston
+839,182,39,Coupon Redemption,2025-02-04 22:00:00,170.46,New York
+840,86,42,In-Store Purchase,2025-02-04 23:00:00,322.01,San Francisco
+841,332,18,In-Store Purchase,2025-02-05 00:00:00,265.1,San Francisco
+842,314,21,Coupon Redemption,2025-02-05 01:00:00,266.88,Online
+843,23,94,In-Store Purchase,2025-02-05 02:00:00,388.11,Chicago
+844,289,56,In-Store Purchase,2025-02-05 03:00:00,303.24,New York
+845,331,82,In-Store Purchase,2025-02-05 04:00:00,123.77,Houston
+846,347,63,Coupon Redemption,2025-02-05 05:00:00,224.75,San Francisco
+847,332,84,Online Order,2025-02-05 06:00:00,412.9,Chicago
+848,205,41,Online Order,2025-02-05 07:00:00,275.22,New York
+849,496,23,In-Store Purchase,2025-02-05 08:00:00,308.92,Houston
+850,386,91,Online Order,2025-02-05 09:00:00,85.3,Online
+851,170,72,In-Store Purchase,2025-02-05 10:00:00,441.31,Houston
+852,495,89,In-Store Purchase,2025-02-05 11:00:00,379.58,San Francisco
+853,408,79,In-Store Purchase,2025-02-05 12:00:00,362.8,Houston
+854,221,46,Online Order,2025-02-05 13:00:00,438.87,Houston
+855,55,29,In-Store Purchase,2025-02-05 14:00:00,475.25,Houston
+856,6,86,In-Store Purchase,2025-02-05 15:00:00,30.08,San Francisco
+857,51,76,Online Order,2025-02-05 16:00:00,420.61,New York
+858,133,23,In-Store Purchase,2025-02-05 17:00:00,135.17,Houston
+859,114,49,Coupon Redemption,2025-02-05 18:00:00,317.18,San Francisco
+860,262,40,In-Store Purchase,2025-02-05 19:00:00,218.7,Chicago
+861,383,94,Online Order,2025-02-05 20:00:00,92.54,San Francisco
+862,266,89,In-Store Purchase,2025-02-05 21:00:00,357.78,Houston
+863,286,38,Online Order,2025-02-05 22:00:00,434.1,Chicago
+864,298,17,Coupon Redemption,2025-02-05 23:00:00,248.78,Chicago
+865,353,23,In-Store Purchase,2025-02-06 00:00:00,152.64,Houston
+866,295,94,In-Store Purchase,2025-02-06 01:00:00,266.19,Online
+867,114,1,In-Store Purchase,2025-02-06 02:00:00,53.4,Houston
+868,229,90,Coupon Redemption,2025-02-06 03:00:00,368.56,Online
+869,192,74,In-Store Purchase,2025-02-06 04:00:00,480.27,New York
+870,201,51,Online Order,2025-02-06 05:00:00,433.89,Chicago
+871,238,99,Coupon Redemption,2025-02-06 06:00:00,128.23,Houston
+872,396,73,Online Order,2025-02-06 07:00:00,426.48,Online
+873,348,5,In-Store Purchase,2025-02-06 08:00:00,252.32,New York
+874,302,24,Online Order,2025-02-06 09:00:00,353.78,San Francisco
+875,354,78,Coupon Redemption,2025-02-06 10:00:00,221.91,Online
+876,257,41,Coupon Redemption,2025-02-06 11:00:00,37.76,San Francisco
+877,78,79,Coupon Redemption,2025-02-06 12:00:00,61.54,San Francisco
+878,177,29,Coupon Redemption,2025-02-06 13:00:00,387.27,Chicago
+879,13,82,Coupon Redemption,2025-02-06 14:00:00,422.74,Chicago
+880,248,73,Coupon Redemption,2025-02-06 15:00:00,368.9,Chicago
+881,54,14,Coupon Redemption,2025-02-06 16:00:00,453.32,Online
+882,152,64,In-Store Purchase,2025-02-06 17:00:00,323.73,New York
+883,213,19,Coupon Redemption,2025-02-06 18:00:00,171.13,Online
+884,472,43,Coupon Redemption,2025-02-06 19:00:00,336.82,Online
+885,493,96,Online Order,2025-02-06 20:00:00,133.11,Houston
+886,44,10,Coupon Redemption,2025-02-06 21:00:00,184.76,New York
+887,60,31,Coupon Redemption,2025-02-06 22:00:00,16.33,San Francisco
+888,426,45,Coupon Redemption,2025-02-06 23:00:00,359.42,San Francisco
+889,482,41,Coupon Redemption,2025-02-07 00:00:00,247.92,Houston
+890,374,22,Online Order,2025-02-07 01:00:00,297.03,San Francisco
+891,73,82,Coupon Redemption,2025-02-07 02:00:00,118.48,New York
+892,179,12,Online Order,2025-02-07 03:00:00,222.55,San Francisco
+893,160,91,In-Store Purchase,2025-02-07 04:00:00,140.22,Chicago
+894,176,86,Online Order,2025-02-07 05:00:00,498.68,Houston
+895,234,82,Coupon Redemption,2025-02-07 06:00:00,414.87,New York
+896,402,94,Coupon Redemption,2025-02-07 07:00:00,249.05,Chicago
+897,106,43,Online Order,2025-02-07 08:00:00,307.25,Houston
+898,267,58,Online Order,2025-02-07 09:00:00,287.15,San Francisco
+899,248,2,In-Store Purchase,2025-02-07 10:00:00,307.25,Houston
+900,179,34,Online Order,2025-02-07 11:00:00,436.49,San Francisco
+901,244,27,In-Store Purchase,2025-02-07 12:00:00,337.1,Chicago
+902,50,32,Online Order,2025-02-07 13:00:00,30.63,Chicago
+903,225,89,Coupon Redemption,2025-02-07 14:00:00,62.82,Houston
+904,370,9,Online Order,2025-02-07 15:00:00,420.72,Houston
+905,357,45,Coupon Redemption,2025-02-07 16:00:00,324.91,New York
+906,232,33,Coupon Redemption,2025-02-07 17:00:00,58.3,Chicago
+907,164,14,Online Order,2025-02-07 18:00:00,56.51,Houston
+908,35,93,Coupon Redemption,2025-02-07 19:00:00,483.7,San Francisco
+909,154,1,Coupon Redemption,2025-02-07 20:00:00,126.92,San Francisco
+910,23,7,Online Order,2025-02-07 21:00:00,294.26,Houston
+911,415,50,Coupon Redemption,2025-02-07 22:00:00,357.56,Online
+912,364,57,Coupon Redemption,2025-02-07 23:00:00,305.86,New York
+913,59,94,Coupon Redemption,2025-02-08 00:00:00,409.49,Houston
+914,12,54,Online Order,2025-02-08 01:00:00,361.96,New York
+915,435,22,Coupon Redemption,2025-02-08 02:00:00,29.53,Chicago
+916,176,53,Coupon Redemption,2025-02-08 03:00:00,327.07,New York
+917,332,64,In-Store Purchase,2025-02-08 04:00:00,225.72,Houston
+918,56,49,Online Order,2025-02-08 05:00:00,235.76,New York
+919,347,45,Coupon Redemption,2025-02-08 06:00:00,433.07,San Francisco
+920,410,70,Coupon Redemption,2025-02-08 07:00:00,28.27,Chicago
+921,85,49,Coupon Redemption,2025-02-08 08:00:00,205.36,San Francisco
+922,477,13,Online Order,2025-02-08 09:00:00,404.56,Online
+923,380,62,Coupon Redemption,2025-02-08 10:00:00,374.75,Online
+924,125,74,In-Store Purchase,2025-02-08 11:00:00,221.58,Houston
+925,265,84,In-Store Purchase,2025-02-08 12:00:00,454.96,Houston
+926,90,98,Online Order,2025-02-08 13:00:00,115.86,New York
+927,283,88,Online Order,2025-02-08 14:00:00,98.56,Houston
+928,82,29,Coupon Redemption,2025-02-08 15:00:00,318.96,Houston
+929,170,21,In-Store Purchase,2025-02-08 16:00:00,171.19,Houston
+930,287,58,Coupon Redemption,2025-02-08 17:00:00,153.22,New York
+931,219,10,Online Order,2025-02-08 18:00:00,211.95,Chicago
+932,491,5,In-Store Purchase,2025-02-08 19:00:00,23.9,Houston
+933,237,38,Online Order,2025-02-08 20:00:00,233.75,Chicago
+934,119,3,Online Order,2025-02-08 21:00:00,446.56,New York
+935,409,41,Coupon Redemption,2025-02-08 22:00:00,185.71,Online
+936,208,34,In-Store Purchase,2025-02-08 23:00:00,344.68,Houston
+937,323,14,In-Store Purchase,2025-02-09 00:00:00,182.67,Online
+938,95,10,Online Order,2025-02-09 01:00:00,483.14,Chicago
+939,96,44,Online Order,2025-02-09 02:00:00,145.55,Houston
+940,328,22,Online Order,2025-02-09 03:00:00,394.02,Chicago
+941,337,49,Coupon Redemption,2025-02-09 04:00:00,169.01,Online
+942,222,21,In-Store Purchase,2025-02-09 05:00:00,352.56,Chicago
+943,203,94,Coupon Redemption,2025-02-09 06:00:00,321.06,New York
+944,15,10,Online Order,2025-02-09 07:00:00,386.62,San Francisco
+945,378,71,Coupon Redemption,2025-02-09 08:00:00,88.69,Houston
+946,315,12,Coupon Redemption,2025-02-09 09:00:00,283.65,Online
+947,453,44,Coupon Redemption,2025-02-09 10:00:00,433.11,Houston
+948,102,77,Coupon Redemption,2025-02-09 11:00:00,327.66,New York
+949,231,79,In-Store Purchase,2025-02-09 12:00:00,372.95,San Francisco
+950,304,62,Coupon Redemption,2025-02-09 13:00:00,379.13,New York
+951,220,91,Online Order,2025-02-09 14:00:00,392.67,Chicago
+952,200,4,Online Order,2025-02-09 15:00:00,94.31,Online
+953,3,56,Coupon Redemption,2025-02-09 16:00:00,254.92,Chicago
+954,361,84,Online Order,2025-02-09 17:00:00,53.55,San Francisco
+955,110,22,Coupon Redemption,2025-02-09 18:00:00,182.38,Online
+956,106,78,Online Order,2025-02-09 19:00:00,273.74,Online
+957,143,56,Coupon Redemption,2025-02-09 20:00:00,404.53,Houston
+958,386,21,Coupon Redemption,2025-02-09 21:00:00,483.29,Houston
+959,361,7,Coupon Redemption,2025-02-09 22:00:00,165.1,New York
+960,415,13,In-Store Purchase,2025-02-09 23:00:00,159.86,Houston
+961,408,43,Coupon Redemption,2025-02-10 00:00:00,457.94,Chicago
+962,33,27,Coupon Redemption,2025-02-10 01:00:00,54.31,New York
+963,296,25,In-Store Purchase,2025-02-10 02:00:00,208.97,New York
+964,53,53,Online Order,2025-02-10 03:00:00,314.68,Houston
+965,410,90,Online Order,2025-02-10 04:00:00,323.34,Houston
+966,447,71,In-Store Purchase,2025-02-10 05:00:00,380.72,Chicago
+967,275,93,Online Order,2025-02-10 06:00:00,109.05,New York
+968,96,94,In-Store Purchase,2025-02-10 07:00:00,429.43,Online
+969,188,70,Online Order,2025-02-10 08:00:00,247.87,Chicago
+970,167,34,Online Order,2025-02-10 09:00:00,175.13,Chicago
+971,101,85,In-Store Purchase,2025-02-10 10:00:00,224.51,Houston
+972,235,37,Coupon Redemption,2025-02-10 11:00:00,187.12,Chicago
+973,59,39,In-Store Purchase,2025-02-10 12:00:00,88.02,Chicago
+974,135,31,In-Store Purchase,2025-02-10 13:00:00,92.59,New York
+975,344,13,In-Store Purchase,2025-02-10 14:00:00,17.8,Online
+976,442,7,Online Order,2025-02-10 15:00:00,103.0,Chicago
+977,251,51,Coupon Redemption,2025-02-10 16:00:00,162.16,San Francisco
+978,271,74,Online Order,2025-02-10 17:00:00,258.0,Chicago
+979,495,71,Coupon Redemption,2025-02-10 18:00:00,324.73,Chicago
+980,328,63,Online Order,2025-02-10 19:00:00,155.14,Houston
+981,161,20,Online Order,2025-02-10 20:00:00,284.36,New York
+982,306,7,In-Store Purchase,2025-02-10 21:00:00,97.17,Houston
+983,199,47,In-Store Purchase,2025-02-10 22:00:00,313.05,Chicago
+984,313,1,Coupon Redemption,2025-02-10 23:00:00,47.21,Chicago
+985,201,55,Coupon Redemption,2025-02-11 00:00:00,55.75,New York
+986,301,12,Coupon Redemption,2025-02-11 01:00:00,358.72,Online
+987,59,38,Coupon Redemption,2025-02-11 02:00:00,458.2,New York
+988,179,85,In-Store Purchase,2025-02-11 03:00:00,334.96,Chicago
+989,181,81,In-Store Purchase,2025-02-11 04:00:00,427.58,New York
+990,433,77,Online Order,2025-02-11 05:00:00,81.43,Online
+991,235,62,Coupon Redemption,2025-02-11 06:00:00,176.68,Houston
+992,317,26,Online Order,2025-02-11 07:00:00,183.36,San Francisco
+993,89,13,In-Store Purchase,2025-02-11 08:00:00,75.19,San Francisco
+994,417,4,Coupon Redemption,2025-02-11 09:00:00,198.77,New York
+995,345,27,Online Order,2025-02-11 10:00:00,424.05,Online
+996,362,22,Online Order,2025-02-11 11:00:00,370.78,New York
+997,410,82,In-Store Purchase,2025-02-11 12:00:00,439.47,San Francisco
+998,153,38,Coupon Redemption,2025-02-11 13:00:00,401.26,San Francisco
+999,471,11,Online Order,2025-02-11 14:00:00,310.58,Houston
+1000,315,61,Online Order,2025-02-11 15:00:00,485.67,Houston
